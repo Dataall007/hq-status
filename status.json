@@ -1,6 +1,5 @@
 {
-  "last_updated": "2026-07-08T05:00:00Z",
-
+  "last_updated": "2026-07-08T11:09:07.893Z",
   "projects": {
     "docuai": {
       "status": "pending_review",
@@ -27,7 +26,6 @@
       "next_action": "Buy on Namecheap"
     }
   },
-
   "agents": {
     "bar": {
       "status": "active",
@@ -42,7 +40,6 @@
       "open_positions": 0
     }
   },
-
   "agent_runs": {
     "bar-blog": {
       "lastRun": "2026-07-06T05:00:00.000Z",
@@ -61,25 +58,74 @@
       "status": null,
       "lastAction": "טרם רץ — המחשב היה כבוי",
       "error": null
+    },
+    "test": {
+      "lastRun": "2026-07-08T11:09:07.893Z",
+      "status": "success",
+      "lastAction": "GitHub API token test",
+      "error": null
     }
   },
-
   "backlog": [
-    { "task": "CRM Audit — end-to-end test", "status": "in-progress", "priority": "P1", "notes": "CORS fixed, Render deployed" },
-    { "task": "Cloud cron — deploy routine to Render", "status": "planned", "priority": "P1", "notes": "Eliminates computer-off problem" },
-    { "task": "DocuAI — deploy V13 to Vercel", "status": "in-progress", "priority": "P1", "notes": "Pushed to GitHub, Vercel auto-deploy pending" },
-    { "task": "agent7d-site push to Netlify", "status": "planned", "priority": "P1", "notes": "So crm-audit tool is live at agent7d.com" },
-    { "task": "Homepage sections 3–6", "status": "planned", "priority": "P2", "notes": "Services, Vision, Blog, Footer" },
-    { "task": "CRM Audit — LemonSqueezy test checkout", "status": "planned", "priority": "P2", "notes": "After end-to-end test passes" }
+    {
+      "task": "CRM Audit — end-to-end test",
+      "status": "in-progress",
+      "priority": "P1",
+      "notes": "CORS fixed, Render deployed"
+    },
+    {
+      "task": "Cloud cron — deploy routine to Render",
+      "status": "planned",
+      "priority": "P1",
+      "notes": "Eliminates computer-off problem"
+    },
+    {
+      "task": "DocuAI — deploy V13 to Vercel",
+      "status": "in-progress",
+      "priority": "P1",
+      "notes": "Pushed to GitHub, Vercel auto-deploy pending"
+    },
+    {
+      "task": "agent7d-site push to Netlify",
+      "status": "planned",
+      "priority": "P1",
+      "notes": "So crm-audit tool is live at agent7d.com"
+    },
+    {
+      "task": "Homepage sections 3–6",
+      "status": "planned",
+      "priority": "P2",
+      "notes": "Services, Vision, Blog, Footer"
+    },
+    {
+      "task": "CRM Audit — LemonSqueezy test checkout",
+      "status": "planned",
+      "priority": "P2",
+      "notes": "After end-to-end test passes"
+    }
   ],
-
   "waiting_on": [
-    { "item": "Monday Marketplace Review", "since": "2026-07-07", "eta": "2-4 weeks" },
-    { "item": "Payoneer approval", "since": "2026-07-08", "eta": "3-5 days" },
-    { "item": "Wise USD account", "since": "2026-07-07", "eta": "1-2 days" },
-    { "item": "LemonSqueezy Review", "since": "2026-07-08", "eta": "Unknown" }
+    {
+      "item": "Monday Marketplace Review",
+      "since": "2026-07-07",
+      "eta": "2-4 weeks"
+    },
+    {
+      "item": "Payoneer approval",
+      "since": "2026-07-08",
+      "eta": "3-5 days"
+    },
+    {
+      "item": "Wise USD account",
+      "since": "2026-07-07",
+      "eta": "1-2 days"
+    },
+    {
+      "item": "LemonSqueezy Review",
+      "since": "2026-07-08",
+      "eta": "Unknown"
+    }
   ],
-
   "focus_today": [
     "Complete agent7d.com homepage",
     "CRM Audit — finish LemonSqueezy integration",
