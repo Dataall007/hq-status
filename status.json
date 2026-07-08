@@ -1,48 +1,106 @@
 {
-  "last_updated": "2026-07-08T05:00:00Z",
-
+  "last_updated": "2026-07-08T18:00:00.000Z",
   "projects": {
     "docuai": {
       "status": "pending_review",
-      "label": "DocuAI — Marketplace",
-      "note": "Submitted. Awaiting Monday review team.",
-      "next_action": "Respond to Mohammad if needed"
+      "label": "DocuAI — monday.com Marketplace",
+      "note": "Submitted July 7. Awaiting Monday review team (Mohammad). App live at monday-docugen.vercel.app.",
+      "next_action": "Respond to Mohammad if needed. Recruit first 5 reviews from network.",
+      "reviewer": "mohammadmu@monday.com",
+      "review_board": "marketplaceapps.monday.com/boards/18420652419",
+      "app_url": "https://monday-docugen.vercel.app",
+      "pending": [
+        "Monday review (2-4 weeks)",
+        "Payoneer approval (3-5 days) — account opened",
+        "Monetization API — implement AFTER approval",
+        "First 5 reviews — recruiting from network"
+      ]
     },
     "crm_audit": {
       "status": "in_progress",
       "label": "CRM Audit Tool $299",
-      "note": "Backend live on Render. LemonSqueezy pending end-to-end test.",
-      "next_action": "Complete payment flow + test checkout"
+      "note": "Backend Phase 1 complete. Frontend pages live on agent7d.com/tools/crm-audit/. LemonSqueezy in review.",
+      "next_action": "Wait for LemonSqueezy approval → complete webhook flow → end-to-end test → deploy to Render",
+      "url": "agent7d.com/tools/crm-audit",
+      "completed": [
+        "server.js + all routes (crm.js, audit.js, pdf.js, payment.js)",
+        "Supabase table DDL",
+        "Frontend: index.html + audit.html + report.html",
+        "/health endpoint verified",
+        "CORS fix pushed"
+      ],
+      "pending": [
+        "LemonSqueezy approval (in review, ETA unknown)",
+        "Complete payment webhook flow",
+        "End-to-end test with real Monday API key",
+        "Deploy backend to Render.com"
+      ],
+      "projection": "$1,500-$3,000/month passive revenue"
     },
     "agent7d_homepage": {
       "status": "in_progress",
       "label": "agent7d.com Homepage",
-      "note": "Sections 1-2 built. Sections 3-6 pending.",
-      "next_action": "Build Services, Vision, Blog, Footer sections"
+      "note": "Sections 1-2 live. Hero: 'The Future Belongs to AI-Powered Businesses'. Sections 3-6 pending.",
+      "next_action": "Build sections 3 (Services), 4 (Vision), 5 (Blog teaser), 6 (Footer)",
+      "sections_done": ["Hero", "Products & Tools"],
+      "sections_pending": ["Services (bClarity)", "Vision 2026-2031", "Blog teaser", "Footer"]
+    },
+    "hq_dashboard": {
+      "status": "live",
+      "label": "HQ Dashboard — agent7d.com/hq/",
+      "note": "Live at agent7d.com/hq/ (URL obscurity). Cloudflare Zero Trust access pending propagation.",
+      "next_action": "After Cloudflare propagation: configure Zero Trust /hq/* with Google auth"
     },
     "bclarity_domain": {
       "status": "pending",
       "label": "bclarity.ai domain",
-      "note": "Not purchased yet",
-      "next_action": "Buy on Namecheap"
+      "note": "Not purchased yet. agent7d.com is primary hub for now.",
+      "next_action": "Buy on Namecheap when ready to rebrand"
     }
   },
-
   "agents": {
     "bar": {
       "status": "active",
+      "role": "CMO",
+      "responsibilities": [
+        "LinkedIn personal brand (Alon's profile)",
+        "Blog content: 1 post/week (Tuesday 08:00)",
+        "DocuAI marketing",
+        "Marketplace user tracking + review recruitment",
+        "Weekly Friday 12:00 LinkedIn proposal email"
+      ],
+      "linkedin_progress": {
+        "posts_published": 3,
+        "posts_ready": 3,
+        "about_section": "updated",
+        "note": "Tone being refined — needs tighter hooks"
+      },
+      "blog_progress": {
+        "posts_published": 2,
+        "posts_in_queue": 1,
+        "calendar_planned": 8,
+        "focus": "monday.com SEO"
+      },
       "last_action": "Blog post published: how-to-generate-proposals-from-monday-com-in-15-seconds",
-      "next_scheduled": "Daily 08:00 — blog post | Friday 12:00 — LinkedIn proposal",
-      "queue": 3
+      "next_scheduled": "Tuesday 08:00 — 3rd blog post | Friday 12:00 — LinkedIn proposal"
     },
     "noa": {
       "status": "active",
-      "last_action": "Team roster updated",
-      "next_scheduled": "Thursday 07:00 — Weekly report",
-      "open_positions": 0
+      "role": "HR Agent",
+      "responsibilities": [
+        "Recruit AI agents for bClarity operations",
+        "Manage existing agents (Bar + future)",
+        "Weekly performance reports (Thursday 07:00)",
+        "Onboard new agents"
+      ],
+      "team_roster": {
+        "bar": "Active",
+        "next_recruit": "TBD — Strategy / Market / Sales Agent"
+      },
+      "open_positions": 1,
+      "next_scheduled": "Thursday 07:00 — Weekly report"
     }
   },
-
   "agent_runs": {
     "bar-blog": {
       "lastRun": "2026-07-06T05:00:00.000Z",
@@ -61,28 +119,131 @@
       "status": null,
       "lastAction": "טרם רץ — המחשב היה כבוי",
       "error": null
+    },
+    "test": {
+      "lastRun": "2026-07-08T11:09:07.893Z",
+      "status": "success",
+      "lastAction": "GitHub API token test",
+      "error": null
     }
   },
-
+  "open_decisions": [
+    {
+      "question": "Which agent does Noa recruit next?",
+      "options": [
+        "Strategy Agent — ROI analysis, opportunity scoring, competitive research",
+        "Market Agent — US stock signals, daily digest, ticker analysis",
+        "Sales Agent — proposal drafts, CRM updates, follow-up sequences"
+      ],
+      "leaning": "Strategy Agent (highest impact on consulting)"
+    },
+    {
+      "question": "Bar 3rd blog post — publish now or review first?",
+      "options": ["Publish now", "Review first"],
+      "leaning": "Pending decision"
+    }
+  ],
   "backlog": [
-    { "task": "CRM Audit — end-to-end test", "status": "in-progress", "priority": "P1", "notes": "CORS fixed, Render deployed" },
-    { "task": "Cloud cron — deploy routine to Render", "status": "planned", "priority": "P1", "notes": "Eliminates computer-off problem" },
-    { "task": "DocuAI — deploy V13 to Vercel", "status": "in-progress", "priority": "P1", "notes": "Pushed to GitHub, Vercel auto-deploy pending" },
-    { "task": "agent7d-site push to Netlify", "status": "planned", "priority": "P1", "notes": "So crm-audit tool is live at agent7d.com" },
-    { "task": "Homepage sections 3–6", "status": "planned", "priority": "P2", "notes": "Services, Vision, Blog, Footer" },
-    { "task": "CRM Audit — LemonSqueezy test checkout", "status": "planned", "priority": "P2", "notes": "After end-to-end test passes" }
+    {
+      "task": "Homepage sections 3-6",
+      "status": "in-progress",
+      "priority": "P1",
+      "notes": "Services, Vision, Blog teaser, Footer"
+    },
+    {
+      "task": "CRM Audit — end-to-end test",
+      "status": "blocked",
+      "priority": "P1",
+      "notes": "Blocked on LemonSqueezy approval"
+    },
+    {
+      "task": "CRM Audit — deploy backend to Render.com",
+      "status": "planned",
+      "priority": "P1",
+      "notes": "After webhook flow complete"
+    },
+    {
+      "task": "Cloudflare Zero Trust — configure /hq/* access",
+      "status": "blocked",
+      "priority": "P1",
+      "notes": "Blocked on DNS propagation (started July 8, up to 24h)"
+    },
+    {
+      "task": "DocuAI — first 5 reviews from network",
+      "status": "in-progress",
+      "priority": "P1",
+      "notes": "Recruiting from network, in progress"
+    },
+    {
+      "task": "Noa — recruit next agent",
+      "status": "planned",
+      "priority": "P1",
+      "notes": "Decision needed: Strategy / Market / Sales Agent"
+    },
+    {
+      "task": "Bar — publish 3rd blog post",
+      "status": "planned",
+      "priority": "P2",
+      "notes": "Post queued, needs approval to publish"
+    },
+    {
+      "task": "DocuAI — Monetization API (plan detection)",
+      "status": "planned",
+      "priority": "P2",
+      "notes": "Implement AFTER Monday approval"
+    },
+    {
+      "task": "DocuAI — Connect Payoneer to Developer Center",
+      "status": "blocked",
+      "priority": "P2",
+      "notes": "Blocked on Payoneer approval (3-5 days from July 8)"
+    },
+    {
+      "task": "LinkedIn — launch announcement post after Monday approval",
+      "status": "planned",
+      "priority": "P2",
+      "notes": "After approval"
+    },
+    {
+      "task": "bclarity.ai domain purchase",
+      "status": "planned",
+      "priority": "P3",
+      "notes": "Namecheap, when ready to rebrand"
+    }
   ],
-
   "waiting_on": [
-    { "item": "Monday Marketplace Review", "since": "2026-07-07", "eta": "2-4 weeks" },
-    { "item": "Payoneer approval", "since": "2026-07-08", "eta": "3-5 days" },
-    { "item": "Wise USD account", "since": "2026-07-07", "eta": "1-2 days" },
-    { "item": "LemonSqueezy Review", "since": "2026-07-08", "eta": "Unknown" }
+    {
+      "item": "Monday Marketplace Review",
+      "since": "2026-07-07",
+      "eta": "2-4 weeks",
+      "contact": "mohammadmu@monday.com"
+    },
+    {
+      "item": "Payoneer approval",
+      "since": "2026-07-08",
+      "eta": "3-5 days"
+    },
+    {
+      "item": "LemonSqueezy Review",
+      "since": "2026-07-08",
+      "eta": "Unknown"
+    },
+    {
+      "item": "Cloudflare DNS propagation",
+      "since": "2026-07-08",
+      "eta": "Up to 24h"
+    }
   ],
-
+  "revenue_channels": {
+    "bclarity_consulting": { "status": "active", "monthly": "₪8K-18K/client", "clients": "1-2" },
+    "docuai_saas": { "status": "pending_approval", "monthly": "$0 → soon" },
+    "crm_audit": { "status": "building", "monthly": "$0 → $1.5K-3K target" },
+    "blog_affiliate": { "status": "starting", "monthly": "$0" },
+    "trading": { "status": "active", "monthly": "personal only" }
+  },
   "focus_today": [
-    "Complete agent7d.com homepage",
-    "CRM Audit — finish LemonSqueezy integration",
-    "Update LinkedIn About section"
+    "Homepage sections 3-6",
+    "Decide: which agent does Noa recruit next?",
+    "CRM Audit — review webhook flow readiness"
   ]
 }
