@@ -1,0 +1,88 @@
+{
+  "last_updated": "2026-07-08T05:00:00Z",
+
+  "projects": {
+    "docuai": {
+      "status": "pending_review",
+      "label": "DocuAI — Marketplace",
+      "note": "Submitted. Awaiting Monday review team.",
+      "next_action": "Respond to Mohammad if needed"
+    },
+    "crm_audit": {
+      "status": "in_progress",
+      "label": "CRM Audit Tool $299",
+      "note": "Backend live on Render. LemonSqueezy pending end-to-end test.",
+      "next_action": "Complete payment flow + test checkout"
+    },
+    "agent7d_homepage": {
+      "status": "in_progress",
+      "label": "agent7d.com Homepage",
+      "note": "Sections 1-2 built. Sections 3-6 pending.",
+      "next_action": "Build Services, Vision, Blog, Footer sections"
+    },
+    "bclarity_domain": {
+      "status": "pending",
+      "label": "bclarity.ai domain",
+      "note": "Not purchased yet",
+      "next_action": "Buy on Namecheap"
+    }
+  },
+
+  "agents": {
+    "bar": {
+      "status": "active",
+      "last_action": "Blog post published: how-to-generate-proposals-from-monday-com-in-15-seconds",
+      "next_scheduled": "Daily 08:00 — blog post | Friday 12:00 — LinkedIn proposal",
+      "queue": 3
+    },
+    "noa": {
+      "status": "active",
+      "last_action": "Team roster updated",
+      "next_scheduled": "Thursday 07:00 — Weekly report",
+      "open_positions": 0
+    }
+  },
+
+  "agent_runs": {
+    "bar-blog": {
+      "lastRun": "2026-07-06T05:00:00.000Z",
+      "status": "success",
+      "lastAction": "blog post published: how-to-generate-proposals-from-monday-com-in-15-seconds",
+      "error": null
+    },
+    "bar-linkedin": {
+      "lastRun": null,
+      "status": null,
+      "lastAction": "טרם רץ",
+      "error": null
+    },
+    "routine-email": {
+      "lastRun": null,
+      "status": null,
+      "lastAction": "טרם רץ — המחשב היה כבוי",
+      "error": null
+    }
+  },
+
+  "backlog": [
+    { "task": "CRM Audit — end-to-end test", "status": "in-progress", "priority": "P1", "notes": "CORS fixed, Render deployed" },
+    { "task": "Cloud cron — deploy routine to Render", "status": "planned", "priority": "P1", "notes": "Eliminates computer-off problem" },
+    { "task": "DocuAI — deploy V13 to Vercel", "status": "in-progress", "priority": "P1", "notes": "Pushed to GitHub, Vercel auto-deploy pending" },
+    { "task": "agent7d-site push to Netlify", "status": "planned", "priority": "P1", "notes": "So crm-audit tool is live at agent7d.com" },
+    { "task": "Homepage sections 3–6", "status": "planned", "priority": "P2", "notes": "Services, Vision, Blog, Footer" },
+    { "task": "CRM Audit — LemonSqueezy test checkout", "status": "planned", "priority": "P2", "notes": "After end-to-end test passes" }
+  ],
+
+  "waiting_on": [
+    { "item": "Monday Marketplace Review", "since": "2026-07-07", "eta": "2-4 weeks" },
+    { "item": "Payoneer approval", "since": "2026-07-08", "eta": "3-5 days" },
+    { "item": "Wise USD account", "since": "2026-07-07", "eta": "1-2 days" },
+    { "item": "LemonSqueezy Review", "since": "2026-07-08", "eta": "Unknown" }
+  ],
+
+  "focus_today": [
+    "Complete agent7d.com homepage",
+    "CRM Audit — finish LemonSqueezy integration",
+    "Update LinkedIn About section"
+  ]
+}
