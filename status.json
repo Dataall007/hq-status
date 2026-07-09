@@ -245,5 +245,167 @@
     "Homepage sections 3-6",
     "Decide: which agent does Noa recruit next?",
     "CRM Audit — review webhook flow readiness"
-  ]
+  ],
+  "tools": {
+    "render": {
+      "label": "Render.com",
+      "emoji": "⚙️",
+      "status": "active",
+      "type": "Backend / Worker",
+      "cost_monthly": "$7",
+      "usage": "bclarity-routine (Background Worker)",
+      "url": "https://dashboard.render.com",
+      "notes": "Hosts routine.js cron. crm-audit-api planned.",
+      "control": {
+        "type": "auto",
+        "workflow_url": "https://n8n.upscl.net/workflow/CXDL91fGo5pzuGVP",
+        "description": "Health monitor — polls every 10 min, auto-restart on failure"
+      },
+      "issue": null
+    },
+    "netlify": {
+      "label": "Netlify",
+      "emoji": "🌐",
+      "status": "active",
+      "type": "Static Hosting",
+      "cost_monthly": "$0",
+      "usage": "agent7d.com (agent7d-site repo, auto-deploy from master)",
+      "url": "https://app.netlify.com",
+      "notes": "Homepage, blog, CRM Audit frontend, DocuAI pages",
+      "control": {
+        "type": "manual",
+        "workflow_url": null,
+        "description": "בדיקה ידנית — Deploys tab ב-Netlify"
+      },
+      "issue": null
+    },
+    "vercel": {
+      "label": "Vercel",
+      "emoji": "▲",
+      "status": "active",
+      "type": "App Hosting",
+      "cost_monthly": "$0",
+      "usage": "DocuAI — monday-docugen.vercel.app",
+      "url": "https://vercel.com",
+      "notes": "Auto-deploy מ-GitHub. Pending: Monday Marketplace approval.",
+      "control": {
+        "type": "manual",
+        "workflow_url": null,
+        "description": "בדיקה ידנית — Vercel dashboard"
+      },
+      "issue": null
+    },
+    "n8n": {
+      "label": "n8n",
+      "emoji": "🔀",
+      "status": "active",
+      "type": "Automation",
+      "cost_monthly": "~$10",
+      "usage": "n8n.upscl.net — Render monitor workflow",
+      "url": "https://n8n.upscl.net",
+      "notes": "Self-hosted. Render health polling workflow active.",
+      "control": {
+        "type": "manual",
+        "workflow_url": null,
+        "description": "בדיקה ידנית — n8n dashboard"
+      },
+      "issue": null
+    },
+    "supabase": {
+      "label": "Supabase",
+      "emoji": "🗄️",
+      "status": "active",
+      "type": "Database",
+      "cost_monthly": "$0",
+      "usage": "crm_audits table — CRM Audit Tool",
+      "url": "https://supabase.com/dashboard",
+      "notes": "Free tier. Table exists, pending first real audit.",
+      "control": {
+        "type": "manual",
+        "workflow_url": null,
+        "description": "בדיקה ידנית — Supabase dashboard"
+      },
+      "issue": null
+    },
+    "resend": {
+      "label": "Resend",
+      "emoji": "📧",
+      "status": "active",
+      "type": "Transactional Email",
+      "cost_monthly": "$0",
+      "usage": "support@agent7d.com — daily emails, blog notifications",
+      "url": "https://resend.com",
+      "notes": "Free tier (3,000 emails/month). Cloudflare DNS pending.",
+      "control": {
+        "type": "manual",
+        "workflow_url": null,
+        "description": "בדיקה ידנית — Resend dashboard"
+      },
+      "issue": null
+    },
+    "github": {
+      "label": "GitHub",
+      "emoji": "🐙",
+      "status": "active",
+      "type": "Version Control",
+      "cost_monthly": "$0",
+      "usage": "hq (private), agent7d-site, hq-status (public)",
+      "url": "https://github.com/Dataall007",
+      "notes": "Auto-deploy to Netlify + Vercel. hq-status = status feed.",
+      "control": {
+        "type": "manual",
+        "workflow_url": null,
+        "description": "בדיקה ידנית — GitHub repos"
+      },
+      "issue": null
+    },
+    "lemonsqueezy": {
+      "label": "LemonSqueezy",
+      "emoji": "🍋",
+      "status": "inactive",
+      "type": "Payments",
+      "cost_monthly": "$0 + 5% per transaction",
+      "usage": "CRM Audit $299 product — in review",
+      "url": "https://app.lemonsqueezy.com",
+      "notes": "Account in review (since July 8). No active transactions yet.",
+      "control": {
+        "type": "manual",
+        "workflow_url": null,
+        "description": "בדיקה ידנית — LemonSqueezy dashboard"
+      },
+      "issue": "Account under review — ETA unknown"
+    },
+    "monday": {
+      "label": "Monday.com",
+      "emoji": "📅",
+      "status": "active",
+      "type": "CRM + Marketplace",
+      "cost_monthly": "~$30",
+      "usage": "DocuAI app pending review. CRM Audit integration planned.",
+      "url": "https://monday.com",
+      "notes": "Marketplace review in progress (Mohammad). Payoneer pending.",
+      "control": {
+        "type": "manual",
+        "workflow_url": null,
+        "description": "בדיקה ידנית — marketplaceapps.monday.com"
+      },
+      "issue": "Awaiting marketplace approval (2-4 weeks)"
+    },
+    "cloudflare": {
+      "label": "Cloudflare",
+      "emoji": "🌩️",
+      "status": "active",
+      "type": "DNS / Security",
+      "cost_monthly": "$0",
+      "usage": "agent7d.com DNS. Zero Trust /hq/* planned.",
+      "url": "https://dash.cloudflare.com",
+      "notes": "Nameservers propagating (since July 8). Zero Trust setup pending.",
+      "control": {
+        "type": "manual",
+        "workflow_url": null,
+        "description": "בדיקה ידנית — Cloudflare dashboard"
+      },
+      "issue": "DNS propagation in progress"
+    }
+  }
 }
