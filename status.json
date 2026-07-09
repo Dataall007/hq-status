@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-08T18:00:00.000Z",
+  "last_updated": "2026-07-09T02:00:00.419Z",
   "projects": {
     "docuai": {
       "status": "pending_review",
@@ -42,8 +42,16 @@
       "label": "agent7d.com Homepage",
       "note": "Sections 1-2 live. Hero: 'The Future Belongs to AI-Powered Businesses'. Sections 3-6 pending.",
       "next_action": "Build sections 3 (Services), 4 (Vision), 5 (Blog teaser), 6 (Footer)",
-      "sections_done": ["Hero", "Products & Tools"],
-      "sections_pending": ["Services (bClarity)", "Vision 2026-2031", "Blog teaser", "Footer"]
+      "sections_done": [
+        "Hero",
+        "Products & Tools"
+      ],
+      "sections_pending": [
+        "Services (bClarity)",
+        "Vision 2026-2031",
+        "Blog teaser",
+        "Footer"
+      ]
     },
     "hq_dashboard": {
       "status": "live",
@@ -115,9 +123,9 @@
       "error": null
     },
     "routine-email": {
-      "lastRun": null,
-      "status": null,
-      "lastAction": "טרם רץ — המחשב היה כבוי",
+      "lastRun": "2026-07-09T02:00:00.419Z",
+      "status": "success",
+      "lastAction": "daily email sent — ☀️ בוקר טוב — יום חמישי, 9 ביולי 2026 | סיכום שבועי",
       "error": null
     },
     "test": {
@@ -139,7 +147,10 @@
     },
     {
       "question": "Bar 3rd blog post — publish now or review first?",
-      "options": ["Publish now", "Review first"],
+      "options": [
+        "Publish now",
+        "Review first"
+      ],
       "leaning": "Pending decision"
     }
   ],
@@ -235,11 +246,27 @@
     }
   ],
   "revenue_channels": {
-    "bclarity_consulting": { "status": "active", "monthly": "₪8K-18K/client", "clients": "1-2" },
-    "docuai_saas": { "status": "pending_approval", "monthly": "$0 → soon" },
-    "crm_audit": { "status": "building", "monthly": "$0 → $1.5K-3K target" },
-    "blog_affiliate": { "status": "starting", "monthly": "$0" },
-    "trading": { "status": "active", "monthly": "personal only" }
+    "bclarity_consulting": {
+      "status": "active",
+      "monthly": "₪8K-18K/client",
+      "clients": "1-2"
+    },
+    "docuai_saas": {
+      "status": "pending_approval",
+      "monthly": "$0 → soon"
+    },
+    "crm_audit": {
+      "status": "building",
+      "monthly": "$0 → $1.5K-3K target"
+    },
+    "blog_affiliate": {
+      "status": "starting",
+      "monthly": "$0"
+    },
+    "trading": {
+      "status": "active",
+      "monthly": "personal only"
+    }
   },
   "focus_today": [
     "Homepage sections 3-6",
