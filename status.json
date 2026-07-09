@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-09T05:00:28.442Z",
+  "last_updated": "2026-07-09T10:10:56.327Z",
   "projects": {
     "docuai": {
       "status": "pending_review",
@@ -133,6 +133,12 @@
       "status": "success",
       "lastAction": "GitHub API token test",
       "error": null
+    },
+    "bclarity-routine": {
+      "lastRun": "2026-07-09T10:10:56.327Z",
+      "status": "error",
+      "lastAction": "Deploy failed on Render — status: update_failed. Auto-restart triggered.",
+      "error": "Render deploy status: update_failed"
     }
   },
   "open_decisions": [
