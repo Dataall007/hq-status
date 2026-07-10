@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-10T04:54:42.529Z",
+  "last_updated": "2026-07-10T05:00:25.696Z",
   "projects": {
     "docuai": {
       "status": "pending_review",
@@ -89,7 +89,7 @@
         "calendar_planned": 8,
         "focus": "monday.com SEO"
       },
-      "last_action": "Blog post published: how-to-generate-proposals-from-monday-com-in-15-seconds",
+      "last_action": "blog published: how-bar-ilan-university-manages-1-000-students-with-monday-c",
       "next_scheduled": "Tuesday 08:00 — 3rd blog post | Friday 12:00 — LinkedIn proposal"
     },
     "noa": {
@@ -111,9 +111,9 @@
   },
   "agent_runs": {
     "bar-blog": {
-      "lastRun": "2026-07-09T05:00:28.442Z",
+      "lastRun": "2026-07-10T05:00:25.696Z",
       "status": "success",
-      "lastAction": "blog published: 5-documents-every-sales-team-should-automate-in-monday",
+      "lastAction": "blog published: how-bar-ilan-university-manages-1-000-students-with-monday-c",
       "error": null
     },
     "bar-linkedin": {
