@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-10T01:54:42.273Z",
+  "last_updated": "2026-07-10T02:00:00.671Z",
   "projects": {
     "docuai": {
       "status": "pending_review",
@@ -123,9 +123,9 @@
       "error": null
     },
     "routine-email": {
-      "lastRun": "2026-07-09T02:00:00.419Z",
+      "lastRun": "2026-07-10T02:00:00.671Z",
       "status": "success",
-      "lastAction": "daily email sent — ☀️ בוקר טוב — יום חמישי, 9 ביולי 2026 | סיכום שבועי",
+      "lastAction": "daily email sent — ☀️ בוקר טוב — יום שישי, 10 ביולי 2026",
       "error": null
     },
     "test": {
@@ -388,7 +388,7 @@
       "control": {
         "type": "manual",
         "workflow_url": null,
-        "description": "בדיקה ידנית — GitHub repos"
+        "description": "בדיקה ��דנית — GitHub repos"
       },
       "issue": null
     },
