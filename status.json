@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-11T04:54:42.826Z",
+  "last_updated": "2026-07-11T05:00:25.609Z",
   "projects": {
     "docuai": {
       "status": "pending_review",
@@ -89,7 +89,7 @@
         "calendar_planned": 8,
         "focus": "monday.com SEO"
       },
-      "last_action": "linkedin proposal: Proof | 10 ביולי 2026",
+      "last_action": "blog: Meeting summaries in monday — why manual is killing your deals",
       "next_scheduled": "Tuesday 08:00 — 3rd blog post | Friday 12:00 — LinkedIn proposal"
     },
     "noa": {
@@ -111,10 +111,10 @@
   },
   "agent_runs": {
     "bar-blog": {
-      "lastRun": "2026-07-10T05:00:25.696Z",
-      "status": "success",
-      "lastAction": "blog published: how-bar-ilan-university-manages-1-000-students-with-monday-c",
-      "error": null
+      "lastRun": "2026-07-11T05:00:25.609Z",
+      "status": "error",
+      "lastAction": "blog: Meeting summaries in monday — why manual is killing your deals",
+      "error": "The agent7d.com domain is not verified. Please, add and verify your domain on https://resend.com/domains"
     },
     "bar-linkedin": {
       "lastRun": "2026-07-10T09:00:33.708Z",
