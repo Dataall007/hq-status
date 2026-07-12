@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-12T02:00:00.188Z",
+  "last_updated": "2026-07-12T02:00:01.730Z",
   "projects": {
     "docuai": {
       "status": "pending_review",
@@ -123,10 +123,10 @@
       "error": null
     },
     "routine-email": {
-      "lastRun": "2026-07-09T10:38:30.252Z",
-      "status": "success",
-      "lastAction": "daily email sent — ☀️ בוקר טוב — יום חמישי, 9 ביולי 2026 | סיכום שבועי",
-      "error": null
+      "lastRun": "2026-07-12T02:00:01.730Z",
+      "status": "error",
+      "lastAction": "daily email failed",
+      "error": "[object Object]"
     },
     "test": {
       "lastRun": "2026-07-08T11:09:07.893Z",
@@ -441,5 +441,5 @@
       "issue": "DNS propagation in progress"
     }
   },
-  "routine_email_last_sent": "2026-07-12"
+  "routine_email_last_sent": "2026-07-11"
 }
