@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-12T04:54:42.452Z",
+  "last_updated": "2026-07-12T05:00:28.014Z",
   "projects": {
     "docuai": {
       "status": "pending_review",
@@ -89,7 +89,7 @@
         "calendar_planned": 8,
         "focus": "monday.com SEO"
       },
-      "last_action": "Blog post published: how-to-generate-proposals-from-monday-com-in-15-seconds",
+      "last_action": "blog: How Bar-Ilan University manages 1,000 students with monday CRM",
       "next_scheduled": "Tuesday 08:00 — 3rd blog post | Friday 12:00 — LinkedIn proposal"
     },
     "noa": {
@@ -111,10 +111,10 @@
   },
   "agent_runs": {
     "bar-blog": {
-      "lastRun": "2026-07-09T05:00:28.442Z",
-      "status": "success",
-      "lastAction": "blog published: 5-documents-every-sales-team-should-automate-in-monday",
-      "error": null
+      "lastRun": "2026-07-12T05:00:28.014Z",
+      "status": "error",
+      "lastAction": "blog: How Bar-Ilan University manages 1,000 students with monday CRM",
+      "error": "The agent7d.com domain is not verified. Please, add and verify your domain on https://resend.com/domains"
     },
     "bar-linkedin": {
       "lastRun": null,
