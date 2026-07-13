@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-13T01:54:42.396Z",
+  "last_updated": "2026-07-13T02:00:00.299Z",
   "projects": {
     "docuai": {
       "status": "pending_review",
@@ -388,7 +388,7 @@
       "control": {
         "type": "manual",
         "workflow_url": null,
-        "description": "בדיקה ��דנית — GitHub repos"
+        "description": "��דיקה ��דנית — GitHub repos"
       },
       "issue": null
     },
@@ -441,5 +441,5 @@
       "issue": "DNS propagation in progress"
     }
   },
-  "routine_email_last_sent": "2026-07-11"
+  "routine_email_last_sent": "2026-07-13"
 }
