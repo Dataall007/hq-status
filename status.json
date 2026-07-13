@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-13T02:00:00.299Z",
+  "last_updated": "2026-07-13T02:00:01.887Z",
   "projects": {
     "docuai": {
       "status": "pending_review",
@@ -123,7 +123,7 @@
       "error": null
     },
     "routine-email": {
-      "lastRun": "2026-07-12T02:00:01.730Z",
+      "lastRun": "2026-07-13T02:00:01.887Z",
       "status": "error",
       "lastAction": "daily email failed",
       "error": "[object Object]"
@@ -441,5 +441,5 @@
       "issue": "DNS propagation in progress"
     }
   },
-  "routine_email_last_sent": "2026-07-13"
+  "routine_email_last_sent": "2026-07-11"
 }
