@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-13T04:54:43.579Z",
+  "last_updated": "2026-07-13T05:00:28.370Z",
   "projects": {
     "docuai": {
       "status": "pending_review",
@@ -89,7 +89,7 @@
         "calendar_planned": 8,
         "focus": "monday.com SEO"
       },
-      "last_action": "blog: How Bar-Ilan University manages 1,000 students with monday CRM",
+      "last_action": "blog: Meeting summaries in monday — why manual is killing your deals",
       "next_scheduled": "Tuesday 08:00 — 3rd blog post | Friday 12:00 — LinkedIn proposal"
     },
     "noa": {
@@ -111,9 +111,9 @@
   },
   "agent_runs": {
     "bar-blog": {
-      "lastRun": "2026-07-12T05:00:28.014Z",
+      "lastRun": "2026-07-13T05:00:28.370Z",
       "status": "error",
-      "lastAction": "blog: How Bar-Ilan University manages 1,000 students with monday CRM",
+      "lastAction": "blog: Meeting summaries in monday — why manual is killing your deals",
       "error": "The agent7d.com domain is not verified. Please, add and verify your domain on https://resend.com/domains"
     },
     "bar-linkedin": {
@@ -388,7 +388,7 @@
       "control": {
         "type": "manual",
         "workflow_url": null,
-        "description": "��דיקה ��דנית — GitHub repos"
+        "description": "����דיקה ��דנית — GitHub repos"
       },
       "issue": null
     },
