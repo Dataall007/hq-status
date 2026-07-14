@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-14T10:00:40.559Z",
+  "last_updated": "2026-07-14T10:03:20.053Z",
   "projects": {
     "docuai": {
       "status": "pending_review",
@@ -441,5 +441,41 @@
       "issue": "DNS propagation in progress"
     }
   },
-  "routine_email_last_sent": "2026-07-14"
+  "routine_email_last_sent": "2026-07-14",
+  "roadmap": {
+    "now": [
+      {
+        "title": "בר — LinkedIn (שבועי) + בלוג (יומי)",
+        "note": "רץ בקוד, נבדק"
+      },
+      {
+        "title": "תכנון תוכן שבועי לבלוג",
+        "note": "חדש — יום ראשון 07:00"
+      }
+    ],
+    "next": [
+      {
+        "title": "תיקון Netlify",
+        "note": "דיפלוי נתקע — לבדוק billing/build minutes"
+      },
+      {
+        "title": "נועה — הפעלה בפועל",
+        "note": "כרגע רק system-prompt, אין קוד רץ"
+      }
+    ],
+    "later": [
+      {
+        "title": "LinkedIn — פרסום אוטומטי אמיתי (OAuth)",
+        "note": "client ID/secret קיימים, לא בשימוש"
+      },
+      {
+        "title": "Facebook / Instagram",
+        "note": "מייל מיועד: social@agent7d.com"
+      },
+      {
+        "title": "market-agent / strategy-agent",
+        "note": "stubs — לא מאוישים"
+      }
+    ]
+  }
 }
