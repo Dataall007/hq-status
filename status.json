@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-14T13:00:40.566Z",
+  "last_updated": "2026-07-14T13:04:04.845Z",
   "projects": {
     "docuai": {
       "status": "pending_review",
@@ -90,7 +90,30 @@
         "focus": "monday.com SEO"
       },
       "last_action": "blog: AI vs templates: which generates better proposals?",
-      "next_scheduled": "Tuesday 08:00 — 3rd blog post | Friday 12:00 — LinkedIn proposal"
+      "next_scheduled": "Tuesday 08:00 — 3rd blog post | Friday 12:00 — LinkedIn proposal",
+      "tasks": [
+        {
+          "name": "LinkedIn — הצעת פוסט",
+          "cadence": "כל שישי 12:00",
+          "source": "linkedin-context.md + system-prompt.md",
+          "output": "מייל להצעה",
+          "approval": "ידני — קישור אישור בכתובת /api/linkedin/approve"
+        },
+        {
+          "name": "בלוג — פרסום יומי",
+          "cadence": "כל יום 08:00",
+          "source": "תור שבועי (Claude) → blog-calendar.md כ-fallback",
+          "output": "agent7d.com/blog (git push + אימות שהתפרסם בפועל)",
+          "approval": "אין — פרסום אוטומטי ישיר"
+        },
+        {
+          "name": "תכנון תוכן שבועי",
+          "cadence": "יום ראשון 07:00",
+          "source": "Claude + posts.json (מניעת חזרות)",
+          "output": "מייל טבלת נושאים + תור לפרסום היומי",
+          "approval": "שקיפות בלבד — לא חוסם את הפרסום"
+        }
+      ]
     },
     "noa": {
       "status": "active",
