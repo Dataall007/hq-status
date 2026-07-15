@@ -19,23 +19,26 @@
     "crm_audit": {
       "status": "in_progress",
       "label": "CRM Audit Tool $299",
-      "note": "Backend Phase 1 complete. Frontend pages live on agent7d.com/tools/crm-audit/. LemonSqueezy in review.",
-      "next_action": "Wait for LemonSqueezy approval → complete webhook flow → end-to-end test → deploy to Render",
+      "note": "FREE FLOW LIVE end-to-end (Monday→audit→report) on agent7d.com + Render. Fixed GET /audit/:id + Supabase persistence (misnamed Render env vars; sb_secret key bypasses RLS). LemonSqueezy APPROVED. Remaining: payment webhook end-to-end test.",
+      "next_action": "Set/confirm LS_VARIANT_ID on Render = c8ee4e0e-68ea-4461-a58d-d9a3262f9d81 (live value builds 1199895 — mismatch), then test webhook → paid → full PDF → Resend email",
       "url": "agent7d.com/tools/crm-audit",
       "completed": [
         "server.js + all routes (crm.js, audit.js, pdf.js, payment.js)",
-        "Supabase table DDL",
-        "Frontend: index.html + audit.html + report.html",
-        "/health endpoint verified",
-        "CORS fix pushed"
+        "Backend DEPLOYED + live on Render (crm-audit-api.onrender.com)",
+        "Supabase persistence working (crm_audits table, real audits saved)",
+        "GET /api/audit/:id returns full preview → report.html renders fully",
+        "config.js — shared Supabase env resolution (sb_secret key, bypasses RLS)",
+        "Free flow verified end-to-end: Monday pull (25 boards) → audit → report, local + production",
+        "LemonSqueezy account APPROVED (product 1219561, $299 variant)"
       ],
       "pending": [
-        "LemonSqueezy approval (in review, ETA unknown)",
-        "Complete payment webhook flow",
-        "End-to-end test with real Monday API key",
-        "Deploy backend to Render.com"
+        "Confirm LS_VARIANT_ID on Render matches approved checkout (c8ee4e0e-…)",
+        "Payment webhook end-to-end: checkout → order_created → paid=true → full PDF → email",
+        "Verify Resend delivery email + Puppeteer /api/pdf/full render"
       ],
-      "projection": "$1,500-$3,000/month passive revenue"
+      "projection": "$1,500-$3,000/month passive revenue",
+      "lemonsqueezy_checkout": "https://agent7d.lemonsqueezy.com/checkout/buy/c8ee4e0e-68ea-4461-a58d-d9a3262f9d81",
+      "lemonsqueezy_product": "https://app.lemonsqueezy.com/products/1219561"
     },
     "agent7d_homepage": {
       "status": "in_progress",
@@ -191,16 +194,22 @@
       "notes": "Services, Vision, Blog teaser, Footer"
     },
     {
-      "task": "CRM Audit — end-to-end test",
-      "status": "blocked",
+      "task": "CRM Audit — free flow end-to-end (Monday→audit→report)",
+      "status": "done",
       "priority": "P1",
-      "notes": "Blocked on LemonSqueezy approval"
+      "notes": "LIVE + verified local & production. Fixed GET + Supabase persistence."
     },
     {
       "task": "CRM Audit — deploy backend to Render.com",
-      "status": "planned",
+      "status": "done",
       "priority": "P1",
-      "notes": "After webhook flow complete"
+      "notes": "Live at crm-audit-api.onrender.com"
+    },
+    {
+      "task": "CRM Audit — payment flow end-to-end (LemonSqueezy webhook → paid → PDF → email)",
+      "status": "in-progress",
+      "priority": "P1",
+      "notes": "LemonSqueezy APPROVED. First set Render LS_VARIANT_ID = c8ee4e0e-… (live=1199895 mismatch), then test webhook → PDF → Resend email."
     },
     {
       "task": "Cloudflare Zero Trust — configure /hq/* access",
@@ -264,11 +273,6 @@
       "eta": "3-5 days"
     },
     {
-      "item": "LemonSqueezy Review",
-      "since": "2026-07-08",
-      "eta": "Unknown"
-    },
-    {
       "item": "Cloudflare DNS propagation",
       "since": "2026-07-08",
       "eta": "Up to 24h"
@@ -285,7 +289,7 @@
       "monthly": "$0 → soon"
     },
     "crm_audit": {
-      "status": "building",
+      "status": "free flow live, monetization next",
       "monthly": "$0 → $1.5K-3K target"
     },
     "blog_affiliate": {
@@ -298,9 +302,9 @@
     }
   },
   "focus_today": [
+    "CRM Audit — payment flow: set LS_VARIANT_ID on Render + test webhook → PDF → email",
     "Homepage sections 3-6",
-    "Decide: which agent does Noa recruit next?",
-    "CRM Audit — review webhook flow readiness"
+    "Decide: which agent does Noa recruit next?"
   ],
   "tools": {
     "render": {
@@ -374,8 +378,8 @@
       "type": "Database",
       "cost_monthly": "$0",
       "usage": "crm_audits table — CRM Audit Tool",
-      "url": "https://supabase.com/dashboard",
-      "notes": "Free tier. Table exists, pending first real audit.",
+      "url": "https://supabase.com/dashboard/project/rqwgybkoaeidogtbdjjw",
+      "notes": "Free tier. Live — real audits saving (project rqwgybkoaeidogtbdjjw). Server uses sb_secret key (bypasses RLS).",
       "control": {
         "type": "manual",
         "workflow_url": null,
@@ -418,18 +422,19 @@
     "lemonsqueezy": {
       "label": "LemonSqueezy",
       "emoji": "🍋",
-      "status": "inactive",
+      "status": "active",
       "type": "Payments",
       "cost_monthly": "$0 + 5% per transaction",
-      "usage": "CRM Audit $299 product — in review",
-      "url": "https://app.lemonsqueezy.com",
-      "notes": "Account in review (since July 8). No active transactions yet.",
+      "usage": "CRM Audit $299 product (1219561) — APPROVED, checkout live",
+      "url": "https://app.lemonsqueezy.com/products/1219561",
+      "notes": "APPROVED July 2026. Checkout live. TODO: set Render LS_VARIANT_ID = c8ee4e0e-68ea-4461-a58d-d9a3262f9d81 (live builds 1199895); webhook flow not yet tested end-to-end.",
       "control": {
         "type": "manual",
         "workflow_url": null,
         "description": "בדיקה ידנית — LemonSqueezy dashboard"
       },
-      "issue": "Account under review — ETA unknown"
+      "issue": null,
+      "checkout_url": "https://agent7d.lemonsqueezy.com/checkout/buy/c8ee4e0e-68ea-4461-a58d-d9a3262f9d81"
     },
     "monday": {
       "label": "Monday.com",
