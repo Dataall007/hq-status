@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-15T05:00:27.374Z",
+  "last_updated": "2026-07-15T05:00:28.684Z",
   "projects": {
     "docuai": {
       "status": "pending_review",
@@ -84,12 +84,12 @@
         "note": "Tone being refined — needs tighter hooks"
       },
       "blog_progress": {
-        "posts_published": 5,
+        "posts_published": 2,
         "posts_in_queue": 1,
         "calendar_planned": 8,
         "focus": "monday.com SEO"
       },
-      "last_action": "blog: AI vs templates: which generates better proposals?",
+      "last_action": "blog: The monday.com documents checklist: 6 docs every deal needs — נדחף אך לא אומת באוויר (בדוק Netlify)",
       "next_scheduled": "Tuesday 08:00 — 3rd blog post | Friday 12:00 — LinkedIn proposal",
       "tasks": [
         {
@@ -134,10 +134,10 @@
   },
   "agent_runs": {
     "bar-blog": {
-      "lastRun": "2026-07-14T05:00:26.871Z",
+      "lastRun": "2026-07-15T05:00:28.684Z",
       "status": "error",
-      "lastAction": "blog: AI vs templates: which generates better proposals?",
-      "error": "The agent7d.com domain is not verified. Please, add and verify your domain on https://resend.com/domains"
+      "lastAction": "blog: The monday.com documents checklist: 6 docs every deal needs — נדחף אך לא אומת באוויר (בדוק Netlify)",
+      "error": "post not found on live posts.json"
     },
     "bar-linkedin": {
       "lastRun": null,
