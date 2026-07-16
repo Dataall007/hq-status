@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-16T04:54:42.393Z",
+  "last_updated": "2026-07-16T05:00:26.180Z",
   "projects": {
     "docuai": {
       "status": "pending_review",
@@ -92,7 +92,7 @@
         "calendar_planned": 8,
         "focus": "monday.com SEO"
       },
-      "last_action": "blog: The monday.com documents checklist: 6 docs every deal needs — נדחף אך לא אומת באוויר (בדוק Netlify)",
+      "last_action": "blog: How to onboard new clients faster with monday automation — git push נכשל",
       "next_scheduled": "Tuesday 08:00 — 3rd blog post | Friday 12:00 — LinkedIn proposal",
       "tasks": [
         {
@@ -137,10 +137,10 @@
   },
   "agent_runs": {
     "bar-blog": {
-      "lastRun": "2026-07-15T05:00:28.684Z",
+      "lastRun": "2026-07-16T05:00:26.180Z",
       "status": "error",
-      "lastAction": "blog: The monday.com documents checklist: 6 docs every deal needs — נדחף אך לא אומת באוויר (בדוק Netlify)",
-      "error": "post not found on live posts.json"
+      "lastAction": "blog: How to onboard new clients faster with monday automation — git push נכשל",
+      "error": "git push failed"
     },
     "bar-linkedin": {
       "lastRun": null,
