@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-17T09:00:29.230Z",
+  "last_updated": "2026-07-17T09:00:30.613Z",
   "projects": {
     "docuai": {
       "status": "pending_review",
@@ -92,7 +92,7 @@
         "calendar_planned": 8,
         "focus": "monday.com SEO"
       },
-      "last_action": "blog: How to onboard new clients faster with monday automation — git push נכשל",
+      "last_action": "linkedin proposal: Proof | 17 ביולי 2026",
       "next_scheduled": "Tuesday 08:00 — 3rd blog post | Friday 12:00 — LinkedIn proposal",
       "tasks": [
         {
@@ -143,9 +143,9 @@
       "error": "git push failed"
     },
     "bar-linkedin": {
-      "lastRun": null,
-      "status": null,
-      "lastAction": "טרם רץ",
+      "lastRun": "2026-07-17T09:00:30.613Z",
+      "status": "success",
+      "lastAction": "linkedin proposal: Proof | 17 ביולי 2026",
       "error": null
     },
     "routine-email": {
@@ -505,17 +505,5 @@
         "note": "stubs — לא מאוישים"
       }
     ]
-  },
-  "linkedin_pending": {
-    "2026-07-17-proof": {
-      "slug": "2026-07-17-proof",
-      "date": "17 ביולי 2026",
-      "pillar": "Proof",
-      "hook": "הם שילמו על 1,000 סטודנטים. לא ידעו כמה מהם באמת הגיעו לשיעור.",
-      "body": "מחלקת החינוך המתמשך של אחת האוניברסיטאות המובילות בישראל ניהלה תהליך רישום שלם — ידנית.\n\nלידים מגיעים מ-6 מקורות שונים.\nכל אחד נרשם אחרת.\nתשלומים בנפרד.\nCRM לא מעודכן.\nואף אחד לא ידע בזמן אמת כמה אנשים בפועל מגיעים לכיתה.\n\nזה לא רשלנות — זה מה שקורה כשצמיחה רצה קדימה לפני שהתשתית מוכנה.\n\nמה עשינו ב-bClarity:\n\n✦ חיברנו את כל מקורות הלידים לCRM אחד\n✦ אוטומציה מלאה מרגע הרישום ועד לתשלום\n✦ דאשבורד שמראה KPIs בזמן אמת — כמה נרשמו, כמה שילמו, כמה הגיעו\n\nהתוצאה?\n\nפגישות שהתקיימו בפועל — פי 3.\nראשיות האגף ראו לראשונה תמונה מלאה של הפעילות.\n\nלא מדובר ב-AI במובן ה\"טרנדי\" — מדובר בסדר, חיבור, ובינה שמייצרת החלטות טובות יותר.\n\nזה ה-Deploy בתוך ה-bClarity 5D שלנו.\nורוב הארגונים שאנחנו פוגשים — תקועים בדיוק באותה נקודה.",
-      "cta": "אם גם אצלכם הנתונים מפוזרים ואין לכם תמונה אחת ברורה — בואו נדבר.",
-      "approveToken": "0d45b4c69858137fa37f4eb323603405",
-      "status": "pending"
-    }
   }
 }
