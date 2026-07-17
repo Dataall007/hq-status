@@ -19,22 +19,24 @@
     "crm_audit": {
       "status": "in_progress",
       "label": "CRM Audit Tool $299",
-      "note": "FREE FLOW LIVE end-to-end (Monday→audit→report) on agent7d.com + Render. Fixed GET /audit/:id + Supabase persistence (misnamed Render env vars; sb_secret key bypasses RLS). LemonSqueezy APPROVED. Remaining: payment webhook end-to-end test.",
-      "next_action": "Set/confirm LS_VARIANT_ID on Render = c8ee4e0e-68ea-4461-a58d-d9a3262f9d81 (live value builds 1199895 — mismatch), then test webhook → paid → full PDF → Resend email",
+      "note": "PAYMENT FLOW LIVE & verified end-to-end (webhook→paid→full PDF→email). Free flow also live. Fixed 5 bugs this session (Puppeteer/Chromium, checkout 422, webhook raw-body/signature, non-ASCII PDF filename, report download button). LS_VARIANT_ID = buy-UUID c8ee4e0e-… (not numeric).",
+      "next_action": "Final confirmation with a real purchase (test-mode card 4242, or live+refund). Optional: keep-warm ping for Render cold starts.",
       "url": "agent7d.com/tools/crm-audit",
       "completed": [
         "server.js + all routes (crm.js, audit.js, pdf.js, payment.js)",
         "Backend DEPLOYED + live on Render (crm-audit-api.onrender.com)",
-        "Supabase persistence working (crm_audits table, real audits saved)",
-        "GET /api/audit/:id returns full preview → report.html renders fully",
-        "config.js — shared Supabase env resolution (sb_secret key, bypasses RLS)",
-        "Free flow verified end-to-end: Monday pull (25 boards) → audit → report, local + production",
-        "LemonSqueezy account APPROVED (product 1219561, $299 variant)"
+        "Supabase persistence working (sb_secret key bypasses RLS)",
+        "Free flow verified end-to-end: Monday (25 boards) → audit → report, local + production",
+        "Monday connect (/api/crm/monday) tested with real token",
+        "LemonSqueezy APPROVED; checkout button works (buy-UUID c8ee4e0e-…)",
+        "PDF generation on Render (@sparticuz/chromium + puppeteer-core)",
+        "Webhook order_created → paid=true → Resend email (signed, verified)",
+        "Full token-gated PDF + report 'Unlocked' state + on-page full-PDF link"
       ],
       "pending": [
-        "Confirm LS_VARIANT_ID on Render matches approved checkout (c8ee4e0e-…)",
-        "Payment webhook end-to-end: checkout → order_created → paid=true → full PDF → email",
-        "Verify Resend delivery email + Puppeteer /api/pdf/full render"
+        "Confirm delivery email landed in inbox",
+        "Real purchase confirmation (test card 4242 or live+refund)",
+        "Optional: Render keep-warm to avoid ~10-15s cold start"
       ],
       "projection": "$1,500-$3,000/month passive revenue",
       "lemonsqueezy_checkout": "https://agent7d.lemonsqueezy.com/checkout/buy/c8ee4e0e-68ea-4461-a58d-d9a3262f9d81",
@@ -207,9 +209,9 @@
     },
     {
       "task": "CRM Audit — payment flow end-to-end (LemonSqueezy webhook → paid → PDF → email)",
-      "status": "in-progress",
+      "status": "done",
       "priority": "P1",
-      "notes": "LemonSqueezy APPROVED. First set Render LS_VARIANT_ID = c8ee4e0e-… (live=1199895 mismatch), then test webhook → PDF → Resend email."
+      "notes": "Verified end-to-end (webhook→paid→full PDF→email). 5 bugs fixed. Real-purchase confirmation pending."
     },
     {
       "task": "Cloudflare Zero Trust — configure /hq/* access",
@@ -289,7 +291,7 @@
       "monthly": "$0 → soon"
     },
     "crm_audit": {
-      "status": "free flow live, monetization next",
+      "status": "flow complete, first sale pending",
       "monthly": "$0 → $1.5K-3K target"
     },
     "blog_affiliate": {
@@ -427,7 +429,7 @@
       "cost_monthly": "$0 + 5% per transaction",
       "usage": "CRM Audit $299 product (1219561) — APPROVED, checkout live",
       "url": "https://app.lemonsqueezy.com/products/1219561",
-      "notes": "APPROVED July 2026. Checkout live. TODO: set Render LS_VARIANT_ID = c8ee4e0e-68ea-4461-a58d-d9a3262f9d81 (live builds 1199895); webhook flow not yet tested end-to-end.",
+      "notes": "APPROVED. Checkout live via buy-UUID c8ee4e0e-… (Render LS_VARIANT_ID). Webhook order_created verified end-to-end (signed → paid → PDF → email). Numeric variant/product IDs 404 on /checkout/buy/ — must use the buy-UUID.",
       "control": {
         "type": "manual",
         "workflow_url": null,
