@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-17T04:54:42.322Z",
+  "last_updated": "2026-07-17T05:00:26.629Z",
   "projects": {
     "docuai": {
       "status": "pending_review",
@@ -87,7 +87,7 @@
         "note": "Tone being refined — needs tighter hooks"
       },
       "blog_progress": {
-        "posts_published": 2,
+        "posts_published": 6,
         "posts_in_queue": 1,
         "calendar_planned": 8,
         "focus": "monday.com SEO"
@@ -114,7 +114,7 @@
           "cadence": "יום ראשון 07:00",
           "source": "Claude + posts.json (מניעת חזרות)",
           "output": "מייל טבלת נושאים + תור לפרסום היומי",
-          "approval": "שקיפות בלבד — לא חוסם את הפרסום"
+          "approval": "שקיפות בלבד — לא חוס�� את הפרסום"
         }
       ]
     },
@@ -431,7 +431,7 @@
       "control": {
         "type": "manual",
         "workflow_url": null,
-        "description": "בדיקה ידנית — LemonSqueezy dashboard"
+        "description": "בדיקה ידנית ��� LemonSqueezy dashboard"
       },
       "issue": null,
       "checkout_url": "https://agent7d.lemonsqueezy.com/checkout/buy/c8ee4e0e-68ea-4461-a58d-d9a3262f9d81"
