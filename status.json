@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-18T05:00:28.658Z",
+  "last_updated": "2026-07-18T05:00:29.993Z",
   "projects": {
     "docuai": {
       "status": "pending_review",
@@ -89,12 +89,12 @@
         "note": "Tone being refined — needs tighter hooks"
       },
       "blog_progress": {
-        "posts_published": 7,
+        "posts_published": 6,
         "posts_in_queue": 1,
         "calendar_planned": 8,
         "focus": "monday.com SEO"
       },
-      "last_action": "linkedin proposal: Proof | 17 ביולי 2026",
+      "last_action": "blog: ROI reports in monday — how to show clients their results — נדחף אך לא אומת באוויר (בדוק Netlify)",
       "next_scheduled": "Tuesday 08:00 — 3rd blog post | Friday 12:00 — LinkedIn proposal",
       "tasks": [
         {
@@ -139,10 +139,10 @@
   },
   "agent_runs": {
     "bar-blog": {
-      "lastRun": "2026-07-16T05:00:26.180Z",
+      "lastRun": "2026-07-18T05:00:29.993Z",
       "status": "error",
-      "lastAction": "blog: How to onboard new clients faster with monday automation — git push נכשל",
-      "error": "git push failed"
+      "lastAction": "blog: ROI reports in monday — how to show clients their results — נדחף אך לא אומת באוויר (בדוק Netlify)",
+      "error": "post not found on live posts.json"
     },
     "bar-linkedin": {
       "lastRun": "2026-07-17T09:00:30.613Z",
