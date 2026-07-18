@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-18T13:24:42.519Z",
+  "last_updated": "2026-07-18T13:30:40.572Z",
   "projects": {
     "docuai": {
       "status": "pending_review",
@@ -163,10 +163,10 @@
       "error": null
     },
     "bclarity-routine": {
-      "lastRun": "2026-07-18T13:24:42.519Z",
-      "status": "success",
-      "lastAction": "Auto-recovered after deploy failure — restart succeeded",
-      "error": null
+      "lastRun": "2026-07-18T13:30:40.572Z",
+      "status": "error",
+      "lastAction": "Deploy failed on Render — status: live. Auto-restart triggered.",
+      "error": "Render deploy status: live"
     }
   },
   "open_decisions": [
