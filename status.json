@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-18T02:00:00.168Z",
+  "last_updated": "2026-07-18T02:00:01.616Z",
   "projects": {
     "docuai": {
       "status": "pending_review",
@@ -151,9 +151,9 @@
       "error": null
     },
     "routine-email": {
-      "lastRun": "2026-07-17T02:00:01.433Z",
+      "lastRun": "2026-07-18T02:00:01.616Z",
       "status": "success",
-      "lastAction": "daily email sent — ☀️ בוקר טוב — יום שישי, 17 ביולי 2026",
+      "lastAction": "daily email sent — ☀️ בוקר טוב — יום שבת, 18 ביולי 2026",
       "error": null
     },
     "test": {
@@ -471,7 +471,7 @@
       "issue": "DNS propagation in progress"
     }
   },
-  "routine_email_last_sent": "2026-07-18",
+  "routine_email_last_sent": "2026-07-15",
   "roadmap": {
     "now": [
       {
@@ -504,7 +504,7 @@
       },
       {
         "title": "market-agent / strategy-agent",
-        "note": "stubs — לא מאוישי��"
+        "note": "stubs — לא מאוישים"
       }
     ]
   }
