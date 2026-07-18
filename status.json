@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-18T01:54:42.341Z",
+  "last_updated": "2026-07-18T02:00:00.168Z",
   "projects": {
     "docuai": {
       "status": "pending_review",
@@ -471,7 +471,7 @@
       "issue": "DNS propagation in progress"
     }
   },
-  "routine_email_last_sent": "2026-07-15",
+  "routine_email_last_sent": "2026-07-18",
   "roadmap": {
     "now": [
       {
@@ -504,7 +504,7 @@
       },
       {
         "title": "market-agent / strategy-agent",
-        "note": "stubs — לא מאוישים"
+        "note": "stubs — לא מאוישי��"
       }
     ]
   }
