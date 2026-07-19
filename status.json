@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-19T02:00:00.192Z",
+  "last_updated": "2026-07-19T02:00:01.677Z",
   "projects": {
     "docuai": {
       "status": "pending_review",
@@ -151,9 +151,9 @@
       "error": null
     },
     "routine-email": {
-      "lastRun": "2026-07-18T02:00:01.616Z",
+      "lastRun": "2026-07-19T02:00:01.677Z",
       "status": "success",
-      "lastAction": "daily email sent — ☀️ בוקר טוב — יום שבת, 18 ביולי 2026",
+      "lastAction": "daily email sent — ☀️ בוקר טוב — יום ראשון, 19 ביולי 2026",
       "error": null
     },
     "test": {
@@ -456,7 +456,7 @@
     },
     "cloudflare": {
       "label": "Cloudflare",
-      "emoji": "🌩��",
+      "emoji": "🌩️",
       "status": "active",
       "type": "DNS / Security",
       "cost_monthly": "$0",
@@ -471,7 +471,7 @@
       "issue": "DNS propagation in progress"
     }
   },
-  "routine_email_last_sent": "2026-07-19",
+  "routine_email_last_sent": "2026-07-15",
   "roadmap": {
     "now": [
       {
