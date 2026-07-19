@@ -1,14 +1,14 @@
 {
-  "last_updated": "2026-07-19T11:20:40.557Z",
+  "last_updated": "2026-07-19T11:22:21.642Z",
   "projects": {
     "docuai": {
       "status": "pending_review",
       "label": "DocuAI — monday.com Marketplace",
-      "note": "Submitted July 7. Awaiting Monday review team (Mohammad). App live at monday-docugen.vercel.app.",
+      "note": "Submitted July 7. Awaiting Monday review team (Mohammad). App live at getdocuai.vercel.app.",
       "next_action": "Respond to Mohammad if needed. Recruit first 5 reviews from network.",
       "reviewer": "mohammadmu@monday.com",
       "review_board": "marketplaceapps.monday.com/boards/18420652419",
-      "app_url": "https://monday-docugen.vercel.app",
+      "app_url": "https://getdocuai.vercel.app",
       "pending": [
         "Monday review (2-4 weeks)",
         "Payoneer approved ✓ — but $5 test transaction failed at support verification (following up)",
