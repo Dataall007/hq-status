@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-17T20:11:40.181Z",
+  "last_updated": "2026-07-19T10:53:44.231Z",
   "projects": {
     "docuai": {
       "status": "pending_review",
@@ -11,7 +11,7 @@
       "app_url": "https://monday-docugen.vercel.app",
       "pending": [
         "Monday review (2-4 weeks)",
-        "Payoneer approval (3-5 days) — account opened",
+        "Payoneer approved ✓ — but $5 test transaction failed at support verification (following up with support)",
         "Monetization API — implement AFTER approval",
         "First 5 reviews — recruiting from network"
       ]
@@ -65,10 +65,10 @@
       "next_action": "After Cloudflare propagation: configure Zero Trust /hq/* with Google auth"
     },
     "bclarity_domain": {
-      "status": "pending",
-      "label": "bclarity.ai domain",
-      "note": "Not purchased yet. agent7d.com is primary hub for now.",
-      "next_action": "Buy on Namecheap when ready to rebrand"
+      "status": "resolved",
+      "label": "bClarity — under agent7d.com/bclarity",
+      "note": "Decided: NO separate bclarity.ai domain. bClarity brand will live at agent7d.com/bclarity (public page under the main domain).",
+      "next_action": "Build the agent7d.com/bclarity brand page"
     }
   },
   "agents": {
@@ -270,14 +270,10 @@
       "contact": "mohammadmu@monday.com"
     },
     {
-      "item": "Payoneer approval",
-      "since": "2026-07-08",
-      "eta": "3-5 days"
-    },
-    {
-      "item": "Cloudflare DNS propagation",
-      "since": "2026-07-08",
-      "eta": "Up to 24h"
+      "item": "Payoneer $5 test transaction failed",
+      "since": "2026-07-19",
+      "eta": "Support follow-up",
+      "note": "Account approved; test payment did not pass support check"
     }
   ],
   "revenue_channels": {
