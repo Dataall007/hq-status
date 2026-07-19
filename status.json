@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-19T04:00:40.529Z",
+  "last_updated": "2026-07-19T04:00:46.429Z",
   "projects": {
     "docuai": {
       "status": "pending_review",
@@ -507,5 +507,42 @@
         "note": "stubs — לא מאוישים"
       }
     ]
-  }
+  },
+  "blog_queue": [
+    {
+      "title": "How to Turn monday.com Board Data into Client-Ready Reports Automatically",
+      "brief": "Most monday.com users waste hours copy-pasting board data into Word or Google Docs before sending reports to clients. This post shows how to skip that step entirely and generate polished, branded reports straight from your board items.",
+      "description": "Target keyword: \"generate reports from monday.com automatically.\" The post opens with a relatable pain point — a project manager spending Friday afternoon manually formatting a status report — then walks through the exact workflow to automate it. H2 sections: (1) Why copy-paste reporting breaks down at scale, (2) What data lives in your monday.com board that clients actually care about, (3) Mapping board columns to report sections, (4) How to trigger a report generation from a status change or button click, (5) Sending the finished report to a client without leaving monday.com, (6) Real-world example: a digital marketing agency that cut reporting time from 3 hours to 8 minutes per client by connecting their monday.com campaign board to DocuAI, which pulls live metrics (impressions, spend, conversions) from item columns and assembles a branded PDF on demand."
+    },
+    {
+      "title": "monday.com Automations That Should Be Triggering Documents (But Probably Aren't)",
+      "brief": "You've set up monday.com automations to move items, notify people, and change statuses — but almost no one has connected those same triggers to document creation. Here's what you're missing and how to fix it fast.",
+      "description": "Target keyword: \"monday.com automation document generation.\" The post is structured as a practical audit guide — readers scan their existing automations and spot gaps where a document should be firing but isn't. H2 sections: (1) The automation gap most teams never notice, (2) Five automation triggers that are perfect document moments (status changes to \"Won,\" new item created, date arrived, person assigned, form submitted), (3) What each trigger should produce (contract, welcome packet, SOW, invoice, NDA), (4) How to chain a document step into an existing automation without rebuilding it, (5) Setting up DocuAI as the document action inside your monday.com automation recipe, (6) Real-world example: a SaaS company whose \"Deal Closed — Won\" status change now automatically fires a DocuAI-generated service agreement and sends it to the client for e-signature, removing two manual steps and closing contracts 1.4 days faster on average."
+    },
+    {
+      "title": "The Hidden Cost of Inconsistent Documents Across Your monday.com Team",
+      "brief": "When every rep or project manager creates their own version of a proposal, contract, or brief, errors and off-brand content quietly erode client trust. This post quantifies the problem and shows how to enforce consistency without micromanaging anyone.",
+      "description": "Target keyword: \"document consistency monday.com team.\" The post takes a business-risk angle rather than a productivity angle — making the case that inconsistent documents are a revenue and reputation problem, not just an annoyance. H2 sections: (1) What \"document drift\" is and how it starts, (2) The real cost: wrong pricing, missing legal clauses, off-brand visuals, (3) How monday.com item data becomes the single source of truth for every document, (4) Building a master template that every team member's document pulls from automatically, (5) Version control: what happens when your template changes and old docs need updating, (6) How DocuAI locks the structure and pulls item-specific data so reps personalize nothing manually, (7) Real-world example: a 12-person consulting firm that discovered three different pricing tables in use across their SOW documents and used DocuAI connected to their monday.com rate-card board to enforce a single locked template, eliminating pricing discrepancies overnight."
+    },
+    {
+      "title": "How to Write a Statement of Work That Pulls Directly from Your monday.com Project Scope",
+      "brief": "Statements of work are notoriously painful to write because all the information already exists in your project board but has to be manually transferred to a document. This post shows how to close that gap in minutes.",
+      "description": "Target keyword: \"generate statement of work from monday.com.\" The post is highly practical and task-focused, walking readers through the anatomy of a strong SOW and showing exactly which monday.com columns map to each section. H2 sections: (1) Why SOWs take so long even when you have all the information, (2) The anatomy of a solid SOW (scope, deliverables, timeline, payment terms, acceptance criteria), (3) Which monday.com board columns map to each SOW section, (4) Setting up a project intake board that doubles as your SOW data source, (5) Generating the SOW in one click when a project moves from \"Scoped\" to \"Active,\" (6) Getting client sign-off without switching tools, (7) Real-world example: a web development agency whose project managers used to spend 90 minutes writing each SOW now generate them from their monday.com project board via DocuAI the moment a deal is marked \"Ready to Start,\" with all scope items, milestones, and payment schedules pre-populated from board columns."
+    },
+    {
+      "title": "monday.com for Freelancers: How to Look Like an Agency Without the Overhead",
+      "brief": "Freelancers who use monday.com already have a professional system — they just aren't using it to produce the documents that make clients take them seriously. This post shows how to generate proposals, contracts, and project briefs that make a one-person operation look like a full agency.",
+      "description": "Target keyword: \"monday.com freelancer proposals and contracts.\" The post targets an underserved audience segment (freelancers and solopreneurs) and speaks directly to their specific insecurity and goal: winning bigger clients by appearing more polished. H2 sections: (1) The credibility gap freelancers face and why documents matter, (2) The three documents that separate \"freelancer\" from \"studio\" in a client's mind (proposal, contract, project kickoff brief), (3) Building a lightweight monday.com CRM board that any freelancer can set up in under an hour, (4) How to design a proposal template that looks custom but generates automatically from board data, (5) Sending a contract that doesn't require DocuSign or a separate legal tool, (6) The kickoff brief that sets expectations and reduces revision requests, (7) Real-world example: an independent UX designer who began generating DocuAI-powered proposals and contracts from her monday.com board, landed two enterprise clients she had previously lost to agencies, and credited the professional document experience as the deciding factor cited in client feedback."
+    },
+    {
+      "title": "How to Build a Client Portal Experience Inside monday.com (With Documents Included)",
+      "brief": "monday.com WorkDocs and guest access give you the bones of a client-facing portal — but most teams never finish the experience because document generation is still manual. This post shows how to build a complete client-touchpoint workflow from kickoff to close.",
+      "description": "Target keyword: \"monday.com client portal documents workflow.\" The post is aspirational and systems-oriented, appealing to operations-minded readers who want to design a repeatable, impressive client experience. H2 sections: (1) What clients actually want from a portal (transparency, professionalism, easy access to their documents), (2) What monday.com guest access and WorkDocs can — and can't — do natively, (3) Mapping the client journey: which documents appear at each stage (proposal → SOW → kickoff brief → status report → invoice → close summary), (4) Setting up a monday.com board structure that supports the full journey, (5) Automating document generation at each stage transition using DocuAI, (6) Sharing documents with clients directly from monday.com without extra tools, (7) Real-world example: a brand strategy agency that built a five-stage client board in monday.com where DocuAI automatically generates and delivers the correct document at each status change — from a welcome packet on project start to a results summary at close — reducing client questions by 60% and increasing their Net Promoter Score by 22 points."
+    },
+    {
+      "title": "Why Your monday.com Template Center Is Not Enough (And What to Add to It)",
+      "brief": "monday.com's built-in templates give you board structure, but they stop short of the actual outputs clients see — the documents. This post explains the gap and shows how to extend your template setup to cover the full workflow.",
+      "description": "Target keyword: \"monday.com templates documents workflow.\" The post takes a \"yes, and\" angle that respects the value of monday.com templates while clearly articulating why document generation needs to be a deliberate addition to any template-based workflow. H2 sections: (1) What monday.com templates actually do well (board structure, automations, column presets), (2) The output gap: templates don't produce client-facing documents, (3) How teams compensate today (Google Docs folders, em"
+    }
+  ]
 }
