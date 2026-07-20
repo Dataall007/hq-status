@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-20T01:54:42.649Z",
+  "last_updated": "2026-07-20T02:00:00.166Z",
   "projects": {
     "docuai": {
       "status": "pending_review",
@@ -113,7 +113,7 @@
         },
         {
           "name": "תכנון תוכן שבועי",
-          "cadence": "יום ראשון 07:00",
+          "cadence": "י��ם ראשון 07:00",
           "source": "Claude + posts.json (מניעת חזרות)",
           "output": "מייל טבלת נושאים + תור לפרסום היומי",
           "approval": "שקיפות בלבד — לא חוסם את הפרסום"
@@ -473,7 +473,7 @@
       "issue": "DNS propagation in progress"
     }
   },
-  "routine_email_last_sent": "2026-07-15",
+  "routine_email_last_sent": "2026-07-20",
   "roadmap": {
     "now": [
       {
@@ -492,7 +492,7 @@
       },
       {
         "title": "נועה — הפעלה בפועל",
-        "note": "כרגע רק system-prompt, אין קוד רץ"
+        "note": "כרג�� רק system-prompt, אין קוד רץ"
       }
     ],
     "later": [
