@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-20T12:50:40.593Z",
+  "last_updated": "2026-07-20T12:52:00.506Z",
   "projects": {
     "docuai": {
       "status": "pending_review",
@@ -11,7 +11,7 @@
       "app_url": "https://getdocuai.vercel.app",
       "pending": [
         "Monday review (2-4 weeks)",
-        "Payoneer approved ✓ — but $5 test transaction failed at support verification (following up)",
+        "Payoneer approved - $5 test failed only because sent from a PRIVATE account; Payoneer accepts BUSINESS accounts. monday pays from a business account, expected to work fine (low risk).",
         "Monetization API — implement AFTER approval",
         "First 5 reviews — recruiting from network"
       ]
@@ -274,12 +274,6 @@
       "since": "2026-07-07",
       "eta": "2-4 weeks",
       "contact": "mohammadmu@monday.com"
-    },
-    {
-      "item": "Payoneer $5 test transaction failed",
-      "since": "2026-07-19",
-      "eta": "Support follow-up",
-      "note": "Account approved; test payment did not pass support check"
     }
   ],
   "revenue_channels": {
