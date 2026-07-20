@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-20T12:52:00.506Z",
+  "last_updated": "2026-07-20T12:54:26.369Z",
   "projects": {
     "docuai": {
       "status": "pending_review",
@@ -221,9 +221,9 @@
     },
     {
       "task": "Cloudflare Zero Trust — configure /hq/* access",
-      "status": "blocked",
+      "status": "done",
       "priority": "P1",
-      "notes": "Blocked on DNS propagation (started July 8, up to 24h)"
+      "notes": "Configured — /hq/* gated behind Cloudflare Access (Google login)."
     },
     {
       "task": "DocuAI — first 5 reviews from network",
@@ -262,10 +262,10 @@
       "notes": "After approval"
     },
     {
-      "task": "bclarity.ai domain purchase",
-      "status": "planned",
+      "task": "bClarity domain — decided (no purchase)",
+      "status": "done",
       "priority": "P3",
-      "notes": "Namecheap, when ready to rebrand"
+      "notes": "Closed: NO bclarity.ai domain. bClarity lives at agent7d.com/bclarity (subdomain/path under main domain)."
     }
   ],
   "waiting_on": [
