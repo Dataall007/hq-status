@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-21T01:54:42.384Z",
+  "last_updated": "2026-07-21T02:00:00.167Z",
   "projects": {
     "docuai": {
       "status": "pending_review",
@@ -467,7 +467,7 @@
       "issue": "DNS propagation in progress"
     }
   },
-  "routine_email_last_sent": "2026-07-15",
+  "routine_email_last_sent": "2026-07-21",
   "roadmap": {
     "now": [
       {
@@ -486,7 +486,7 @@
       },
       {
         "title": "נועה — הפעלה בפועל",
-        "note": "כרגע רק system-prompt, אין קוד רץ"
+        "note": "כרגע רק system-prompt, א��ן קוד רץ"
       }
     ],
     "later": [
