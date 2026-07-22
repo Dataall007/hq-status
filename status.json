@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-22T02:54:42.469Z",
+  "last_updated": "2026-07-22T03:02:15.096Z",
   "projects": {
     "docuai": {
       "status": "pending_review",
@@ -165,7 +165,7 @@
     "bclarity-routine": {
       "lastRun": "2026-07-22T02:54:42.469Z",
       "status": "success",
-      "lastAction": "Auto-recovered after deploy failure — restart succeeded",
+      "lastAction": "Live on Render (repo access restored). Monitor fixed: only auto-restarts when isFailed=true — no more false-positive redeploy loop.",
       "error": null
     },
     "bar-weekly-plan": {
