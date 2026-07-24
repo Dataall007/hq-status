@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-24T09:00:18.446Z",
+  "last_updated": "2026-07-24T09:00:19.733Z",
   "projects": {
     "docuai": {
       "status": "pending_review",
@@ -94,7 +94,7 @@
         "calendar_planned": 8,
         "focus": "monday.com SEO"
       },
-      "last_action": "blog: ROI reports in monday — how to show clients their results — נדחף אך לא אומת באוויר (בדוק Netlify)",
+      "last_action": "linkedin proposal: Proof | 24 ביולי 2026",
       "next_scheduled": "Tuesday 08:00 — 3rd blog post | Friday 12:00 — LinkedIn proposal",
       "tasks": [
         {
@@ -145,9 +145,9 @@
       "error": "post not found on live posts.json"
     },
     "bar-linkedin": {
-      "lastRun": "2026-07-17T09:00:30.613Z",
+      "lastRun": "2026-07-24T09:00:19.733Z",
       "status": "success",
-      "lastAction": "linkedin proposal: Proof | 17 ביולי 2026",
+      "lastAction": "linkedin proposal: Proof | 24 ביולי 2026",
       "error": null
     },
     "routine-email": {
@@ -503,17 +503,5 @@
         "note": "stubs — לא מאוישים"
       }
     ]
-  },
-  "linkedin_pending": {
-    "2026-07-24-proof": {
-      "slug": "2026-07-24-proof",
-      "date": "24 ביולי 2026",
-      "pillar": "Proof",
-      "hook": "לקוח הגיע אליי עם בעיה פשוטה. 3 חודשים אחר כך הבנו שהיא לא הייתה הבעיה האמיתית.",
-      "body": "מחלקת חינוך מתמשך באחת מהאוניברסיטאות המובילות בישראל.\n1,000 סטודנטים בשנה. צוות מכירות מנוסה. תקציב שיווק לא קטן.\n\nהבעיה שהם הגיעו איתה: \"אנחנו צריכים CRM טוב יותר.\"\n\nמה שמצאנו בפועל:\n→ לידים מ-6 מקורות שונים — לא מחוברים לשום מקום\n→ אף אחד לא ידע מה קורה לליד אחרי שיחה ראשונה\n→ KPIs קיימו רק בראש של המנהל\n→ ישיבות פגישות = 30% מהיעד\n\nלא הקמנו CRM. בנינו מערכת.\n\nחיברנו את כל מקורות הלידים לתהליך אחד מנוהל.\nהגדרנו KPIs שניתן למדוד בזמן אמת.\nאוטומציות שדאגו לכל ליד לקבל מענה — בזמן הנכון, עם המסר הנכון.\n\nהתוצאה אחרי 90 יום:\nפגישות שהתקיימו בפועל × 3.\nראייה מלאה על כל הפאנל — בפעם הראשונה.\n\nהלקוח חשב שהוא צריך כלי.\nהוא היה צריך בהירות.\n\nזה ההבדל בין לקנות AI לבין לאמץ AI.",
-      "cta": "יש לך תחושה שמשהו לא עובד בתהליך — אבל לא בטוח מה בדיוק?",
-      "approveToken": "7a42cbb5acd8ac300d919c542563bbaa",
-      "status": "pending"
-    }
   }
 }
