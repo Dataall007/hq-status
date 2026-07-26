@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-26T04:00:46.140Z",
+  "last_updated": "2026-07-26T04:00:47.485Z",
   "projects": {
     "docuai": {
       "status": "pending_review",
@@ -169,7 +169,7 @@
       "error": null
     },
     "bar-weekly-plan": {
-      "lastRun": "2026-07-19T04:00:48.017Z",
+      "lastRun": "2026-07-26T04:00:47.485Z",
       "status": "success",
       "lastAction": "weekly plan sent: 7 topics",
       "error": null
@@ -503,42 +503,5 @@
         "note": "stubs — לא מאוישים"
       }
     ]
-  },
-  "blog_queue": [
-    {
-      "title": "How to Turn monday.com Board Data Into Client-Ready Reports (Without Copying a Single Cell)",
-      "brief": "Most monday.com users waste hours manually reformatting board data into polished client reports. This post shows a repeatable system for converting live board data into professional documents automatically.",
-      "description": "Target keyword: \"monday.com client reports automation.\" The post opens with a relatable pain point: a project manager at a marketing agency spending every Friday afternoon copy-pasting status updates into a Word doc before client calls. H2 sections will cover: (1) Why exporting monday.com data manually breaks at scale, (2) What a \"client-ready report\" actually needs to include (status, blockers, next steps, KPIs), (3) How to structure your monday.com board so report generation is effortless, (4) Using item data and column values as dynamic report fields, (5) How DocuAI pulls live board data to generate formatted reports in one click, (6) Real-world example: a digital agency that cut Friday reporting time from 2 hours to 8 minutes using DocuAI connected to their client project boards. Closes with a CTA to try DocuAI and a downloadable board structure checklist."
-    },
-    {
-      "title": "The monday.com Handoff Problem: Why Deals Die Between Sales and Delivery",
-      "brief": "When a deal closes, critical context lives in the sales board — and delivery teams never see it. This post diagnoses the handoff gap and shows how auto-generated handoff documents solve it instantly.",
-      "description": "Target keyword: \"monday.com sales to delivery handoff.\" Opens with a real scenario: a SaaS company where the delivery team keeps scheduling \"context calls\" with sales because the CRM notes never made it into the project board. H2 sections will cover: (1) What information gets lost in the sales-to-delivery transition, (2) Why manual handoff docs are always outdated by the time they're read, (3) What a great handoff document contains (client goals, agreed scope, key contacts, red flags, payment terms), (4) How to mirror or connect your sales board to your delivery board in monday.com, (5) Using DocuAI to auto-generate a handoff document the moment a deal is marked \"Closed Won,\" (6) Example: a web development agency that eliminated onboarding calls entirely by attaching a DocuAI-generated handoff brief to every new project board. Ends with a template outline for a handoff document readers can build immediately."
-    },
-    {
-      "title": "monday.com Status Columns Are Hiding a Document Trigger You're Not Using",
-      "brief": "Every time a status changes in monday.com, it's a signal — a contract needs sending, a report needs filing, a brief needs creating. This post reveals how to wire status changes to automatic document generation.",
-      "description": "Target keyword: \"monday.com status change automation documents.\" Opens with the insight that most teams use monday.com automations to send Slack messages or move items, but almost nobody uses status changes to trigger document creation. Real-world example throughout: a recruitment firm that triggers a candidate offer letter the moment a pipeline item is moved to \"Offer Approved.\" H2 sections will cover: (1) The anatomy of a monday.com status-change automation, (2) Six status moments that should always trigger a document (proposal sent, contract needed, project kicked off, invoice due, report ready, deal closed), (3) How to map your board statuses to document types, (4) Setting up the DocuAI integration so a status flip generates and attaches the right document automatically, (5) How to avoid document chaos — naming conventions, folder logic, and version control inside monday.com, (6) A step-by-step walkthrough of building the automation from scratch. Closes with a link to DocuAI and a \"status-to-document\" mapping worksheet."
-    },
-    {
-      "title": "What a Great monday.com Project Brief Looks Like (And How to Generate One in Seconds)",
-      "brief": "A vague project brief is the root cause of most scope creep and client disappointment. This post defines exactly what belongs in a project brief and shows how to generate one automatically from a monday.com item.",
-      "description": "Target keyword: \"monday.com project brief template.\" Opens with a stat on scope creep costs and ties it directly to incomplete project documentation at kickoff. Real-world example: a branding studio that used to kick off projects with a bullet-point email, leading to constant revision disputes — until they standardized a DocuAI-generated brief tied to their intake board. H2 sections will cover: (1) Why most project briefs fail (too vague, too late, not shared widely enough), (2) The 8 elements every project brief must contain (objective, deliverables, timeline, stakeholders, budget, success metrics, constraints, approval process), (3) How to capture all 8 elements inside a monday.com intake board using the right column types, (4) Using DocuAI to generate a formatted, professional brief the moment an item is created or approved, (5) How to share and version the brief within monday.com so everyone works from the same document, (6) Before-and-after comparison: brief generated manually vs. brief generated by DocuAI from the same board data. Ends with a free board template link and DocuAI CTA."
-    },
-    {
-      "title": "How to Use monday.com as a Contract Management System (Without Buying Extra Software)",
-      "brief": "Teams are paying for separate contract tools when monday.com already holds all the data they need. This post shows how to build a lightweight contract management workflow entirely inside monday.com with documents generated on demand.",
-      "description": "Target keyword: \"monday.com contract management.\" Opens by calling out the irony: teams use monday.com to track deals but switch to a separate tool just to generate and store contracts — duplicating data and creating sync headaches. Real-world example: a consulting firm that consolidated from three tools (monday.com, a contract platform, and Google Drive) into one by using DocuAI to generate contracts directly from deal items. H2 sections will cover: (1) What contract management actually requires (generation, storage, status tracking, renewal alerts), (2) How to design a contract-tracking board in monday.com (columns for value, start date, renewal date, status, signatory), (3) Generating contracts from board item data using DocuAI — mapping fields like client name, scope, and payment terms directly into a contract template, (4) Storing the generated contract as an update or file on the item so everything lives in one place, (5) Setting up monday.com automations for renewal reminders and expiry alerts, (6) How one ops team cut contract turnaround from 3 days to 20 minutes with this setup. Closes with a step-by-step checklist and DocuAI free trial CTA."
-    },
-    {
-      "title": "The Hidden Cost of \"I'll Document That Later\" in monday.com Teams",
-      "brief": "Deferred documentation is one of the most expensive habits on a monday.com team — it creates rework, miscommunication, and lost institutional knowledge. This post quantifies the cost and shows how automation removes the excuse entirely.",
-      "description": "Target keyword: \"monday.com team documentation workflow.\" Opens with a story most readers will recognize: a team member leaves, and nobody can find the project context because \"it was all in their head.\" Ties this directly to the habit of putting off documentation because it feels like extra work. Real-world example woven throughout: a 12-person ops team at an e-commerce company that calculated they were losing roughly 4 hours per person per week to documentation debt and tribal knowledge gaps. H2 sections will cover: (1) What \"documentation debt\" actually costs in time, mistakes, and client trust, (2) The three moments when documentation is always skipped (handoffs, status changes, deal closings), (3) Why manual documentation will always be deprioritized against billable work, (4) How automation changes the psychology — when docs generate themselves, there's no \"later,\" (5) Setting up DocuAI to generate key documents at every critical workflow moment in monday.com, (6) A documentation audit: how to identify the three biggest gaps in your current monday.com workflow right now. Closes with a practical 15-minute audit exercise and DocuAI CTA."
-    },
-    {
-      "title": "monday.com for Freelancers: How to Look Like an Agency Without the Overhead",
-      "brief": "Freelancers who use monday.com already have a professional edge — but most aren't using it to generate the polished proposals, briefs, and reports that make clients feel like they hired an agency. This post closes that gap.",
-      "description": "Target keyword: \"monday.com for freelancers client documents.\" Opens with the core tension freelancers face: clients expect agency-level professionalism but freelancers can't justify agency-level tooling costs or admin time. Real-world example: a freelance UX designer who used to spend Sunday evenings writing proposals and status updates, and now"
-    }
-  ]
+  }
 }
