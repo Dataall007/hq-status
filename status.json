@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-31T02:00:00.176Z",
+  "last_updated": "2026-07-31T02:00:01.778Z",
   "projects": {
     "docuai": {
       "status": "pending_review",
@@ -151,9 +151,9 @@
       "error": null
     },
     "routine-email": {
-      "lastRun": "2026-07-30T02:00:01.818Z",
+      "lastRun": "2026-07-31T02:00:01.778Z",
       "status": "success",
-      "lastAction": "daily email sent — ☀️ בוקר טוב — יום חמישי, 30 ביולי 2026 | סיכום שבועי",
+      "lastAction": "daily email sent — ☀️ בוקר טוב — יום שישי, 31 ביולי 2026",
       "error": null
     },
     "test": {
@@ -467,7 +467,7 @@
       "issue": "DNS propagation in progress"
     }
   },
-  "routine_email_last_sent": "2026-07-31",
+  "routine_email_last_sent": "2026-07-27",
   "roadmap": {
     "now": [
       {
@@ -486,7 +486,7 @@
       },
       {
         "title": "נועה — הפעלה בפועל",
-        "note": "כרגע ר�� system-prompt, אין קוד רץ"
+        "note": "כרגע רק system-prompt, אין קוד רץ"
       }
     ],
     "later": [
