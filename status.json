@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-09T04:00:46.356Z",
+  "last_updated": "2026-08-09T04:00:47.528Z",
   "projects": {
     "docuai": {
       "status": "pending_review",
@@ -169,7 +169,7 @@
       "error": null
     },
     "bar-weekly-plan": {
-      "lastRun": "2026-08-02T04:00:42.319Z",
+      "lastRun": "2026-08-09T04:00:47.528Z",
       "status": "success",
       "lastAction": "weekly plan sent: 7 topics",
       "error": null
@@ -503,42 +503,5 @@
         "note": "stubs — לא מאוישים"
       }
     ]
-  },
-  "blog_queue": [
-    {
-      "title": "How to Turn monday.com Data into Client-Ready Status Reports (Without Copy-Pasting)",
-      "brief": "Most project managers waste hours every week manually compiling status updates that already live inside monday.com. This post shows exactly how to pull live board data into a polished, client-facing report in minutes.",
-      "description": "Target keyword: \"monday.com client status report automation.\" The post opens with a relatable pain point — a project manager at a marketing agency spending Friday afternoons copying milestone data from monday.com into a Word doc before emailing clients. H2 sections: (1) Why manual status reports break down at scale, (2) What a client-ready status report actually needs to include (progress %, blockers, next steps, owner), (3) How to structure your monday.com board so report generation is painless, (4) Using automation to trigger report creation when a sprint closes or a status column changes, (5) How DocuAI reads your board items and generates a formatted status report in one click, (6) What to do with the report once it's generated (PDF, email, client portal). Real-world example: a 12-person web development agency that reduced weekly reporting time from 3 hours to 20 minutes by automating status report generation directly from their monday.com project boards."
-    },
-    {
-      "title": "The monday.com Contract Bottleneck: Why Deals Stall After \"Yes\" and How to Fix It",
-      "brief": "Getting a prospect to say yes is only half the battle — the real delay lives in the gap between verbal approval and a signed contract. This post diagnoses that bottleneck and shows how to eliminate it inside monday.com.",
-      "description": "Target keyword: \"monday.com contract generation automation.\" The post frames the problem with a stat-style hook: deals that close verbally but take 5+ days to reach a signed contract lose momentum and risk falling apart. H2 sections: (1) The \"post-yes\" dead zone and why it kills deals, (2) What information you already have in monday.com that belongs in a contract (client name, scope, pricing, timeline, terms), (3) Building a monday.com workflow that moves a deal from \"Verbal Yes\" status to contract-ready, (4) How DocuAI uses board item data to generate a contract draft the moment a deal stage changes, (5) Getting the contract reviewed, signed, and logged back in monday.com, (6) A checklist for keeping your contract template updated inside DocuAI. Real-world example: a SaaS sales team that shrunk their average contract turnaround from 6 days to same-day by triggering contract generation automatically when a CRM deal in monday.com hit the \"Closed Won\" stage."
-    },
-    {
-      "title": "monday.com for Freelancers: How to Look Like an Agency Without the Overhead",
-      "brief": "Solo freelancers and small studios often lose clients not on talent but on professionalism — inconsistent paperwork, slow follow-up, and messy handoffs. This post shows how monday.com plus document automation closes that perception gap.",
-      "description": "Target keyword: \"monday.com freelancer workflow documents.\" The post speaks directly to independent consultants and boutique studios who compete against larger agencies. H2 sections: (1) The professionalism gap: what agencies do that freelancers don't, (2) Setting up a lightweight monday.com board that tracks leads, projects, and deliverables in one place, (3) The four documents every freelance engagement needs (proposal, contract, project brief, invoice summary), (4) How to automate document creation so a new lead triggers a proposal draft without any manual work, (5) Using DocuAI to generate each of those four documents from a single monday.com item, (6) How this system frees you to focus on billable work. Real-world example: a freelance UX designer who landed a Fortune 500 client partly because her onboarding documentation — auto-generated from monday.com — looked indistinguishable from a large agency's output, despite her being a one-person studio."
-    },
-    {
-      "title": "How to Build a monday.com Dashboard That Writes Its Own Executive Summary",
-      "brief": "Executives don't want to log into your project board — they want a one-page summary in their inbox. This post teaches you how to build a monday.com setup where that summary writes itself.",
-      "description": "Target keyword: \"monday.com executive summary automation.\" The post targets operations leads and project directors who report upward to C-suite stakeholders who have no interest in navigating a monday.com board. H2 sections: (1) What executives actually want to know (budget, timeline, risks, wins — nothing else), (2) Structuring your monday.com board and dashboard widgets to capture exactly those four dimensions, (3) Using formula columns and rollups to make the data report-ready at all times, (4) Setting a weekly automation trigger that compiles board data and fires it into DocuAI, (5) How DocuAI formats the data into a clean one-page executive summary with plain-English narrative, (6) Scheduling and distributing the summary without any human in the loop. Real-world example: a construction project manager overseeing five concurrent builds who set up a Monday-morning automation that lands a formatted executive summary in the CFO's inbox before the 9 a.m. standup, compiled entirely from live monday.com data."
-    },
-    {
-      "title": "Scope Creep Starts with a Vague Statement of Work — Here's How to Fix Yours in monday.com",
-      "brief": "Most scope creep doesn't start with a difficult client — it starts with an SOW that was too vague to protect you. This post shows how to generate airtight statements of work directly from your monday.com project items.",
-      "description": "Target keyword: \"statement of work automation monday.com.\" The post tackles one of the most common and costly problems in client services: scope creep rooted in ambiguous documentation. H2 sections: (1) Why scope creep is a documentation problem, not a client problem, (2) What a strong SOW must include (deliverables, acceptance criteria, revision limits, out-of-scope list, timeline), (3) How to capture SOW-ready information inside your monday.com intake form and board columns, (4) Using automations to flag when a project is missing key SOW fields before work begins, (5) How DocuAI pulls the completed board item and produces a structured SOW document ready for client sign-off, (6) Storing and referencing the SOW inside monday.com to resolve disputes quickly. Real-world example: a brand design agency that reduced scope disputes by 70% in one quarter after standardizing their SOW generation through DocuAI, triggered automatically when a project moved from \"Discovery\" to \"Active\" in monday.com."
-    },
-    {
-      "title": "How Sales Reps Can Send a Follow-Up Recap in 60 Seconds Using monday.com",
-      "brief": "The follow-up email after a sales call is one of the highest-leverage touchpoints in a deal — and most reps either skip it or send a generic one hours later. This post shows how to generate a personalized recap in under a minute using data already logged in monday.com.",
-      "description": "Target keyword: \"monday.com sales call follow-up automation.\" The post targets individual sales reps and sales managers who know follow-up speed matters but don't have a repeatable system for doing it well. H2 sections: (1) Why the follow-up recap is more important than most reps think (speed, specificity, next steps), (2) What to log in monday.com during or immediately after a call (pain points, budget, timeline, agreed next steps), (3) Building a \"Call Logged\" automation trigger that kicks off document generation, (4) How DocuAI converts those raw monday.com fields into a warm, professional recap email draft, (5) Reviewing, personalizing, and sending in under 60 seconds, (6) Using the recap as a living record inside monday.com to prep for the next call. Real-world example: a B2B software sales team of eight reps that standardized post-call recaps through DocuAI and saw their average response-to-next-meeting conversion rate increase by 34% over two months because prospects consistently felt heard and well-served."
-    },
-    {
-      "title": "The monday.com Handoff Problem: How to Make Sure Nothing Gets Lost When a Deal Becomes a Project",
-      "brief": "The moment a deal closes and ownership shifts from sales to delivery is where client information goes missing, expectations blur, and trust erodes. This post shows how to automate a seamless sales-to-delivery handoff using monday.com and document generation.",
-      "description": "Target keyword: \"monday.com sales to project handoff automation.\" The post targets companies where sales and delivery live in separate teams — a gap that causes duplicated discovery, frustrated clients, and delayed kickoffs. H2 sections: (1) Why the sales-to-delivery handoff is where client relationships first crack, (2) What delivery"
-    }
-  ]
+  }
 }
