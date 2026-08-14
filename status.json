@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-14T09:00:17.525Z",
+  "last_updated": "2026-08-14T09:00:19.561Z",
   "projects": {
     "docuai": {
       "status": "pending_review",
@@ -94,7 +94,7 @@
         "calendar_planned": 8,
         "focus": "monday.com SEO"
       },
-      "last_action": "linkedin proposal: Proof | 7 באוגוסט 2026",
+      "last_action": "linkedin proposal: Proof | 14 באוגוסט 2026",
       "next_scheduled": "Tuesday 08:00 — 3rd blog post | Friday 12:00 — LinkedIn proposal",
       "tasks": [
         {
@@ -145,9 +145,9 @@
       "error": "post not found on live posts.json"
     },
     "bar-linkedin": {
-      "lastRun": "2026-08-07T09:00:19.139Z",
+      "lastRun": "2026-08-14T09:00:19.561Z",
       "status": "success",
-      "lastAction": "linkedin proposal: Proof | 7 באוגוסט 2026",
+      "lastAction": "linkedin proposal: Proof | 14 באוגוסט 2026",
       "error": null
     },
     "routine-email": {
@@ -503,17 +503,5 @@
         "note": "stubs — לא מאוישים"
       }
     ]
-  },
-  "linkedin_pending": {
-    "2026-08-14-proof": {
-      "slug": "2026-08-14-proof",
-      "date": "14 באוגוסט 2026",
-      "pillar": "Proof",
-      "hook": "מחלקת המשך-חינוך של אחת האוניברסיטאות המובילות בישראל הפסידה לידים כל יום — לא כי לא היה תקציב. כי אף אחד לא ידע מה קורה אחרי שמישהו ממלא טופס.",
-      "body": "1,000 סטודנטים בשנה.\nמקורות לידים מ-5 ערוצים שונים.\nCRM שלא מתקשר עם כלום.\nואפס נראות על מה שבאמת קורה.\n\nכשנכנסנו, הבעיה לא הייתה AI — הבעיה הייתה שאף אחד לא יכול היה לענות על שאלה פשוטה:\n*כמה לידים הפכו לסטודנטים החודש, ולמה?*\n\nעשינו שלושה דברים:\n① חיברנו את כל מקורות הלידים למערכת אחת\n② בנינו flows אוטומטיים שמזיזים כל ליד לפי פעולה בפועל\n③ יצרנו dashboard שמראה KPIs בזמן אמת לכל מנהל\n\nהתוצאה תוך 90 יום:\nפגישות שנסגרו × 3\nנראות מלאה על כל שלב ב-funnel\nאפס לידים שנופלים בין הכיסאות\n\nזה לא קסם. זה תהליך.\nDiscover → Define → Design → Deploy → Evolve.\n\nרוב הארגונים לא מפסידים עסקים כי אין להם AI —\nהם מפסידים כי ה-AI שיש להם לא מחובר לשום דבר אמיתי.",
-      "cta": "אם אתה מרגיש שאתם \"עובדים קשה\" אבל הנתונים לא מספרים את הסיפור — בואו נדבר. session אסטרטגי של 90 דקות, ואתה יוצא עם תמונה ברורה. פרטים בקומנט או בהודעה ישירה.",
-      "approveToken": "34d60196ffa5a21f9d58430b39343e31",
-      "status": "pending"
-    }
   }
 }
