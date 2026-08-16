@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-16T02:00:01.672Z",
+  "last_updated": "2026-08-16T04:00:42.147Z",
   "projects": {
     "docuai": {
       "status": "pending_review",
@@ -503,5 +503,42 @@
         "note": "stubs — לא מאוישים"
       }
     ]
-  }
+  },
+  "blog_queue": [
+    {
+      "title": "How to Turn monday.com Data Into Client-Ready Reports Without Touching Word or Excel",
+      "brief": "Most monday.com users waste 45+ minutes reformatting board data into polished client reports every week. This post shows a faster path that keeps everything inside monday.",
+      "description": "Target keyword: \"generate client reports from monday.com.\" Real-world example: a digital marketing agency that pulls weekly ad-performance data from a monday.com board and auto-generates a branded PDF report for each client account. H2 sections: (1) Why exporting to Word/Excel breaks your workflow, (2) What data already lives in your monday.com items that clients actually want to see, (3) The anatomy of a good client report — status, metrics, next steps, (4) How to map monday.com columns to report sections automatically, (5) Sending the report directly from monday.com without leaving the tool, (6) How DocuAI pulls item data and populates a client-ready report in one click. Closes with a CTA to try DocuAI on their next weekly reporting cycle."
+    },
+    {
+      "title": "monday.com Automations Are Powerful — But They Can't Write Your Documents for You (Until Now)",
+      "brief": "monday.com automations handle triggers and notifications beautifully, but the moment a document needs to be created, most teams fall back to manual copy-paste. Here's how to close that gap.",
+      "description": "Target keyword: \"monday.com automation document generation.\" Real-world example: a SaaS customer success team that uses automations to move accounts to \"Renewal Due\" status but still manually drafts renewal letters. H2 sections: (1) A quick recap of what monday.com automations actually do well, (2) The document blindspot — what automations can't create on their own, (3) Real cost of the manual handoff: time, errors, inconsistency, (4) What a full automation-to-document pipeline looks like end to end, (5) Triggering DocuAI as part of an automation recipe to generate the document the moment a status changes, (6) Three automation + document combos you can set up this week. Closes with a prompt to map one existing automation to a DocuAI trigger."
+    },
+    {
+      "title": "The Right Way to Write a Statement of Work — and How to Generate One From monday.com",
+      "brief": "A poorly scoped Statement of Work is the number-one reason projects go over budget and over deadline. This post shows how to build a bulletproof SOW directly from your monday.com project board.",
+      "description": "Target keyword: \"statement of work template monday.com.\" Real-world example: a web-design agency that scopes projects in monday.com but rewrites scope details from scratch every time they send an SOW to a client. H2 sections: (1) What a Statement of Work must include to actually protect you, (2) Why scope data already lives inside your monday.com items and subitems, (3) Common SOW mistakes that lead to scope creep, (4) Mapping monday.com project columns — deliverables, timelines, owners, budget — to SOW sections, (5) Generating a complete SOW from a monday.com board using DocuAI, (6) Getting client sign-off and storing the signed doc back in monday.com. Includes a sample column-to-SOW mapping table readers can copy."
+    },
+    {
+      "title": "How Freelancers and Small Agencies Can Use monday.com as a Full Client-Document Hub",
+      "brief": "Enterprise teams get all the monday.com attention, but freelancers and boutique agencies have the most to gain from centralising every client document inside one board. Here's the exact setup.",
+      "description": "Target keyword: \"monday.com for freelancers client management.\" Real-world example: a solo brand consultant who manages six retainer clients in monday.com but stores proposals in Google Drive, contracts in DocuSign, and invoices in FreshBooks — and loses time hunting across all three. H2 sections: (1) The scattered-document problem for small operators, (2) Building a client board that doubles as a document registry, (3) Which documents to centralise first (proposals, contracts, briefs, status updates), (4) Using monday.com's file column and update threads to keep docs in context, (5) Generating standard client-facing documents without copy-paste using DocuAI, (6) A one-board setup walkthrough — columns, groups, and automations a solo operator can launch in an afternoon. Ends with a downloadable board template offer."
+    },
+    {
+      "title": "Why Your monday.com CRM Isn't Converting — and How Better Documents Fix It",
+      "brief": "A monday.com CRM board can track every deal perfectly and still lose business if the documents sent to prospects look generic or arrive late. This post diagnoses the document bottleneck hiding inside most CRM setups.",
+      "description": "Target keyword: \"monday.com CRM proposal documents.\" Real-world example: a B2B software reseller with a fully built monday.com CRM that tracks 200+ deals but sends the same generic proposal PDF regardless of deal size, industry, or pain point. H2 sections: (1) The CRM illusion — why perfect tracking doesn't equal closed deals, (2) How document quality and speed affect conversion rates (stats + research), (3) The four moments in a CRM pipeline where a document is sent and what it needs to say, (4) Personalising documents using data already stored in CRM item columns, (5) Using DocuAI to generate a deal-specific proposal the moment a lead hits \"Proposal Stage,\" (6) A/B testing your document output — what to measure over 30 days. Closes with a pipeline audit checklist."
+    },
+    {
+      "title": "monday.com Workdocs vs. Document Generation — What's the Difference and When to Use Each",
+      "brief": "monday.com's built-in Workdocs are genuinely useful, but a lot of teams don't realise they serve a completely different purpose than generated client-facing documents. Here's a plain-English breakdown.",
+      "description": "Target keyword: \"monday.com Workdocs vs document generation.\" Real-world example: a project management consultancy that uses Workdocs for internal meeting notes but mistakenly tries to use them to build client deliverable reports — leading to inconsistent formatting and manual rework. H2 sections: (1) What monday.com Workdocs are actually designed for, (2) Where Workdocs shine — collaborative internal documentation, (3) Where Workdocs fall short — client-facing, branded, data-populated documents, (4) The key technical differences: static vs. dynamic, internal vs. external, collaborative vs. generated, (5) Decision framework — a simple flowchart for choosing the right tool for each document type, (6) How DocuAI fills the gap Workdocs leave open for external document generation. Includes a side-by-side comparison table readers can screenshot and share."
+    },
+    {
+      "title": "How to Build a monday.com Board That Writes Your Project Updates for You",
+      "brief": "Clients want regular project updates but writing them takes time project managers don't have. This post shows how to structure a monday.com board so that progress updates practically write themselves.",
+      "description": "Target keyword: \"automate project update reports monday.com.\" Real-world example: a construction project management firm that sends weekly written status updates to six property developer clients but spends three hours every Friday pulling data from monday.com and formatting it into emails. H2 sections: (1) Why project update communication breaks down as client load grows, (2) The data that belongs in every project update — progress %, blockers, next milestones, budget status, (3) Designing your monday.com board columns specifically to feed update documents, (4) The difference between a board that stores data and a board that generates communication, (5) Using DocuAI to auto-generate a formatted weekly update from board item snapshots, (6) Scheduling the update so it lands in the client's inbox every Friday without a PM touching it. Closes with a \"copy this board structure\" resource."
+    }
+  ]
 }
