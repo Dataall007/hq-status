@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-19T15:23:02.471Z",
+  "last_updated": "2026-08-19T15:23:05.712Z",
   "projects": {
     "docuai": {
       "status": "pending_review",
@@ -94,7 +94,7 @@
         "calendar_planned": 8,
         "focus": "monday.com SEO"
       },
-      "last_action": "linkedin proposal: Proof | 14 באוגוסט 2026",
+      "last_action": "blog published: how-to-turn-monday-com-board-data-into-a-client-ready-projec",
       "next_scheduled": "Tuesday 08:00 — 3rd blog post | Friday 12:00 — LinkedIn proposal",
       "tasks": [
         {
@@ -139,10 +139,10 @@
   },
   "agent_runs": {
     "bar-blog": {
-      "lastRun": "2026-07-18T05:00:29.993Z",
-      "status": "error",
-      "lastAction": "blog: ROI reports in monday — how to show clients their results — נדחף אך לא אומת באוויר (בדוק Netlify)",
-      "error": "post not found on live posts.json"
+      "lastRun": "2026-08-19T15:23:05.712Z",
+      "status": "success",
+      "lastAction": "blog published: how-to-turn-monday-com-board-data-into-a-client-ready-projec",
+      "error": null
     },
     "bar-linkedin": {
       "lastRun": "2026-08-14T09:00:19.561Z",
