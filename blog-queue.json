@@ -1,10 +1,4 @@
 {
-  "queue": [
-    {
-      "title": "How to Turn monday.com Board Data into a Client-Ready Project Kickoff Package",
-      "brief": "Most teams waste hours copy-pasting scope, timelines, and contacts into kickoff documents after a deal closes. This post shows monday.com users how to pull everything from a won board item into a polished, sendable kickoff package in minutes.",
-      "description": "H2 sections cover: (1) What a kickoff package actually needs to include, (2) Where that data already lives in your monday.com board, (3) The manual way vs. the automated way, (4) How to map monday columns to kickoff document sections, (5) Sending the package without leaving monday. Target keyword: \"monday.com project kickoff document.\" Real-world example: A marketing agency that closes a new retainer client uses DocuAI to auto-generate a kickoff package — including scope summary, assigned team members, key milestones, and client contact details — directly from the won deal item, then shares it with the client the same day the contract is signed."
-    }
-  ],
-  "last_updated": "2026-08-19T15:21:58.614Z"
+  "queue": [],
+  "last_updated": "2026-08-19T15:23:03.792Z"
 }
