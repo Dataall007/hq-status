@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-19T15:21:47.553Z",
+  "last_updated": "2026-08-19T15:23:02.471Z",
   "projects": {
     "docuai": {
       "status": "pending_review",
@@ -89,7 +89,7 @@
         "note": "Tone being refined — needs tighter hooks"
       },
       "blog_progress": {
-        "posts_published": 6,
+        "posts_published": 9,
         "posts_in_queue": 1,
         "calendar_planned": 8,
         "focus": "monday.com SEO"
