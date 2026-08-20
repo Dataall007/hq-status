@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-20T05:03:15.918Z",
+  "last_updated": "2026-08-20T05:03:18.038Z",
   "projects": {
     "docuai": {
       "status": "pending_review",
@@ -94,7 +94,7 @@
         "calendar_planned": 8,
         "focus": "monday.com SEO"
       },
-      "last_action": "blog published: how-to-turn-monday-com-board-data-into-a-client-ready-projec",
+      "last_action": "blog published: how-to-turn-monday-com-status-changes-into-automatic-contrac",
       "next_scheduled": "Tuesday 08:00 — 3rd blog post | Friday 12:00 — LinkedIn proposal",
       "tasks": [
         {
@@ -139,9 +139,9 @@
   },
   "agent_runs": {
     "bar-blog": {
-      "lastRun": "2026-08-19T15:23:05.712Z",
+      "lastRun": "2026-08-20T05:03:18.038Z",
       "status": "success",
-      "lastAction": "blog published: how-to-turn-monday-com-board-data-into-a-client-ready-projec",
+      "lastAction": "blog published: how-to-turn-monday-com-status-changes-into-automatic-contrac",
       "error": null
     },
     "bar-linkedin": {
