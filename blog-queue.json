@@ -1,4 +1,10 @@
 {
-  "queue": [],
-  "last_updated": "2026-08-19T15:23:03.792Z"
+  "queue": [
+    {
+      "title": "How to Turn monday.com Status Changes into Automatic Contract Drafts",
+      "brief": "Every time a deal moves to \"Won\" in monday.com, your team scrambles to draft a contract — here's how to make that document appear automatically. This post shows how to connect board triggers to document generation so nothing falls through the cracks between a verbal yes and a signed agreement.",
+      "description": "H2 sections cover: \"Why the gap between 'Won' and signed contract costs you deals,\" \"Setting up a status-change trigger in monday.com,\" \"What data to pull into your contract automatically (client name, scope, pricing columns),\" \"How DocuAI generates a ready-to-send contract draft the moment status changes,\" and \"Sending for signature without leaving monday.com.\" Target keyword: \"automatically generate contracts from monday.com.\" Real-world example: a SaaS sales team that cut contract turnaround from 48 hours to under 5 minutes by triggering DocuAI drafts on every \"Closed Won\" status update."
+    }
+  ],
+  "last_updated": "2026-08-20T05:00:09.164Z"
 }
