@@ -1,11 +1,4 @@
 {
-  "queue": [
-    {
-      "title": "The Silent Pipeline Killers: How to Spot Revenue Leaks in Your monday.com CRM Before They Cost You Deals",
-      "brief": "Most monday.com users don't lose deals to bad salespeople — they lose them to dirty data, forgotten follow-ups, and records nobody owns. This post shows you exactly where to look and how to fix it.",
-      "description": "H2 sections cover: (1) What \"pipeline health\" actually means in monday.com (and why a full board feels deceptively productive), (2) The three silent killers — stuck deals with no activity, records missing critical fields like contact owner or close date, and unowned items that fall through the cracks, (3) How to manually audit your monday.com pipeline using board filters, column stats, and activity logs, (4) The warning signs your pipeline is leaking revenue right now (a practical self-assessment checklist), (5) How to prioritise what to fix first when everything looks broken, (6) How the agent7d CRM Audit Tool automates this scan and surfaces the same insights in minutes. Target keyword: \"monday.com pipeline health.\" Real-world example: a 12-person sales team discovers 34% of their open deals haven't been touched in over 30 days and have no assigned owner — walking through exactly how they found it and what they changed.",
-      "product": "crm-audit"
-    }
-  ],
-  "last_updated": "2026-08-21T03:03:14.045Z"
+  "queue": [],
+  "last_updated": "2026-08-21T03:04:18.749Z"
 }
