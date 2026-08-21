@@ -1,10 +1,4 @@
 {
-  "queue": [
-    {
-      "title": "From Won to Done: How to Auto-Generate a Statement of Work the Moment a Deal Closes in monday.com",
-      "brief": "Most teams lose days between a closed deal and a signed SOW — this post shows how to eliminate that gap entirely using monday.com automation. Readers learn how to trigger a polished, client-ready Statement of Work the instant a board item moves to \"Won.\"",
-      "description": "H2 sections cover: (1) Why the Won-to-SOW gap is costing you momentum and client trust, (2) What a strong SOW must include and why blank templates fail under pressure, (3) Setting up your monday.com trigger — the exact column and automation recipe to use, (4) Mapping board fields (deal value, scope, timeline, deliverables) to SOW sections using DocuAI, (5) How to review, approve, and send the SOW without leaving monday.com, (6) Real-world example: a digital agency that cut SOW turnaround from 3 days to 11 minutes after closing. Target keyword: \"auto-generate statement of work monday.com.\""
-    }
-  ],
-  "last_updated": "2026-08-21T05:00:08.950Z"
+  "queue": [],
+  "last_updated": "2026-08-21T05:01:11.867Z"
 }
