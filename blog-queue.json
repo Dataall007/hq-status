@@ -1,4 +1,11 @@
 {
-  "queue": [],
-  "last_updated": "2026-08-21T05:01:11.867Z"
+  "queue": [
+    {
+      "title": "The monday.com Pipeline Audit You Should Run Every Quarter (And Exactly How to Do It)",
+      "brief": "Most revenue doesn't vanish in a single bad deal — it leaks slowly from deals nobody is watching, fields nobody filled in, and stages nobody updated. This post walks monday.com users through a practical, repeatable quarterly pipeline audit they can run themselves to find and fix those leaks before they compound.",
+      "description": "H2 sections cover: (1) Why pipelines go stale — the four ways dirty data quietly kills momentum; (2) The five fields that are almost always incomplete (and why each one matters for forecasting); (3) How to spot stuck deals in monday.com using filters, sorting, and date columns — with a real-world example of a 47-day-old \"Proposal Sent\" deal that had no next-action date and no owner; (4) Unowned records: how to find deals with no assigned rep and what to do with them; (5) How to build a simple monday.com dashboard that surfaces pipeline health at a glance; (6) A quarterly audit checklist readers can save and reuse. Target keyword: \"monday.com pipeline audit.\" The post closes by noting that readers who want the scan done for them — with a structured breakdown of every stuck deal, missing value, and unowned record — can run agent7d's free CRM Audit Tool report instead.",
+      "product": "crm-audit"
+    }
+  ],
+  "last_updated": "2026-08-21T08:52:40.671Z"
 }
