@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-21T09:00:20.364Z",
+  "last_updated": "2026-08-21T09:00:21.714Z",
   "projects": {
     "docuai": {
       "status": "pending_review",
@@ -94,7 +94,7 @@
         "calendar_planned": 8,
         "focus": "monday.com SEO"
       },
-      "last_action": "blog published: the-monday-com-pipeline-audit-you-should-run-every-quarter-a",
+      "last_action": "linkedin proposal: Proof | 21 באוגוסט 2026",
       "next_scheduled": "Tuesday 08:00 — 3rd blog post | Friday 12:00 — LinkedIn proposal",
       "tasks": [
         {
@@ -145,9 +145,9 @@
       "error": null
     },
     "bar-linkedin": {
-      "lastRun": "2026-08-14T09:00:19.561Z",
+      "lastRun": "2026-08-21T09:00:21.714Z",
       "status": "success",
-      "lastAction": "linkedin proposal: Proof | 14 באוגוסט 2026",
+      "lastAction": "linkedin proposal: Proof | 21 באוגוסט 2026",
       "error": null
     },
     "routine-email": {
