@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-21T08:53:42.677Z",
+  "last_updated": "2026-08-21T08:53:46.239Z",
   "projects": {
     "docuai": {
       "status": "pending_review",
@@ -94,7 +94,7 @@
         "calendar_planned": 8,
         "focus": "monday.com SEO"
       },
-      "last_action": "blog published: from-won-to-done-how-to-auto-generate-a-statement-of-work-th",
+      "last_action": "blog published: the-monday-com-pipeline-audit-you-should-run-every-quarter-a",
       "next_scheduled": "Tuesday 08:00 — 3rd blog post | Friday 12:00 — LinkedIn proposal",
       "tasks": [
         {
@@ -139,9 +139,9 @@
   },
   "agent_runs": {
     "bar-blog": {
-      "lastRun": "2026-08-21T05:01:13.059Z",
+      "lastRun": "2026-08-21T08:53:46.239Z",
       "status": "success",
-      "lastAction": "blog published: from-won-to-done-how-to-auto-generate-a-statement-of-work-th",
+      "lastAction": "blog published: the-monday-com-pipeline-audit-you-should-run-every-quarter-a",
       "error": null
     },
     "bar-linkedin": {
