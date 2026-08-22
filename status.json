@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-22T05:01:13.348Z",
+  "last_updated": "2026-08-22T05:01:15.320Z",
   "projects": {
     "docuai": {
       "status": "pending_review",
@@ -94,7 +94,7 @@
         "calendar_planned": 8,
         "focus": "monday.com SEO"
       },
-      "last_action": "linkedin proposal: Proof | 21 באוגוסט 2026",
+      "last_action": "blog published: how-to-write-a-monday-com-column-formula-that-pre-fills-your",
       "next_scheduled": "Tuesday 08:00 — 3rd blog post | Friday 12:00 — LinkedIn proposal",
       "tasks": [
         {
@@ -139,9 +139,9 @@
   },
   "agent_runs": {
     "bar-blog": {
-      "lastRun": "2026-08-21T08:53:46.239Z",
+      "lastRun": "2026-08-22T05:01:15.320Z",
       "status": "success",
-      "lastAction": "blog published: the-monday-com-pipeline-audit-you-should-run-every-quarter-a",
+      "lastAction": "blog published: how-to-write-a-monday-com-column-formula-that-pre-fills-your",
       "error": null
     },
     "bar-linkedin": {
