@@ -1,11 +1,4 @@
 {
-  "queue": [
-    {
-      "title": "How to Write a monday.com Column Formula That Pre-Fills Your Proposal Fields Automatically",
-      "brief": "Most monday.com users build proposals by copy-pasting data from their boards—but the right column formulas can do that heavy lifting before a document is ever opened. This post shows you exactly which formula setups eliminate blank-field errors and speed up every client document you send.",
-      "description": "H2 sections cover: (1) Why blank or mismatched fields are the #1 delay in client documents, (2) The four monday.com column types that map cleanly to proposal fields (text, numbers, date, mirror), (3) Step-by-step formula column recipes for deal value, timeline, and scope summaries, (4) How to structure your board so document tools like DocuAI can pull clean data without manual cleanup, (5) A real-world example of an agency that cut proposal prep from 40 minutes to under five by fixing column hygiene first. Target keyword: \"monday.com formula columns for proposals.\" The post is actionable for any monday.com user who sends client documents, and naturally shows DocuAI as the next step once columns are structured correctly.",
-      "product": "docuai"
-    }
-  ],
-  "last_updated": "2026-08-22T05:00:10.439Z"
+  "queue": [],
+  "last_updated": "2026-08-22T05:01:14.302Z"
 }
