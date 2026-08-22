@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-22T11:14:43.879Z",
+  "last_updated": "2026-08-22T14:03:35.871Z",
   "projects": {
     "docuai": {
       "status": "pending_review",
@@ -86,13 +86,25 @@
         "posts_published": 3,
         "posts_ready": 3,
         "about_section": "updated",
-        "note": "Tone being refined — needs tighter hooks"
+        "note": "Tone being refined — needs tighter hooks",
+        "paused": {
+          "since": "2026-08-22",
+          "reason": "זרימת האישור הידנית לא בשימוש — 0 פוסטים אושרו בפועל"
+        }
       },
       "blog_progress": {
         "posts_published": 14,
         "posts_in_queue": 1,
         "calendar_planned": 8,
-        "focus": "monday.com SEO"
+        "focus": "monday.com SEO",
+        "paused": {
+          "since": "2026-08-22",
+          "reason": "התור עבר ל-blog-queue.json. posts_published נשאר אוטומטי ואמין",
+          "fields": [
+            "posts_in_queue",
+            "calendar_planned"
+          ]
+        }
       },
       "last_action": "blog published: how-to-write-a-monday-com-column-formula-that-pre-fills-your",
       "next_scheduled": "Tuesday 08:00 — 3rd blog post | Friday 12:00 — LinkedIn proposal",
@@ -134,7 +146,11 @@
         "next_recruit": "TBD — Strategy / Market / Sales Agent"
       },
       "open_positions": 1,
-      "next_scheduled": "Thursday 07:00 — Weekly report"
+      "next_scheduled": "Thursday 07:00 — Weekly report",
+      "paused": {
+        "since": "2026-08-22",
+        "reason": "אין קוד רץ — system-prompt בלבד. מתוכננת הפעלה, ראה roadmap.next"
+      }
     }
   },
   "agent_runs": {
@@ -160,13 +176,21 @@
       "lastRun": "2026-07-08T11:09:07.893Z",
       "status": "success",
       "lastAction": "GitHub API token test",
-      "error": null
+      "error": null,
+      "paused": {
+        "since": "2026-08-22",
+        "reason": "רשומת בדיקה חד-פעמית של טוקן GitHub מ-08/07"
+      }
     },
     "bclarity-routine": {
       "lastRun": "2026-07-22T02:54:42.469Z",
       "status": "success",
       "lastAction": "Live on Render (repo access restored). Monitor fixed: only auto-restarts when isFailed=true — no more false-positive redeploy loop.",
-      "error": null
+      "error": null,
+      "paused": {
+        "since": "2026-08-22",
+        "reason": "השירות מושהה בכוונה — לא כשל. ריצה אחרונה 22/07"
+      }
     },
     "bar-weekly-plan": {
       "lastRun": "2026-08-16T04:00:43.841Z",
