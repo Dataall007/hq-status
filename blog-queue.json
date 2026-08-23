@@ -25,12 +25,6 @@
       "product": "docuai"
     },
     {
-      "title": "How to Find Every Deal in Your monday.com Pipeline That Has No Next Action — Before It Goes Cold",
-      "brief": "A deal without a next action is a deal slowly dying, and most monday.com pipelines are full of them. This post gives sales managers a practical method to surface and rescue those orphaned opportunities before they disappear entirely.",
-      "description": "Target keyword: \"monday.com pipeline no next action stuck deals.\" H2 sections: (1) Why \"no next action\" is the most dangerous deal state (it looks active but isn't), (2) The monday.com columns that signal a missing next step (empty date fields, no owner activity, stale status), (3) How to build a manual audit filter to expose these items today, (4) What to do with the list: triage, revive, or close lost, (5) Building an ongoing automation that flags deals with no activity after X days, (6) How to prevent the problem at the top of the funnel with required fields. Real-world example: A 10-person B2B sales team whose monday.com pipeline shows 60 open deals but whose reps can only name 15 they are actively working — the other 45 have no logged action in over 30 days.",
-      "product": "crm-audit"
-    },
-    {
       "title": "The monday.com Fields Your Sales Team Leaves Blank (And Why Each One Is Costing You Money)",
       "brief": "Missing data in a CRM is not just a hygiene problem — every blank field is a decision you cannot make and a follow-up that does not happen. This post walks through the most commonly skipped monday.com columns and the specific revenue consequences of each one.",
       "description": "Target keyword: \"monday.com CRM missing fields dirty data.\" H2 sections: (1) The link between empty columns and lost revenue (it is more direct than most managers think), (2) The six fields most often left blank in monday.com sales boards and why reps skip them, (3) Field-by-field breakdown: Deal Value (forecasting), Close Date (pipeline velocity), Contact Name (follow-up), Lead Source (marketing ROI), Next Action Date (momentum), Owner (accountability), (4) How to audit your board right now to count blank instances per field, (5) Making critical fields required or conditional in monday.com without annoying your reps, (6) What a clean record looks like vs. a typical dirty one. Real-world example: A sales director who runs a monthly forecast meeting from a monday.com board but whose deal value column is blank on 40% of open items, making every revenue number a guess.",
@@ -48,5 +42,5 @@
       "product": "crm-audit"
     }
   ],
-  "last_updated": "2026-08-23T04:00:47.123Z"
+  "last_updated": "2026-08-23T05:01:06.465Z"
 }
