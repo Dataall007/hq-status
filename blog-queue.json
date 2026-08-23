@@ -1,4 +1,52 @@
 {
-  "queue": [],
-  "last_updated": "2026-08-22T05:01:14.302Z"
+  "queue": [
+    {
+      "title": "How to Build a Client-Facing Status Report Straight from Your monday.com Board",
+      "brief": "Most teams spend an hour every Friday copy-pasting project updates into a Word doc their client will skim for 30 seconds. This post shows how to pull live monday.com board data into a polished status report without touching a template.",
+      "description": "Target keyword: \"monday.com client status report automation.\" H2 sections: (1) Why weekly status reports die in the copy-paste loop, (2) Which monday.com columns actually belong in a client report (status, timeline, owner, blockers), (3) Mapping your board columns to a repeatable report structure, (4) How to trigger a report automatically on a recurring schedule or status change, (5) What a finished report looks like vs. a raw board screenshot, (6) When to send it manually vs. auto-deliver it to the client. Real-world example: A digital marketing agency managing 12 client campaigns on one monday.com board who currently screenshots the board and pastes it into a Google Doc every Friday — and how they cut that process to near-zero.",
+      "product": "docuai"
+    },
+    {
+      "title": "The monday.com Renewal Letter You Should Be Sending — And How to Generate It Automatically",
+      "brief": "Most B2B teams let contract renewals sneak up on them and then scramble to write a personalised renewal letter from scratch. This post shows how to use the data already sitting in your monday.com board to generate that letter the moment a renewal date is approaching.",
+      "description": "Target keyword: \"monday.com contract renewal automation.\" H2 sections: (1) Why renewal letters get written at the last minute (and what it costs you), (2) The five data points every renewal letter needs — and where they live in monday.com, (3) Setting up a date-based automation trigger around your renewal column, (4) Structuring your renewal letter so it auto-populates without sounding robotic, (5) Reviewing and sending in one step vs. editing a blank page every time, (6) Tracking whether the letter was acted on back inside monday.com. Real-world example: A SaaS account management team with 80 recurring clients on a monday.com accounts board who miss renewal windows because the letter still gets written manually.",
+      "product": "docuai"
+    },
+    {
+      "title": "How to Generate a Change Order Document the Moment Scope Changes in monday.com",
+      "brief": "Scope creep quietly kills project margins because teams handle it in Slack instead of paper. This post walks through how to capture scope changes directly in monday.com and convert them into a signed-ready change order without leaving the platform.",
+      "description": "Target keyword: \"monday.com change order document generation.\" H2 sections: (1) Why undocumented scope changes are a billing and relationship risk, (2) How to structure a monday.com board to capture scope-change requests as items, (3) Which columns to fill in (original scope, new scope, cost delta, requestor, date), (4) Triggering a change order document from a status flip like \"Scope Change Approved,\" (5) What the change order document should include to be legally useful, (6) Storing the signed version back on the monday.com item. Real-world example: A web development agency whose project managers handle scope changes over email and only invoice for them 60% of the time because there is no paper trail.",
+      "product": "docuai"
+    },
+    {
+      "title": "One monday.com Board, Five Documents: How to Automate Your Entire Project Paper Trail",
+      "brief": "A single monday.com project item contains enough data to produce a proposal, a kickoff agenda, a status report, a change order, and a closure summary — but most teams generate each one manually. This post shows the full document lifecycle and how to automate it end to end.",
+      "description": "Target keyword: \"monday.com project document automation.\" H2 sections: (1) The five documents every project generates and when each one is needed, (2) How one monday.com item holds the data for all five if columns are set up correctly, (3) Mapping status stages to document triggers (Lead → Proposal, Won → Kickoff, In Progress → Status Report, Change → Change Order, Done → Closure Summary), (4) Building the automation chain in monday.com without code, (5) Avoiding document duplication when items are duplicated or moved, (6) The time savings math: how many hours this reclaims per project per month. Real-world example: A consulting firm running 20 concurrent client projects who currently has a different team member responsible for each document type, causing version chaos and missed deliverables.",
+      "product": "docuai"
+    },
+    {
+      "title": "How to Find Every Deal in Your monday.com Pipeline That Has No Next Action — Before It Goes Cold",
+      "brief": "A deal without a next action is a deal slowly dying, and most monday.com pipelines are full of them. This post gives sales managers a practical method to surface and rescue those orphaned opportunities before they disappear entirely.",
+      "description": "Target keyword: \"monday.com pipeline no next action stuck deals.\" H2 sections: (1) Why \"no next action\" is the most dangerous deal state (it looks active but isn't), (2) The monday.com columns that signal a missing next step (empty date fields, no owner activity, stale status), (3) How to build a manual audit filter to expose these items today, (4) What to do with the list: triage, revive, or close lost, (5) Building an ongoing automation that flags deals with no activity after X days, (6) How to prevent the problem at the top of the funnel with required fields. Real-world example: A 10-person B2B sales team whose monday.com pipeline shows 60 open deals but whose reps can only name 15 they are actively working — the other 45 have no logged action in over 30 days.",
+      "product": "crm-audit"
+    },
+    {
+      "title": "The monday.com Fields Your Sales Team Leaves Blank (And Why Each One Is Costing You Money)",
+      "brief": "Missing data in a CRM is not just a hygiene problem — every blank field is a decision you cannot make and a follow-up that does not happen. This post walks through the most commonly skipped monday.com columns and the specific revenue consequences of each one.",
+      "description": "Target keyword: \"monday.com CRM missing fields dirty data.\" H2 sections: (1) The link between empty columns and lost revenue (it is more direct than most managers think), (2) The six fields most often left blank in monday.com sales boards and why reps skip them, (3) Field-by-field breakdown: Deal Value (forecasting), Close Date (pipeline velocity), Contact Name (follow-up), Lead Source (marketing ROI), Next Action Date (momentum), Owner (accountability), (4) How to audit your board right now to count blank instances per field, (5) Making critical fields required or conditional in monday.com without annoying your reps, (6) What a clean record looks like vs. a typical dirty one. Real-world example: A sales director who runs a monthly forecast meeting from a monday.com board but whose deal value column is blank on 40% of open items, making every revenue number a guess.",
+      "product": "crm-audit"
+    },
+    {
+      "title": "Why Deals Get Stuck at the Same Pipeline Stage Every Time — and How to Find the Pattern in monday.com",
+      "brief": "If your pipeline has a stage where deals pile up and rarely move forward, you have a systemic sales problem disguised as individual rep issues. This post shows how to identify that bottleneck stage in monday.com and diagnose what is actually causing it.",
+      "description": "Target keyword: \"monday.com pipeline stage bottleneck stuck deals.\" H2 sections: (1) The difference between a temporarily busy stage and a genuine bottleneck, (2) How to measure average time-in-stage across your monday.com pipeline using existing columns, (3) Visualising stage distribution: what a healthy pipeline looks like vs. a clogged one, (4) The four most common causes of a stuck stage (unclear exit criteria, missing collateral, wrong person in the conversation, pricing friction), (5) How to test your hypothesis by comparing stuck deals to recently closed won deals, (6) Building a simple monday.com automation that alerts a manager when a deal has been in one stage past a threshold. Real-world example: A SaaS sales team whose monday.com board shows that 70% of their open deals are sitting in \"Proposal Sent\" and have been there for more than three weeks with no logged activity since the send.",
+      "product": "crm-audit"
+    },
+    {
+      "title": "How to Audit the Deals You Marked Closed Lost — and Recover the Ones That Were Closed Too Early",
+      "brief": "Most sales teams treat closed lost as a final verdict, but a significant number of those deals were just stalled, misread, or abandoned by a rep who moved on. This post shows",
+      "product": "crm-audit"
+    }
+  ],
+  "last_updated": "2026-08-23T04:00:47.123Z"
 }
