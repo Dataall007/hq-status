@@ -1,12 +1,6 @@
 {
   "queue": [
     {
-      "title": "How to Build a Client-Facing Status Report Straight from Your monday.com Board",
-      "brief": "Most teams spend an hour every Friday copy-pasting project updates into a Word doc their client will skim for 30 seconds. This post shows how to pull live monday.com board data into a polished status report without touching a template.",
-      "description": "Target keyword: \"monday.com client status report automation.\" H2 sections: (1) Why weekly status reports die in the copy-paste loop, (2) Which monday.com columns actually belong in a client report (status, timeline, owner, blockers), (3) Mapping your board columns to a repeatable report structure, (4) How to trigger a report automatically on a recurring schedule or status change, (5) What a finished report looks like vs. a raw board screenshot, (6) When to send it manually vs. auto-deliver it to the client. Real-world example: A digital marketing agency managing 12 client campaigns on one monday.com board who currently screenshots the board and pastes it into a Google Doc every Friday — and how they cut that process to near-zero.",
-      "product": "docuai"
-    },
-    {
       "title": "The monday.com Renewal Letter You Should Be Sending — And How to Generate It Automatically",
       "brief": "Most B2B teams let contract renewals sneak up on them and then scramble to write a personalised renewal letter from scratch. This post shows how to use the data already sitting in your monday.com board to generate that letter the moment a renewal date is approaching.",
       "description": "Target keyword: \"monday.com contract renewal automation.\" H2 sections: (1) Why renewal letters get written at the last minute (and what it costs you), (2) The five data points every renewal letter needs — and where they live in monday.com, (3) Setting up a date-based automation trigger around your renewal column, (4) Structuring your renewal letter so it auto-populates without sounding robotic, (5) Reviewing and sending in one step vs. editing a blank page every time, (6) Tracking whether the letter was acted on back inside monday.com. Real-world example: A SaaS account management team with 80 recurring clients on a monday.com accounts board who miss renewal windows because the letter still gets written manually.",
@@ -42,5 +36,5 @@
       "product": "crm-audit"
     }
   ],
-  "last_updated": "2026-08-23T05:01:06.465Z"
+  "last_updated": "2026-08-24T05:01:04.580Z"
 }
