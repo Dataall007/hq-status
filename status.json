@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-24T05:01:03.405Z",
+  "last_updated": "2026-08-24T05:01:05.673Z",
   "projects": {
     "docuai": {
       "status": "pending_review",
@@ -106,7 +106,7 @@
           ]
         }
       },
-      "last_action": "blog published: how-to-find-every-deal-in-your-monday-com-pipeline-that-has-",
+      "last_action": "blog published: how-to-build-a-client-facing-status-report-straight-from-you",
       "next_scheduled": "Tuesday 08:00 — 3rd blog post | Friday 12:00 — LinkedIn proposal",
       "tasks": [
         {
@@ -155,9 +155,9 @@
   },
   "agent_runs": {
     "bar-blog": {
-      "lastRun": "2026-08-23T05:01:07.551Z",
+      "lastRun": "2026-08-24T05:01:05.673Z",
       "status": "success",
-      "lastAction": "blog published: how-to-find-every-deal-in-your-monday-com-pipeline-that-has-",
+      "lastAction": "blog published: how-to-build-a-client-facing-status-report-straight-from-you",
       "error": null
     },
     "bar-linkedin": {
