@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-25T05:01:07.993Z",
+  "last_updated": "2026-08-25T05:01:10.382Z",
   "projects": {
     "docuai": {
       "status": "pending_review",
@@ -106,7 +106,7 @@
           ]
         }
       },
-      "last_action": "blog published: how-to-build-a-client-facing-status-report-straight-from-you",
+      "last_action": "blog published: the-monday-com-fields-your-sales-team-leaves-blank-and-why-e",
       "next_scheduled": "Tuesday 08:00 — 3rd blog post | Friday 12:00 — LinkedIn proposal",
       "tasks": [
         {
@@ -155,9 +155,9 @@
   },
   "agent_runs": {
     "bar-blog": {
-      "lastRun": "2026-08-24T05:01:05.673Z",
+      "lastRun": "2026-08-25T05:01:10.382Z",
       "status": "success",
-      "lastAction": "blog published: how-to-build-a-client-facing-status-report-straight-from-you",
+      "lastAction": "blog published: the-monday-com-fields-your-sales-team-leaves-blank-and-why-e",
       "error": null
     },
     "bar-linkedin": {
