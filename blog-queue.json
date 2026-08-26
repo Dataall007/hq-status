@@ -1,12 +1,6 @@
 {
   "queue": [
     {
-      "title": "The monday.com Renewal Letter You Should Be Sending — And How to Generate It Automatically",
-      "brief": "Most B2B teams let contract renewals sneak up on them and then scramble to write a personalised renewal letter from scratch. This post shows how to use the data already sitting in your monday.com board to generate that letter the moment a renewal date is approaching.",
-      "description": "Target keyword: \"monday.com contract renewal automation.\" H2 sections: (1) Why renewal letters get written at the last minute (and what it costs you), (2) The five data points every renewal letter needs — and where they live in monday.com, (3) Setting up a date-based automation trigger around your renewal column, (4) Structuring your renewal letter so it auto-populates without sounding robotic, (5) Reviewing and sending in one step vs. editing a blank page every time, (6) Tracking whether the letter was acted on back inside monday.com. Real-world example: A SaaS account management team with 80 recurring clients on a monday.com accounts board who miss renewal windows because the letter still gets written manually.",
-      "product": "docuai"
-    },
-    {
       "title": "How to Generate a Change Order Document the Moment Scope Changes in monday.com",
       "brief": "Scope creep quietly kills project margins because teams handle it in Slack instead of paper. This post walks through how to capture scope changes directly in monday.com and convert them into a signed-ready change order without leaving the platform.",
       "description": "Target keyword: \"monday.com change order document generation.\" H2 sections: (1) Why undocumented scope changes are a billing and relationship risk, (2) How to structure a monday.com board to capture scope-change requests as items, (3) Which columns to fill in (original scope, new scope, cost delta, requestor, date), (4) Triggering a change order document from a status flip like \"Scope Change Approved,\" (5) What the change order document should include to be legally useful, (6) Storing the signed version back on the monday.com item. Real-world example: A web development agency whose project managers handle scope changes over email and only invoice for them 60% of the time because there is no paper trail.",
@@ -30,5 +24,5 @@
       "product": "crm-audit"
     }
   ],
-  "last_updated": "2026-08-25T05:01:09.141Z"
+  "last_updated": "2026-08-26T05:01:03.851Z"
 }
