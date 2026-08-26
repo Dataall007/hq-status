@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-26T05:01:02.695Z",
+  "last_updated": "2026-08-26T05:01:05.067Z",
   "projects": {
     "docuai": {
       "status": "pending_review",
@@ -106,7 +106,7 @@
           ]
         }
       },
-      "last_action": "blog published: the-monday-com-fields-your-sales-team-leaves-blank-and-why-e",
+      "last_action": "blog published: the-monday-com-renewal-letter-you-should-be-sending-and-how-",
       "next_scheduled": "Tuesday 08:00 — 3rd blog post | Friday 12:00 — LinkedIn proposal",
       "tasks": [
         {
@@ -155,9 +155,9 @@
   },
   "agent_runs": {
     "bar-blog": {
-      "lastRun": "2026-08-25T05:01:10.382Z",
+      "lastRun": "2026-08-26T05:01:05.067Z",
       "status": "success",
-      "lastAction": "blog published: the-monday-com-fields-your-sales-team-leaves-blank-and-why-e",
+      "lastAction": "blog published: the-monday-com-renewal-letter-you-should-be-sending-and-how-",
       "error": null
     },
     "bar-linkedin": {
