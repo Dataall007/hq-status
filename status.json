@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-27T05:01:07.220Z",
+  "last_updated": "2026-08-27T05:01:09.972Z",
   "projects": {
     "docuai": {
       "status": "pending_review",
@@ -106,7 +106,7 @@
           ]
         }
       },
-      "last_action": "blog published: the-monday-com-renewal-letter-you-should-be-sending-and-how-",
+      "last_action": "blog published: why-deals-get-stuck-at-the-same-pipeline-stage-every-time-an",
       "next_scheduled": "Tuesday 08:00 — 3rd blog post | Friday 12:00 — LinkedIn proposal",
       "tasks": [
         {
@@ -155,9 +155,9 @@
   },
   "agent_runs": {
     "bar-blog": {
-      "lastRun": "2026-08-26T05:01:05.067Z",
+      "lastRun": "2026-08-27T05:01:09.972Z",
       "status": "success",
-      "lastAction": "blog published: the-monday-com-renewal-letter-you-should-be-sending-and-how-",
+      "lastAction": "blog published: why-deals-get-stuck-at-the-same-pipeline-stage-every-time-an",
       "error": null
     },
     "bar-linkedin": {
