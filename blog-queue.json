@@ -13,16 +13,10 @@
       "product": "docuai"
     },
     {
-      "title": "Why Deals Get Stuck at the Same Pipeline Stage Every Time — and How to Find the Pattern in monday.com",
-      "brief": "If your pipeline has a stage where deals pile up and rarely move forward, you have a systemic sales problem disguised as individual rep issues. This post shows how to identify that bottleneck stage in monday.com and diagnose what is actually causing it.",
-      "description": "Target keyword: \"monday.com pipeline stage bottleneck stuck deals.\" H2 sections: (1) The difference between a temporarily busy stage and a genuine bottleneck, (2) How to measure average time-in-stage across your monday.com pipeline using existing columns, (3) Visualising stage distribution: what a healthy pipeline looks like vs. a clogged one, (4) The four most common causes of a stuck stage (unclear exit criteria, missing collateral, wrong person in the conversation, pricing friction), (5) How to test your hypothesis by comparing stuck deals to recently closed won deals, (6) Building a simple monday.com automation that alerts a manager when a deal has been in one stage past a threshold. Real-world example: A SaaS sales team whose monday.com board shows that 70% of their open deals are sitting in \"Proposal Sent\" and have been there for more than three weeks with no logged activity since the send.",
-      "product": "crm-audit"
-    },
-    {
       "title": "How to Audit the Deals You Marked Closed Lost — and Recover the Ones That Were Closed Too Early",
       "brief": "Most sales teams treat closed lost as a final verdict, but a significant number of those deals were just stalled, misread, or abandoned by a rep who moved on. This post shows",
       "product": "crm-audit"
     }
   ],
-  "last_updated": "2026-08-26T05:01:03.851Z"
+  "last_updated": "2026-08-27T05:01:08.261Z"
 }
