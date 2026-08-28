@@ -1,12 +1,6 @@
 {
   "queue": [
     {
-      "title": "How to Generate a Change Order Document the Moment Scope Changes in monday.com",
-      "brief": "Scope creep quietly kills project margins because teams handle it in Slack instead of paper. This post walks through how to capture scope changes directly in monday.com and convert them into a signed-ready change order without leaving the platform.",
-      "description": "Target keyword: \"monday.com change order document generation.\" H2 sections: (1) Why undocumented scope changes are a billing and relationship risk, (2) How to structure a monday.com board to capture scope-change requests as items, (3) Which columns to fill in (original scope, new scope, cost delta, requestor, date), (4) Triggering a change order document from a status flip like \"Scope Change Approved,\" (5) What the change order document should include to be legally useful, (6) Storing the signed version back on the monday.com item. Real-world example: A web development agency whose project managers handle scope changes over email and only invoice for them 60% of the time because there is no paper trail.",
-      "product": "docuai"
-    },
-    {
       "title": "One monday.com Board, Five Documents: How to Automate Your Entire Project Paper Trail",
       "brief": "A single monday.com project item contains enough data to produce a proposal, a kickoff agenda, a status report, a change order, and a closure summary — but most teams generate each one manually. This post shows the full document lifecycle and how to automate it end to end.",
       "description": "Target keyword: \"monday.com project document automation.\" H2 sections: (1) The five documents every project generates and when each one is needed, (2) How one monday.com item holds the data for all five if columns are set up correctly, (3) Mapping status stages to document triggers (Lead → Proposal, Won → Kickoff, In Progress → Status Report, Change → Change Order, Done → Closure Summary), (4) Building the automation chain in monday.com without code, (5) Avoiding document duplication when items are duplicated or moved, (6) The time savings math: how many hours this reclaims per project per month. Real-world example: A consulting firm running 20 concurrent client projects who currently has a different team member responsible for each document type, causing version chaos and missed deliverables.",
@@ -18,5 +12,5 @@
       "product": "crm-audit"
     }
   ],
-  "last_updated": "2026-08-27T05:01:08.261Z"
+  "last_updated": "2026-08-28T05:01:00.968Z"
 }
