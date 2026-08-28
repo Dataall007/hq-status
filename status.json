@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-28T05:00:59.846Z",
+  "last_updated": "2026-08-28T05:01:02.541Z",
   "projects": {
     "docuai": {
       "status": "pending_review",
@@ -106,7 +106,7 @@
           ]
         }
       },
-      "last_action": "blog published: why-deals-get-stuck-at-the-same-pipeline-stage-every-time-an",
+      "last_action": "blog published: how-to-generate-a-change-order-document-the-moment-scope-cha",
       "next_scheduled": "Tuesday 08:00 — 3rd blog post | Friday 12:00 — LinkedIn proposal",
       "tasks": [
         {
@@ -155,9 +155,9 @@
   },
   "agent_runs": {
     "bar-blog": {
-      "lastRun": "2026-08-27T05:01:09.972Z",
+      "lastRun": "2026-08-28T05:01:02.541Z",
       "status": "success",
-      "lastAction": "blog published: why-deals-get-stuck-at-the-same-pipeline-stage-every-time-an",
+      "lastAction": "blog published: how-to-generate-a-change-order-document-the-moment-scope-cha",
       "error": null
     },
     "bar-linkedin": {
