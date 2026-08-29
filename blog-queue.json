@@ -5,12 +5,7 @@
       "brief": "A single monday.com project item contains enough data to produce a proposal, a kickoff agenda, a status report, a change order, and a closure summary — but most teams generate each one manually. This post shows the full document lifecycle and how to automate it end to end.",
       "description": "Target keyword: \"monday.com project document automation.\" H2 sections: (1) The five documents every project generates and when each one is needed, (2) How one monday.com item holds the data for all five if columns are set up correctly, (3) Mapping status stages to document triggers (Lead → Proposal, Won → Kickoff, In Progress → Status Report, Change → Change Order, Done → Closure Summary), (4) Building the automation chain in monday.com without code, (5) Avoiding document duplication when items are duplicated or moved, (6) The time savings math: how many hours this reclaims per project per month. Real-world example: A consulting firm running 20 concurrent client projects who currently has a different team member responsible for each document type, causing version chaos and missed deliverables.",
       "product": "docuai"
-    },
-    {
-      "title": "How to Audit the Deals You Marked Closed Lost — and Recover the Ones That Were Closed Too Early",
-      "brief": "Most sales teams treat closed lost as a final verdict, but a significant number of those deals were just stalled, misread, or abandoned by a rep who moved on. This post shows",
-      "product": "crm-audit"
     }
   ],
-  "last_updated": "2026-08-28T05:01:00.968Z"
+  "last_updated": "2026-08-29T05:01:01.432Z"
 }
