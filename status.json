@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-29T05:01:00.363Z",
+  "last_updated": "2026-08-29T05:01:02.588Z",
   "projects": {
     "docuai": {
       "status": "pending_review",
@@ -106,7 +106,7 @@
           ]
         }
       },
-      "last_action": "linkedin proposal: Proof | 28 באוגוסט 2026",
+      "last_action": "blog published: how-to-audit-the-deals-you-marked-closed-lost-and-recover-th",
       "next_scheduled": "Tuesday 08:00 — 3rd blog post | Friday 12:00 — LinkedIn proposal",
       "tasks": [
         {
@@ -155,9 +155,9 @@
   },
   "agent_runs": {
     "bar-blog": {
-      "lastRun": "2026-08-28T05:01:02.541Z",
+      "lastRun": "2026-08-29T05:01:02.588Z",
       "status": "success",
-      "lastAction": "blog published: how-to-generate-a-change-order-document-the-moment-scope-cha",
+      "lastAction": "blog published: how-to-audit-the-deals-you-marked-closed-lost-and-recover-th",
       "error": null
     },
     "bar-linkedin": {
