@@ -1,12 +1,6 @@
 {
   "queue": [
     {
-      "title": "One monday.com Board, Five Documents: How to Automate Your Entire Project Paper Trail",
-      "brief": "A single monday.com project item contains enough data to produce a proposal, a kickoff agenda, a status report, a change order, and a closure summary — but most teams generate each one manually. This post shows the full document lifecycle and how to automate it end to end.",
-      "description": "Target keyword: \"monday.com project document automation.\" H2 sections: (1) The five documents every project generates and when each one is needed, (2) How one monday.com item holds the data for all five if columns are set up correctly, (3) Mapping status stages to document triggers (Lead → Proposal, Won → Kickoff, In Progress → Status Report, Change → Change Order, Done → Closure Summary), (4) Building the automation chain in monday.com without code, (5) Avoiding document duplication when items are duplicated or moved, (6) The time savings math: how many hours this reclaims per project per month. Real-world example: A consulting firm running 20 concurrent client projects who currently has a different team member responsible for each document type, causing version chaos and missed deliverables.",
-      "product": "docuai"
-    },
-    {
       "title": "How to Generate a Client-Ready Invoice Summary Straight from Your monday.com Project Board",
       "brief": "Every project board already holds the data your invoice needs — hours logged, milestones hit, amounts agreed. This post shows monday.com users how to stop copy-pasting that data into a document and start generating a clean invoice summary automatically.",
       "description": "Target keyword: \"generate invoice from monday.com\". Real-world example: a digital agency that bills clients monthly per project milestone uses their monday.com Project board to track deliverables and logged hours, then manually rebuilds that data in a Word doc every billing cycle. H2 sections: (1) Why your monday.com board is already an invoice waiting to happen — mapping common board columns (item name, hours, rate, status) to invoice line items; (2) The copy-paste tax: how much time agencies actually lose recreating invoice data in external docs; (3) Which monday.com columns to standardise before you try to automate anything; (4) How to structure a document template that pulls live board data into an invoice layout; (5) How DocuAI generates the invoice summary in one click from an item or group; (6) The approval step: how to route the generated doc for internal sign-off before it reaches the client. Post closes with a manual checklist readers can use today even without any tool.",
@@ -49,5 +43,5 @@
       "product": "crm-audit"
     }
   ],
-  "last_updated": "2026-08-30T04:00:47.194Z"
+  "last_updated": "2026-08-30T05:01:06.481Z"
 }
