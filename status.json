@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-30T05:01:05.469Z",
+  "last_updated": "2026-08-30T05:01:07.661Z",
   "projects": {
     "docuai": {
       "status": "pending_review",
@@ -106,7 +106,7 @@
           ]
         }
       },
-      "last_action": "blog published: how-to-audit-the-deals-you-marked-closed-lost-and-recover-th",
+      "last_action": "blog published: one-monday-com-board-five-documents-how-to-automate-your-ent",
       "next_scheduled": "Tuesday 08:00 — 3rd blog post | Friday 12:00 — LinkedIn proposal",
       "tasks": [
         {
@@ -155,9 +155,9 @@
   },
   "agent_runs": {
     "bar-blog": {
-      "lastRun": "2026-08-29T05:01:02.588Z",
+      "lastRun": "2026-08-30T05:01:07.661Z",
       "status": "success",
-      "lastAction": "blog published: how-to-audit-the-deals-you-marked-closed-lost-and-recover-th",
+      "lastAction": "blog published: one-monday-com-board-five-documents-how-to-automate-your-ent",
       "error": null
     },
     "bar-linkedin": {
