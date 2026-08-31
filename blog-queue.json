@@ -25,12 +25,6 @@
       "product": "docuai"
     },
     {
-      "title": "How to Find Every Contact in Your monday.com CRM That Has Never Been Contacted — and What to Do With Them",
-      "brief": "Most monday.com pipelines have a silent graveyard of contacts who were added and then never followed up with. This post shows how to find them systematically and decide which ones still represent real revenue.",
-      "description": "Target keyword: \"uncontacted leads monday.com CRM\". Real-world example: a commercial real estate broker adds inbound enquiries to their monday.com CRM from three sources — web form, referral, and direct call — but with no enforced follow-up process, a filter audit reveals 34% of contacts have no activity logged and no next-action date set. H2 sections: (1) Why contacts go dark — the three most common reasons leads are added but never touched; (2) The two columns every monday.com CRM needs to make \"never contacted\" visible at a glance; (3) How to build a filter view that surfaces zero-activity contacts right now; (4) Ageing the list: contacts under 30 days vs over 90 days need completely different responses; (5) A triage framework: re-engage, archive, or escalate; (6) How the CRM Audit Tool scans for uncontacted and unowned records automatically and flags them in a report. Closes with a manual step-by-step filter recipe any monday.com user can run today.",
-      "product": "crm-audit"
-    },
-    {
       "title": "Why Your monday.com Pipeline Value Is Lying to You — and How to Find the Real Number",
       "brief": "The total value shown in your monday.com pipeline almost certainly includes deals that are stale, duplicated, or have never had a realistic close date set. This post shows how to strip the noise and find what your pipeline is actually worth.",
       "description": "Target keyword: \"monday.com pipeline value accuracy\". Real-world example: a SaaS sales team reports $2.1M in pipeline to leadership each month, but a column-by-column audit reveals $600K of that value is attached to deals with no activity in over 60 days, missing contact owners, or close dates that have already passed without being updated. H2 sections: (1) The four types of phantom pipeline value that inflate your monday.com numbers; (2) How to build a \"pipeline integrity\" filter that excludes stale and incomplete records from your total; (3) Close date hygiene: why overdue close dates are the single biggest distortion in reported pipeline value; (4) The deal value field problem — deals with $0, blank, or placeholder values that still count in your rollup; (5) How to calculate a confidence-weighted pipeline figure manually using a formula column; (6) How the CRM Audit Tool flags inflated pipeline and surfaces the realistic number automatically. Ends with a step-by-step manual audit readers can run this week.",
@@ -43,5 +37,5 @@
       "product": "crm-audit"
     }
   ],
-  "last_updated": "2026-08-30T05:01:06.481Z"
+  "last_updated": "2026-08-31T05:01:03.028Z"
 }
