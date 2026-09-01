@@ -1,12 +1,6 @@
 {
   "queue": [
     {
-      "title": "How to Generate a Client-Ready Invoice Summary Straight from Your monday.com Project Board",
-      "brief": "Every project board already holds the data your invoice needs — hours logged, milestones hit, amounts agreed. This post shows monday.com users how to stop copy-pasting that data into a document and start generating a clean invoice summary automatically.",
-      "description": "Target keyword: \"generate invoice from monday.com\". Real-world example: a digital agency that bills clients monthly per project milestone uses their monday.com Project board to track deliverables and logged hours, then manually rebuilds that data in a Word doc every billing cycle. H2 sections: (1) Why your monday.com board is already an invoice waiting to happen — mapping common board columns (item name, hours, rate, status) to invoice line items; (2) The copy-paste tax: how much time agencies actually lose recreating invoice data in external docs; (3) Which monday.com columns to standardise before you try to automate anything; (4) How to structure a document template that pulls live board data into an invoice layout; (5) How DocuAI generates the invoice summary in one click from an item or group; (6) The approval step: how to route the generated doc for internal sign-off before it reaches the client. Post closes with a manual checklist readers can use today even without any tool.",
-      "product": "docuai"
-    },
-    {
       "title": "How to Create a Project Closure Report from monday.com Without Writing a Single Word",
       "brief": "At the end of every project, clients expect a wrap-up document — but writing one from scratch wastes hours that could go to the next job. This post shows how to pull everything already sitting in your monday.com board into a polished project closure report automatically.",
       "description": "Target keyword: \"project closure report monday.com\". Real-world example: a construction management firm closes 6–10 projects per month and currently assigns a project coordinator two hours per project to write closure summaries from board data by hand. H2 sections: (1) What a good project closure report actually contains — scope delivered, timeline comparison, budget vs actuals, open items, lessons learned; (2) Where each of those sections already lives in your monday.com board right now; (3) Why project closure documents get skipped or delayed (and what that costs client relationships); (4) Building a closure report template that maps monday.com columns to each section; (5) How DocuAI generates the full closure report from the project item the moment the status flips to Done; (6) How to personalise the output before sending without re-entering any data. Ends with a free \"project closure checklist\" readers can implement manually today.",
@@ -37,5 +31,5 @@
       "product": "crm-audit"
     }
   ],
-  "last_updated": "2026-08-31T05:01:03.028Z"
+  "last_updated": "2026-09-01T05:01:07.999Z"
 }
