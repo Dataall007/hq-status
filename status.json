@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-02T05:00:59.769Z",
+  "last_updated": "2026-09-02T05:01:02.232Z",
   "projects": {
     "docuai": {
       "status": "pending_review",
@@ -106,7 +106,7 @@
           ]
         }
       },
-      "last_action": "blog published: how-to-generate-a-client-ready-invoice-summary-straight-from",
+      "last_action": "blog published: why-your-monday-com-pipeline-value-is-lying-to-you-and-how-t",
       "next_scheduled": "Tuesday 08:00 — 3rd blog post | Friday 12:00 — LinkedIn proposal",
       "tasks": [
         {
@@ -155,9 +155,9 @@
   },
   "agent_runs": {
     "bar-blog": {
-      "lastRun": "2026-09-01T05:01:09.754Z",
+      "lastRun": "2026-09-02T05:01:02.232Z",
       "status": "success",
-      "lastAction": "blog published: how-to-generate-a-client-ready-invoice-summary-straight-from",
+      "lastAction": "blog published: why-your-monday-com-pipeline-value-is-lying-to-you-and-how-t",
       "error": null
     },
     "bar-linkedin": {
