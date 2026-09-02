@@ -19,17 +19,11 @@
       "product": "docuai"
     },
     {
-      "title": "Why Your monday.com Pipeline Value Is Lying to You — and How to Find the Real Number",
-      "brief": "The total value shown in your monday.com pipeline almost certainly includes deals that are stale, duplicated, or have never had a realistic close date set. This post shows how to strip the noise and find what your pipeline is actually worth.",
-      "description": "Target keyword: \"monday.com pipeline value accuracy\". Real-world example: a SaaS sales team reports $2.1M in pipeline to leadership each month, but a column-by-column audit reveals $600K of that value is attached to deals with no activity in over 60 days, missing contact owners, or close dates that have already passed without being updated. H2 sections: (1) The four types of phantom pipeline value that inflate your monday.com numbers; (2) How to build a \"pipeline integrity\" filter that excludes stale and incomplete records from your total; (3) Close date hygiene: why overdue close dates are the single biggest distortion in reported pipeline value; (4) The deal value field problem — deals with $0, blank, or placeholder values that still count in your rollup; (5) How to calculate a confidence-weighted pipeline figure manually using a formula column; (6) How the CRM Audit Tool flags inflated pipeline and surfaces the realistic number automatically. Ends with a step-by-step manual audit readers can run this week.",
-      "product": "crm-audit"
-    },
-    {
       "title": "The Duplicate Deal Problem in monday.com — How to Find Them, Merge What Matters, and Stop Them Coming Back",
       "brief": "Duplicate deal records quietly inflate your pipeline, split your activity history, and cause two reps to work the same prospect without knowing it. This post gives monday.com users a practical method to find and fix duplicates before they cost a deal.",
       "description": "Target keyword: \"duplicate deals monday.com CRM\". Real-world example: a recruitment firm running a monday.com CRM discovers during a quarterly review that 11% of their active pipeline items are duplicates — the same",
       "product": "crm-audit"
     }
   ],
-  "last_updated": "2026-09-01T05:01:07.999Z"
+  "last_updated": "2026-09-02T05:01:00.892Z"
 }
