@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-03T05:01:09.114Z",
+  "last_updated": "2026-09-03T05:01:11.441Z",
   "projects": {
     "docuai": {
       "status": "pending_review",
@@ -106,7 +106,7 @@
           ]
         }
       },
-      "last_action": "blog published: why-your-monday-com-pipeline-value-is-lying-to-you-and-how-t",
+      "last_action": "blog published: how-to-create-a-project-closure-report-from-monday-com-witho",
       "next_scheduled": "Tuesday 08:00 — 3rd blog post | Friday 12:00 — LinkedIn proposal",
       "tasks": [
         {
@@ -155,9 +155,9 @@
   },
   "agent_runs": {
     "bar-blog": {
-      "lastRun": "2026-09-02T05:01:02.232Z",
+      "lastRun": "2026-09-03T05:01:11.441Z",
       "status": "success",
-      "lastAction": "blog published: why-your-monday-com-pipeline-value-is-lying-to-you-and-how-t",
+      "lastAction": "blog published: how-to-create-a-project-closure-report-from-monday-com-witho",
       "error": null
     },
     "bar-linkedin": {
