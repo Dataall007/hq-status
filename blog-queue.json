@@ -1,12 +1,6 @@
 {
   "queue": [
     {
-      "title": "How to Create a Project Closure Report from monday.com Without Writing a Single Word",
-      "brief": "At the end of every project, clients expect a wrap-up document — but writing one from scratch wastes hours that could go to the next job. This post shows how to pull everything already sitting in your monday.com board into a polished project closure report automatically.",
-      "description": "Target keyword: \"project closure report monday.com\". Real-world example: a construction management firm closes 6–10 projects per month and currently assigns a project coordinator two hours per project to write closure summaries from board data by hand. H2 sections: (1) What a good project closure report actually contains — scope delivered, timeline comparison, budget vs actuals, open items, lessons learned; (2) Where each of those sections already lives in your monday.com board right now; (3) Why project closure documents get skipped or delayed (and what that costs client relationships); (4) Building a closure report template that maps monday.com columns to each section; (5) How DocuAI generates the full closure report from the project item the moment the status flips to Done; (6) How to personalise the output before sending without re-entering any data. Ends with a free \"project closure checklist\" readers can implement manually today.",
-      "product": "docuai"
-    },
-    {
       "title": "The monday.com Handoff Document Problem — and How to Solve It Without Extra Admin",
       "brief": "When a deal closes and work begins, critical context lives in the CRM item and nowhere else — until someone finds time to write a handoff doc. This post shows how to auto-generate an internal handoff document the moment a deal moves from Sales to Operations in monday.com.",
       "description": "Target keyword: \"sales to ops handoff monday.com\". Real-world example: a managed IT services company loses an average of 45 minutes per new client because the ops team has to chase the sales rep for context that was never documented — client requirements, agreed scope, special conditions, key contacts. H2 sections: (1) The hidden cost of the sales-to-ops gap — what gets lost and what it causes downstream; (2) What a proper internal handoff document should contain; (3) How monday.com CRM columns already capture most of that information; (4) The automation trigger: using a status change (\"Closed Won\" → \"Onboarding\") to kick off document generation; (5) How DocuAI builds the handoff doc from CRM item data and delivers it to the ops team automatically; (6) How to keep the doc lightweight enough that people actually read it. Closes with a manual handoff template readers can copy and fill in today.",
@@ -25,5 +19,5 @@
       "product": "crm-audit"
     }
   ],
-  "last_updated": "2026-09-02T05:01:00.892Z"
+  "last_updated": "2026-09-03T05:01:10.221Z"
 }
