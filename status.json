@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-04T05:01:02.860Z",
+  "last_updated": "2026-09-04T05:01:05.244Z",
   "projects": {
     "docuai": {
       "status": "pending_review",
@@ -106,7 +106,7 @@
           ]
         }
       },
-      "last_action": "blog published: how-to-create-a-project-closure-report-from-monday-com-witho",
+      "last_action": "blog published: the-duplicate-deal-problem-in-monday-com-how-to-find-them-me",
       "next_scheduled": "Tuesday 08:00 — 3rd blog post | Friday 12:00 — LinkedIn proposal",
       "tasks": [
         {
@@ -155,9 +155,9 @@
   },
   "agent_runs": {
     "bar-blog": {
-      "lastRun": "2026-09-03T05:01:11.441Z",
+      "lastRun": "2026-09-04T05:01:05.244Z",
       "status": "success",
-      "lastAction": "blog published: how-to-create-a-project-closure-report-from-monday-com-witho",
+      "lastAction": "blog published: the-duplicate-deal-problem-in-monday-com-how-to-find-them-me",
       "error": null
     },
     "bar-linkedin": {
