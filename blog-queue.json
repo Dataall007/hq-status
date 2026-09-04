@@ -11,13 +11,7 @@
       "brief": "Most teams use the same subcontractor agreement over and over but fill it in by hand every time — copying scope, dates, and rates out of monday.com into a Word doc. This post shows how to generate that agreement automatically the moment a subcontractor item is created on the board.",
       "description": "Target keyword: \"generate subcontractor agreement monday.com\". Real-world example: a marketing agency that hires freelance designers per campaign currently has an ops manager spend 20–30 minutes per engagement copying project scope, payment terms, and deadlines from their monday.com board into a standard agreement template. H2 sections: (1) Why subcontractor agreements are the most re-typed document in project-based businesses; (2) The five fields that change every time — and where they already live in monday.com; (3) How to build a reusable agreement template with merge fields mapped to board columns; (4) Setting the automation: trigger document generation when a \"Subcontractor\" item is added or a status moves to \"Confirmed\"; (5) How DocuAI populates and packages the agreement for e-signature or PDF delivery; (6) Version control: making sure the right template version fires for the right project type. Ends with a free variable-field checklist for subcontractor agreements.",
       "product": "docuai"
-    },
-    {
-      "title": "The Duplicate Deal Problem in monday.com — How to Find Them, Merge What Matters, and Stop Them Coming Back",
-      "brief": "Duplicate deal records quietly inflate your pipeline, split your activity history, and cause two reps to work the same prospect without knowing it. This post gives monday.com users a practical method to find and fix duplicates before they cost a deal.",
-      "description": "Target keyword: \"duplicate deals monday.com CRM\". Real-world example: a recruitment firm running a monday.com CRM discovers during a quarterly review that 11% of their active pipeline items are duplicates — the same",
-      "product": "crm-audit"
     }
   ],
-  "last_updated": "2026-09-03T05:01:10.221Z"
+  "last_updated": "2026-09-04T05:01:03.982Z"
 }
