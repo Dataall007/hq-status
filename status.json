@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-05T05:01:09.064Z",
+  "last_updated": "2026-09-05T05:01:11.092Z",
   "projects": {
     "docuai": {
       "status": "pending_review",
@@ -106,7 +106,7 @@
           ]
         }
       },
-      "last_action": "linkedin proposal: Proof | 4 בספטמבר 2026",
+      "last_action": "blog published: the-monday-com-handoff-document-problem-and-how-to-solve-it-",
       "next_scheduled": "Tuesday 08:00 — 3rd blog post | Friday 12:00 — LinkedIn proposal",
       "tasks": [
         {
@@ -155,9 +155,9 @@
   },
   "agent_runs": {
     "bar-blog": {
-      "lastRun": "2026-09-04T05:01:05.244Z",
+      "lastRun": "2026-09-05T05:01:11.092Z",
       "status": "success",
-      "lastAction": "blog published: the-duplicate-deal-problem-in-monday-com-how-to-find-them-me",
+      "lastAction": "blog published: the-monday-com-handoff-document-problem-and-how-to-solve-it-",
       "error": null
     },
     "bar-linkedin": {
