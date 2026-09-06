@@ -31,12 +31,6 @@
       "product": "docuai"
     },
     {
-      "title": "How to Find Every Deal in Your monday.com CRM That Has Been Reopened More Than Once — and What That Pattern Is Telling You",
-      "brief": "Deals that get closed and reopened repeatedly are one of the most overlooked signs of pipeline dysfunction — they inflate activity metrics, distort close rates, and signal a sales process problem nobody is naming. This post shows how to find them in monday.com and what to do about it.",
-      "description": "Target keyword: \"monday.com deal reopen pipeline health\". H2 sections: Why reopened deals are a warning sign, not a win / How serial reopens distort your close rate and forecast accuracy / How to identify reopened deals using monday.com status history and activity logs / What the common patterns look like: pricing objection loops, stakeholder changes, approval delays / How to decide whether a reopened deal should stay open or be formally restarted / How to fix the upstream sales process issue each pattern points to. Real-world example: a SaaS company whose monday.com CRM shows 22 deals reopened in the last quarter, with 7 of them reopened twice — walking through how to surface these deals, categorise the reopen reason, and identify that 80% share the same root cause (deals closed before legal approval was confirmed).",
-      "product": "crm-audit"
-    },
-    {
       "title": "How to Spot the Deals in Your monday.com Pipeline Where You're the Only One Talking",
       "brief": "One-sided deals — where all activity is outbound and the prospect has gone quiet — sit in pipelines for months looking alive while they're actually dead. This post shows how to identify them in monday.com before they distort your forecast.",
       "description": "Target keyword: \"monday.com one-sided deals pipeline audit\". H2 sections: What a one-sided deal looks like in a monday.com CRM / Why these deals are more dangerous to forecast accuracy than openly lost ones / How to use activity columns and last-contact dates to identify one-sided patterns / The difference between a slow deal and a dead one — and how to tell them apart / How to run a re-engagement check on flagged deals before writing them off / When to close them out and how to do it cleanly without distorting your data. Real-world example: a B2B services firm with 40 open deals in monday.com where 14 have had zero inbound activity logged in 45-plus days — showing how to filter, sort, and review those 14 to determine which are genuinely in progress and which have been one-sided for so long they should be formally disqualified.",
@@ -54,5 +48,5 @@
       "product": "crm-audit"
     }
   ],
-  "last_updated": "2026-09-06T04:00:56.004Z"
+  "last_updated": "2026-09-06T05:01:07.843Z"
 }
