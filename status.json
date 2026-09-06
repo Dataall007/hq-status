@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-06T05:01:06.830Z",
+  "last_updated": "2026-09-06T05:01:08.948Z",
   "projects": {
     "docuai": {
       "status": "pending_review",
@@ -106,7 +106,7 @@
           ]
         }
       },
-      "last_action": "blog published: the-monday-com-handoff-document-problem-and-how-to-solve-it-",
+      "last_action": "blog published: how-to-find-every-deal-in-your-monday-com-crm-that-has-been-",
       "next_scheduled": "Tuesday 08:00 — 3rd blog post | Friday 12:00 — LinkedIn proposal",
       "tasks": [
         {
@@ -155,9 +155,9 @@
   },
   "agent_runs": {
     "bar-blog": {
-      "lastRun": "2026-09-05T05:01:11.092Z",
+      "lastRun": "2026-09-06T05:01:08.948Z",
       "status": "success",
-      "lastAction": "blog published: the-monday-com-handoff-document-problem-and-how-to-solve-it-",
+      "lastAction": "blog published: how-to-find-every-deal-in-your-monday-com-crm-that-has-been-",
       "error": null
     },
     "bar-linkedin": {
