@@ -25,12 +25,6 @@
       "product": "docuai"
     },
     {
-      "title": "How to Spot the Deals in Your monday.com Pipeline Where You're the Only One Talking",
-      "brief": "One-sided deals — where all activity is outbound and the prospect has gone quiet — sit in pipelines for months looking alive while they're actually dead. This post shows how to identify them in monday.com before they distort your forecast.",
-      "description": "Target keyword: \"monday.com one-sided deals pipeline audit\". H2 sections: What a one-sided deal looks like in a monday.com CRM / Why these deals are more dangerous to forecast accuracy than openly lost ones / How to use activity columns and last-contact dates to identify one-sided patterns / The difference between a slow deal and a dead one — and how to tell them apart / How to run a re-engagement check on flagged deals before writing them off / When to close them out and how to do it cleanly without distorting your data. Real-world example: a B2B services firm with 40 open deals in monday.com where 14 have had zero inbound activity logged in 45-plus days — showing how to filter, sort, and review those 14 to determine which are genuinely in progress and which have been one-sided for so long they should be formally disqualified.",
-      "product": "crm-audit"
-    },
-    {
       "title": "The monday.com Deal Value Fields That Sales Teams Fill In Wrong — and How It Breaks Your Revenue Forecast",
       "brief": "Bad forecast numbers in monday.com are rarely caused by missing deal values — they're caused by deal values that were entered inconsistently and never corrected. This post shows the five most common data entry mistakes and exactly how to find and fix them.",
       "description": "Target keyword: \"monday.com CRM deal value forecast accuracy\". H2 sections: Why forecast errors often start with how deal values get entered, not how deals close / The five most common deal value mistakes in monday.com (estimated vs contracted, multi-year totals, currencies, discounts baked in) / How to audit your pipeline for value inconsistencies using filters and formulas / How to build a deal value entry standard your team will actually follow / How to retrospectively clean deal values without losing history / What your pipeline total should look like once the data is clean. Real-world example: a professional services firm whose monday.com pipeline shows £1.4m in open deals — but on audit, £380k of that figure is multi-year contract totals entered as single-year values, £90k has had a 20% discount already applied before the column standard asks for it, and £60k is in the wrong currency, walking through the exact filter sequence used to find each category.",
@@ -42,5 +36,5 @@
       "product": "crm-audit"
     }
   ],
-  "last_updated": "2026-09-07T05:01:08.106Z"
+  "last_updated": "2026-09-08T05:01:04.297Z"
 }
