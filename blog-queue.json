@@ -1,12 +1,6 @@
 {
   "queue": [
     {
-      "title": "How to Turn a monday.com Risk Log into a Client-Ready Risk Report Without Touching a Word Processor",
-      "brief": "Most project managers track risks in monday.com but never turn that data into a document the client actually sees — this post shows exactly how to bridge that gap. The result is a polished risk report generated in seconds, not assembled over an hour in Word.",
-      "description": "Target keyword: \"monday.com risk report template\". H2 sections: Why risk logs die inside monday.com and never reach clients / What a client-ready risk report actually needs to contain / How to structure your monday.com board columns so risk data is report-ready / How to map those columns to a formatted document automatically / The exact output: what the finished risk report looks like / How to trigger generation when a risk status changes to \"Escalated\". Real-world example: a construction project manager who tracks 12 active risks in a monday.com board but sends clients a manually typed risk summary email every Friday — showing how the same board data can produce a structured PDF report with risk owner, likelihood, impact rating, and mitigation plan populated automatically.",
-      "product": "docuai"
-    },
-    {
       "title": "How to Generate a Vendor or Subcontractor Brief Directly from Your monday.com Project Board",
       "brief": "Every time a new vendor or subcontractor joins a project, someone has to write a brief explaining scope, timelines, and deliverables from scratch — yet all that information already lives in monday.com. This post shows how to generate that brief automatically the moment a new vendor item is added to the board.",
       "description": "Target keyword: \"monday.com subcontractor brief automation\". H2 sections: Why vendor onboarding documents get written the same way every time / The monday.com columns that contain everything a vendor brief needs / How to structure a board so a brief can be generated without manual input / Mapping project scope, deadlines, and contact fields to a document template / Triggering the brief generation when a vendor status is set to \"Confirmed\" / What the finished vendor brief looks like and how to share it. Real-world example: a marketing agency that brings in freelance designers per project and currently emails a manually written scope brief to each one — showing how the same project board data (deliverables column, deadline column, brand guidelines link, point-of-contact column) auto-generates a clean briefing document the moment the freelancer is marked confirmed.",
@@ -36,5 +30,5 @@
       "product": "crm-audit"
     }
   ],
-  "last_updated": "2026-09-08T05:01:04.297Z"
+  "last_updated": "2026-09-09T05:01:09.198Z"
 }
