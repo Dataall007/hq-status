@@ -19,16 +19,10 @@
       "product": "docuai"
     },
     {
-      "title": "The monday.com Deal Value Fields That Sales Teams Fill In Wrong — and How It Breaks Your Revenue Forecast",
-      "brief": "Bad forecast numbers in monday.com are rarely caused by missing deal values — they're caused by deal values that were entered inconsistently and never corrected. This post shows the five most common data entry mistakes and exactly how to find and fix them.",
-      "description": "Target keyword: \"monday.com CRM deal value forecast accuracy\". H2 sections: Why forecast errors often start with how deal values get entered, not how deals close / The five most common deal value mistakes in monday.com (estimated vs contracted, multi-year totals, currencies, discounts baked in) / How to audit your pipeline for value inconsistencies using filters and formulas / How to build a deal value entry standard your team will actually follow / How to retrospectively clean deal values without losing history / What your pipeline total should look like once the data is clean. Real-world example: a professional services firm whose monday.com pipeline shows £1.4m in open deals — but on audit, £380k of that figure is multi-year contract totals entered as single-year values, £90k has had a 20% discount already applied before the column standard asks for it, and £60k is in the wrong currency, walking through the exact filter sequence used to find each category.",
-      "product": "crm-audit"
-    },
-    {
       "title": "How to Find Every Deal in Your monday.com CRM That Is Assigned to Someone Who Has Left the Company",
       "brief": "When a salesperson leaves, their deals rarely get reassigned properly — they sit in the pipeline ownerless, unf",
       "product": "crm-audit"
     }
   ],
-  "last_updated": "2026-09-09T05:01:09.198Z"
+  "last_updated": "2026-09-10T05:01:24.717Z"
 }
