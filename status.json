@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-10T05:01:23.399Z",
+  "last_updated": "2026-09-10T05:01:25.791Z",
   "projects": {
     "docuai": {
       "status": "pending_review",
@@ -106,7 +106,7 @@
           ]
         }
       },
-      "last_action": "blog published: how-to-turn-a-monday-com-risk-log-into-a-client-ready-risk-r",
+      "last_action": "blog published: the-monday-com-deal-value-fields-that-sales-teams-fill-in-wr",
       "next_scheduled": "Tuesday 08:00 — 3rd blog post | Friday 12:00 — LinkedIn proposal",
       "tasks": [
         {
@@ -155,9 +155,9 @@
   },
   "agent_runs": {
     "bar-blog": {
-      "lastRun": "2026-09-09T05:01:10.445Z",
+      "lastRun": "2026-09-10T05:01:25.791Z",
       "status": "success",
-      "lastAction": "blog published: how-to-turn-a-monday-com-risk-log-into-a-client-ready-risk-r",
+      "lastAction": "blog published: the-monday-com-deal-value-fields-that-sales-teams-fill-in-wr",
       "error": null
     },
     "bar-linkedin": {
