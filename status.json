@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-11T09:00:19.813Z",
+  "last_updated": "2026-09-11T09:00:21.294Z",
   "projects": {
     "docuai": {
       "status": "pending_review",
@@ -106,7 +106,7 @@
           ]
         }
       },
-      "last_action": "blog published: how-to-generate-a-vendor-or-subcontractor-brief-directly-fro",
+      "last_action": "linkedin proposal: Proof | 11 בספטמבר 2026",
       "next_scheduled": "Tuesday 08:00 — 3rd blog post | Friday 12:00 — LinkedIn proposal",
       "tasks": [
         {
@@ -161,9 +161,9 @@
       "error": null
     },
     "bar-linkedin": {
-      "lastRun": "2026-09-04T09:00:21.266Z",
+      "lastRun": "2026-09-11T09:00:21.294Z",
       "status": "success",
-      "lastAction": "linkedin proposal: Proof | 4 בספטמבר 2026",
+      "lastAction": "linkedin proposal: Proof | 11 בספטמבר 2026",
       "error": null
     },
     "routine-email": {
