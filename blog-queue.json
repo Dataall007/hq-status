@@ -1,12 +1,6 @@
 {
   "queue": [
     {
-      "title": "How to Generate a Vendor or Subcontractor Brief Directly from Your monday.com Project Board",
-      "brief": "Every time a new vendor or subcontractor joins a project, someone has to write a brief explaining scope, timelines, and deliverables from scratch — yet all that information already lives in monday.com. This post shows how to generate that brief automatically the moment a new vendor item is added to the board.",
-      "description": "Target keyword: \"monday.com subcontractor brief automation\". H2 sections: Why vendor onboarding documents get written the same way every time / The monday.com columns that contain everything a vendor brief needs / How to structure a board so a brief can be generated without manual input / Mapping project scope, deadlines, and contact fields to a document template / Triggering the brief generation when a vendor status is set to \"Confirmed\" / What the finished vendor brief looks like and how to share it. Real-world example: a marketing agency that brings in freelance designers per project and currently emails a manually written scope brief to each one — showing how the same project board data (deliverables column, deadline column, brand guidelines link, point-of-contact column) auto-generates a clean briefing document the moment the freelancer is marked confirmed.",
-      "product": "docuai"
-    },
-    {
       "title": "How to Auto-Generate a Project Budget Summary Document from monday.com Before Every Client Check-In",
       "brief": "Client check-ins stall when the budget conversation is built on a verbal update rather than a document — yet the numbers are already sitting in monday.com. This post shows how to pull budget columns into a formatted summary that's ready before the meeting starts.",
       "description": "Target keyword: \"monday.com project budget report client\". H2 sections: Why budget conversations in client meetings lack the documentation they need / Which monday.com columns hold the budget data most teams already track / How to structure budget tracking columns for clean document output / Building the budget summary template: what sections belong in every client-facing version / How to trigger document generation on a recurring basis or before a check-in is scheduled / What the finished budget summary looks like versus a raw monday.com export. Real-world example: a digital agency account manager who pulls numbers from monday.com into a Google Doc manually before every fortnightly client call — showing how a formatted budget summary (approved budget, spend to date, remaining, variance flag) can be generated automatically from the same board data with one click.",
@@ -24,5 +18,5 @@
       "product": "crm-audit"
     }
   ],
-  "last_updated": "2026-09-10T05:01:24.717Z"
+  "last_updated": "2026-09-11T05:01:04.294Z"
 }
