@@ -11,12 +11,7 @@
       "brief": "Lessons learned documents almost never get written because they're left until after the project wraps and everyone has moved on — but the data to write them is already in monday.com throughout the project. This post shows how to capture and generate that document before the knowledge disappears.",
       "description": "Target keyword: \"monday.com lessons learned report\". H2 sections: Why lessons learned documents fail (it's a timing problem, not a laziness problem) / What a useful lessons learned document actually contains / How to build a running lessons log inside monday.com during the project / Which columns to use so the data is document-ready at close / How to generate the finished report from board data without a writing session / How to store and reuse lessons learned across future projects. Real-world example: a software implementation consultancy that runs 6-week projects but never produces a lessons learned document because no one has time at close — showing how a dedicated monday.com sub-board used throughout the project (issue column, root cause, resolution, owner, outcome rating) generates a structured post-project document automatically at the point the project status is set to \"Complete.\"",
       "product": "docuai"
-    },
-    {
-      "title": "How to Find Every Deal in Your monday.com CRM That Is Assigned to Someone Who Has Left the Company",
-      "brief": "When a salesperson leaves, their deals rarely get reassigned properly — they sit in the pipeline ownerless, unf",
-      "product": "crm-audit"
     }
   ],
-  "last_updated": "2026-09-11T05:01:04.294Z"
+  "last_updated": "2026-09-12T05:00:59.899Z"
 }
