@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-12T05:00:58.908Z",
+  "last_updated": "2026-09-12T05:01:01.061Z",
   "projects": {
     "docuai": {
       "status": "pending_review",
@@ -106,7 +106,7 @@
           ]
         }
       },
-      "last_action": "linkedin proposal: Proof | 11 בספטמבר 2026",
+      "last_action": "blog published: how-to-find-every-deal-in-your-monday-com-crm-that-is-assign",
       "next_scheduled": "Tuesday 08:00 — 3rd blog post | Friday 12:00 — LinkedIn proposal",
       "tasks": [
         {
@@ -155,9 +155,9 @@
   },
   "agent_runs": {
     "bar-blog": {
-      "lastRun": "2026-09-11T05:01:05.851Z",
+      "lastRun": "2026-09-12T05:01:01.061Z",
       "status": "success",
-      "lastAction": "blog published: how-to-generate-a-vendor-or-subcontractor-brief-directly-fro",
+      "lastAction": "blog published: how-to-find-every-deal-in-your-monday-com-crm-that-is-assign",
       "error": null
     },
     "bar-linkedin": {
