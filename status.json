@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-13T05:01:00.633Z",
+  "last_updated": "2026-09-13T05:01:03.365Z",
   "projects": {
     "docuai": {
       "status": "pending_review",
@@ -106,7 +106,7 @@
           ]
         }
       },
-      "last_action": "blog published: how-to-find-every-deal-in-your-monday-com-crm-that-is-assign",
+      "last_action": "blog published: how-to-auto-generate-a-project-budget-summary-document-from-",
       "next_scheduled": "Tuesday 08:00 — 3rd blog post | Friday 12:00 — LinkedIn proposal",
       "tasks": [
         {
@@ -155,9 +155,9 @@
   },
   "agent_runs": {
     "bar-blog": {
-      "lastRun": "2026-09-12T05:01:01.061Z",
+      "lastRun": "2026-09-13T05:01:03.365Z",
       "status": "success",
-      "lastAction": "blog published: how-to-find-every-deal-in-your-monday-com-crm-that-is-assign",
+      "lastAction": "blog published: how-to-auto-generate-a-project-budget-summary-document-from-",
       "error": null
     },
     "bar-linkedin": {
