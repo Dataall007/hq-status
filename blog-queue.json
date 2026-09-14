@@ -31,12 +31,6 @@
       "product": "docuai"
     },
     {
-      "title": "How to Find Every Deal in Your monday.com CRM Where the Close Date Has Passed but the Deal Is Still Open",
-      "brief": "Expired close dates are one of the most common signs of a pipeline that has quietly stopped being managed. This post shows how to find every overdue deal in monday.com, what each one is likely telling you, and how to decide which to revive, reprice, or close out.",
-      "description": "Target keyword: \"overdue deals monday.com pipeline.\" Real-world example: a sales manager at a software reseller who pulls a pipeline report for leadership and realises thirty percent of open deals have close dates from the previous quarter — none of them flagged, none of them followed up. H2 sections: Why expired close dates are a pipeline health signal, not just a data hygiene issue; How to build a monday.com filter that surfaces every deal where close date is in the past and status is still open; What expired close dates usually mean (deal gone cold, rep avoiding a loss entry, forecast padding); How to categorise what you find — genuinely alive, stalled, or dead; What to do with each category: redate with a plan, close lost with a reason, or escalate; How to stop close date drift from happening again with a simple monday.com automation. The post gives monday.com sales teams a repeatable audit they can run in under an hour.",
-      "product": "crm-audit"
-    },
-    {
       "title": "How to Find the Deals in Your monday.com Pipeline That Have Changed Stage But Never Changed Value",
       "brief": "A deal that moves through your pipeline without its value being updated is almost certainly being managed by assumption, not reality. This post shows how to find these records and why they are quietly distorting your forecast.",
       "description": "Target keyword: \"pipeline deal value not updated monday.com.\" Real-world example: a VP of Sales at a professional services firm who notices their weighted pipeline looks healthy but closed-won revenue keeps coming in lower than forecast — the root cause turns out to be deal values set at qualification that were never revised as scope changed. H2 sections: Why deal value should change as a deal progresses — and why it rarely does; How to identify deals in monday.com where the stage column has been updated multiple times but the value column hasn't changed since creation; What stale deal values do to your weighted pipeline and revenue forecast; The most common reasons reps don't update deal value (and which are fixable with process vs. board design); How to use monday.com column history and filters to surface these records; A review cadence that makes value updates a natural part of stage progression. The post gives sales managers a practical audit technique with direct board-level instructions.",
@@ -49,5 +43,5 @@
       "product": "crm-audit"
     }
   ],
-  "last_updated": "2026-09-13T05:01:02.023Z"
+  "last_updated": "2026-09-14T05:01:09.814Z"
 }
