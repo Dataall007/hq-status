@@ -25,17 +25,11 @@
       "product": "docuai"
     },
     {
-      "title": "How to Find the Deals in Your monday.com Pipeline That Have Changed Stage But Never Changed Value",
-      "brief": "A deal that moves through your pipeline without its value being updated is almost certainly being managed by assumption, not reality. This post shows how to find these records and why they are quietly distorting your forecast.",
-      "description": "Target keyword: \"pipeline deal value not updated monday.com.\" Real-world example: a VP of Sales at a professional services firm who notices their weighted pipeline looks healthy but closed-won revenue keeps coming in lower than forecast — the root cause turns out to be deal values set at qualification that were never revised as scope changed. H2 sections: Why deal value should change as a deal progresses — and why it rarely does; How to identify deals in monday.com where the stage column has been updated multiple times but the value column hasn't changed since creation; What stale deal values do to your weighted pipeline and revenue forecast; The most common reasons reps don't update deal value (and which are fixable with process vs. board design); How to use monday.com column history and filters to surface these records; A review cadence that makes value updates a natural part of stage progression. The post gives sales managers a practical audit technique with direct board-level instructions.",
-      "product": "crm-audit"
-    },
-    {
       "title": "How to Identify the Deals in Your monday.com CRM That Are Assigned to the Wrong Rep — and Why It Happens More Than You Think",
       "brief": "Misassigned deals don't just create awkward conversations",
       "description": "Target keyword: \"deal ownership errors monday.com CRM.\" Real-world example: a sales ops manager at a staffing agency who discovers during a quarterly review that seventeen open deals are assigned to reps who either left, changed territories, or were never the correct owner — some of them have been sitting untouched for months as a result. H2 sections: Why deal ownership errors are more common than sales teams admit; The four ways deals end up assigned to the wrong person in monday.com (rep turnover, territory changes, import errors, self-assignment at creation); How to audit deal ownership in monday.com — filters, group-by views, and what to look for; What to do when you find misassigned deals: how to reassign without losing history or context; How to use monday.com automations to flag ownership gaps before they become revenue leaks; Building an ownership audit into your standard pipeline review rhythm. The post is a practical, step-by-step audit guide any monday.com CRM admin can follow.\nBRIEF: Misassigned deals don't just create awkward conversations",
       "product": "crm-audit"
     }
   ],
-  "last_updated": "2026-09-15T05:01:09.036Z"
+  "last_updated": "2026-09-16T05:01:08.919Z"
 }
