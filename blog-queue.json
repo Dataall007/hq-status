@@ -1,12 +1,6 @@
 {
   "queue": [
     {
-      "title": "How to Generate a Board-Approved Meeting Agenda and Follow-Up Summary Directly from Your monday.com Items",
-      "brief": "Most teams spend more time formatting meeting notes than running the meeting itself. This post shows how to pull agenda items and action points straight from monday.com and turn them into a polished, sendable document in seconds.",
-      "description": "Target keyword: \"generate meeting agenda from monday.com.\" Real-world example: a project manager at a construction firm who manually copies action items from their monday.com board into a Word doc before every client call. H2 sections: Why meeting prep and follow-up documents are a hidden time drain for monday.com teams; What your monday.com board already contains that belongs in your agenda; How to structure a meeting agenda template that maps directly to board columns; Turning status updates and comments into a follow-up summary without retyping anything; How DocuAI generates both the agenda and the follow-up from the same board item; What to do if your board isn't set up to support this yet (a simple column checklist). The post teaches readers how to identify which columns hold agenda-worthy data and how to structure their board so document generation is seamless — useful even without the product.",
-      "product": "docuai"
-    },
-    {
       "title": "How to Auto-Generate a Subcontractor Purchase Order from Your monday.com Project Board",
       "brief": "Purchase orders are repetitive, error-prone, and almost always created by copying last week's version — a workflow that was never designed to live outside monday.com. This post shows how to generate a complete, accurate PO the moment a task or budget line is confirmed on the board.",
       "description": "Target keyword: \"generate purchase order from monday.com.\" Real-world example: an operations manager at a mid-size events company who issues dozens of POs per project and currently exports board data into Excel, reformats it, and emails it as a PDF. H2 sections: Why purchase orders keep getting generated outside monday.com even when all the data is already there; The monday.com columns that map directly to PO fields (vendor, line item, quantity, unit cost, delivery date); How to build a PO template that auto-populates from board data; What triggers PO generation — status changes, approvals, or date columns; How DocuAI turns a confirmed budget line into a ready-to-send PO; Common PO mistakes that happen when data is copied manually and how board-driven generation prevents them. The post gives actionable advice for any monday.com user who issues vendor documents repeatedly, regardless of tool choice.",
@@ -31,5 +25,5 @@
       "product": "crm-audit"
     }
   ],
-  "last_updated": "2026-09-16T05:01:08.919Z"
+  "last_updated": "2026-09-17T05:01:01.920Z"
 }
