@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-18T05:01:06.673Z",
+  "last_updated": "2026-09-18T05:01:09.077Z",
   "projects": {
     "docuai": {
       "status": "pending_review",
@@ -106,7 +106,7 @@
           ]
         }
       },
-      "last_action": "blog published: how-to-generate-a-board-approved-meeting-agenda-and-follow-u",
+      "last_action": "blog published: how-to-identify-the-deals-in-your-monday-com-crm-that-are-as",
       "next_scheduled": "Tuesday 08:00 — 3rd blog post | Friday 12:00 — LinkedIn proposal",
       "tasks": [
         {
@@ -155,9 +155,9 @@
   },
   "agent_runs": {
     "bar-blog": {
-      "lastRun": "2026-09-17T05:01:03.115Z",
+      "lastRun": "2026-09-18T05:01:09.077Z",
       "status": "success",
-      "lastAction": "blog published: how-to-generate-a-board-approved-meeting-agenda-and-follow-u",
+      "lastAction": "blog published: how-to-identify-the-deals-in-your-monday-com-crm-that-are-as",
       "error": null
     },
     "bar-linkedin": {
