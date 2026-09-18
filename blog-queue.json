@@ -17,13 +17,7 @@
       "brief": "When a client asks \"who will be working on this and when,\" most teams leave monday.com to build a slide or a Word table from scratch. This post shows how to generate a professional staffing proposal directly from the people columns, timeline, and workload data already sitting on your board.",
       "description": "Target keyword: \"staffing proposal from monday.com.\" Real-world example: a consulting firm project lead who spends two hours before every new engagement converting their internal resource plan into a client-facing team overview document. H2 sections: What clients actually want to see in a staffing proposal and why your board already contains it; The monday.com columns that map to staffing proposal fields (assignee, role, effort, dates, deliverables); How to design your resource plan board so it doubles as a proposal data source; Formatting considerations: turning internal board language into client-appropriate copy; How DocuAI converts a resource plan board into a branded staffing proposal; When to send the staffing proposal and how to keep it in sync as the plan changes. The post teaches monday.com users how to structure their resource planning boards more intentionally — a standalone improvement regardless of document automation.",
       "product": "docuai"
-    },
-    {
-      "title": "How to Identify the Deals in Your monday.com CRM That Are Assigned to the Wrong Rep — and Why It Happens More Than You Think",
-      "brief": "Misassigned deals don't just create awkward conversations",
-      "description": "Target keyword: \"deal ownership errors monday.com CRM.\" Real-world example: a sales ops manager at a staffing agency who discovers during a quarterly review that seventeen open deals are assigned to reps who either left, changed territories, or were never the correct owner — some of them have been sitting untouched for months as a result. H2 sections: Why deal ownership errors are more common than sales teams admit; The four ways deals end up assigned to the wrong person in monday.com (rep turnover, territory changes, import errors, self-assignment at creation); How to audit deal ownership in monday.com — filters, group-by views, and what to look for; What to do when you find misassigned deals: how to reassign without losing history or context; How to use monday.com automations to flag ownership gaps before they become revenue leaks; Building an ownership audit into your standard pipeline review rhythm. The post is a practical, step-by-step audit guide any monday.com CRM admin can follow.\nBRIEF: Misassigned deals don't just create awkward conversations",
-      "product": "crm-audit"
     }
   ],
-  "last_updated": "2026-09-17T05:01:01.920Z"
+  "last_updated": "2026-09-18T05:01:07.835Z"
 }
