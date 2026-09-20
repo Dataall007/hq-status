@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-20T05:01:09.891Z",
+  "last_updated": "2026-09-20T05:01:12.299Z",
   "projects": {
     "docuai": {
       "status": "pending_review",
@@ -106,7 +106,7 @@
           ]
         }
       },
-      "last_action": "blog published: how-to-auto-generate-a-subcontractor-purchase-order-from-you",
+      "last_action": "blog published: how-to-find-every-deal-in-your-monday-com-crm-where-the-cont",
       "next_scheduled": "Tuesday 08:00 — 3rd blog post | Friday 12:00 — LinkedIn proposal",
       "tasks": [
         {
@@ -155,9 +155,9 @@
   },
   "agent_runs": {
     "bar-blog": {
-      "lastRun": "2026-09-19T05:01:08.100Z",
+      "lastRun": "2026-09-20T05:01:12.299Z",
       "status": "success",
-      "lastAction": "blog published: how-to-auto-generate-a-subcontractor-purchase-order-from-you",
+      "lastAction": "blog published: how-to-find-every-deal-in-your-monday-com-crm-where-the-cont",
       "error": null
     },
     "bar-linkedin": {
