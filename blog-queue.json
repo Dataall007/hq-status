@@ -37,17 +37,11 @@
       "product": "docuai"
     },
     {
-      "title": "How to Find Every Deal in Your monday.com CRM Where the Contact Person Has Never Been Logged",
-      "brief": "A deal without a named contact is a deal with no one to call — but most monday.com pipelines are full of them, created in a rush and never updated. This post shows how to surface every contactless deal in your CRM and why fixing them is the fastest way to unlock stuck pipeline.",
-      "description": "Target keyword: \"deals without contact monday.com CRM audit.\" H2 sections: (1) How contactless deals get created — rushed data entry, imported records, and deals created from email threads where no one filled in the person field; (2) Why a missing contact person is more damaging than a missing deal value — you can estimate revenue, you cannot call a blank field; (3) How to filter your monday.com board to find every deal where the contact column is empty — step-by-step using board filters and group-by views; (4) Prioritising which contactless deals to fix first — using deal value, pipeline stage, and last activity date to triage the list; (5) The data enrichment workflow: how to find the right contact for each deal using LinkedIn, email history, and CRM cross-referencing; (6) How to prevent contactless deals from entering your pipeline in the future — required fields, column validation, and automation alerts. Real-world example: a B2B SaaS sales team that imports leads from a webinar registration list into monday.com and ends up with 80 deals in their pipeline where the contact name field contains either the company name or nothing at all.",
-      "product": "crm-audit"
-    },
-    {
       "title": "How to Find the Deals in Your monday.com Pipeline That Have Moved Backwards Through Stages — and What That Pattern Reveals",
       "brief": "Most pipeline audits only look for deals that aren't moving forward — but deals that move backwards are a different and more telling problem. This post shows how to identify stage regression in your monday.com CRM and what it usually means about your qualification process.",
       "description": "Target keyword: \"deals moving backwards pipeline stage monday.com.\" H2 sections: (1) What stage regression is and why it's different from a stuck deal — the distinction between stalled and actively retreating, and why the second is more serious; (2) The common reasons deals regress in monday.com — premature advancement, change in buyer, budget freeze, and competitive displacement; (3) How to identify stage regression in your monday.com board — using activity logs, status change history, and date column comparisons to spot deals that have gone backwards; (4) The",
       "product": "crm-audit"
     }
   ],
-  "last_updated": "2026-09-20T04:00:47.225Z"
+  "last_updated": "2026-09-20T05:01:11.109Z"
 }
