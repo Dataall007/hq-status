@@ -1,12 +1,6 @@
 {
   "queue": [
     {
-      "title": "How to Create a Lessons Learned Report from Your monday.com Board at the End of Every Project",
-      "brief": "Lessons learned documents are the most consistently skipped project artefact — because they take time no one has at close-out. This post shows how to pull timeline data, late tasks, budget overruns, and team notes from monday.com and turn them into a structured report automatically.",
-      "description": "Target keyword: \"lessons learned report monday.com.\" Real-world example: a digital agency delivery lead who knows lessons learned are valuable but admits the team never produces them because the project is already archived by the time anyone finds time to write. H2 sections: Why lessons learned reports don't get written — and why that's a board data problem, not a culture problem; What monday.com already records that belongs in a lessons learned document (overdue items, status history, workload columns, update threads); How to structure a lessons learned template around data your board already holds; The difference between a lessons learned report and a project closure report (and when you need both); How DocuAI generates the report from closed or archived board data; How to make lessons learned a non-negotiable step by building it into your monday.com close-out automation. The post is practical for any monday.com project team regardless of industry.",
-      "product": "docuai"
-    },
-    {
       "title": "How to Turn Your monday.com Resource Plan into a Client-Ready Staffing Proposal",
       "brief": "When a client asks \"who will be working on this and when,\" most teams leave monday.com to build a slide or a Word table from scratch. This post shows how to generate a professional staffing proposal directly from the people columns, timeline, and workload data already sitting on your board.",
       "description": "Target keyword: \"staffing proposal from monday.com.\" Real-world example: a consulting firm project lead who spends two hours before every new engagement converting their internal resource plan into a client-facing team overview document. H2 sections: What clients actually want to see in a staffing proposal and why your board already contains it; The monday.com columns that map to staffing proposal fields (assignee, role, effort, dates, deliverables); How to design your resource plan board so it doubles as a proposal data source; Formatting considerations: turning internal board language into client-appropriate copy; How DocuAI converts a resource plan board into a branded staffing proposal; When to send the staffing proposal and how to keep it in sync as the plan changes. The post teaches monday.com users how to structure their resource planning boards more intentionally — a standalone improvement regardless of document automation.",
@@ -43,5 +37,5 @@
       "product": "crm-audit"
     }
   ],
-  "last_updated": "2026-09-20T05:01:11.109Z"
+  "last_updated": "2026-09-21T05:01:14.580Z"
 }
