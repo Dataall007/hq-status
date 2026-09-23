@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-23T05:01:02.518Z",
+  "last_updated": "2026-09-23T05:01:05.490Z",
   "projects": {
     "docuai": {
       "status": "pending_review",
@@ -106,7 +106,7 @@
           ]
         }
       },
-      "last_action": "blog published: how-to-tell-if-your-monday-com-pipeline-is-actually-healthy-",
+      "last_action": "blog published: how-to-turn-your-monday-com-resource-plan-into-a-client-read",
       "next_scheduled": "Tuesday 08:00 — 3rd blog post | Friday 12:00 — LinkedIn proposal",
       "tasks": [
         {
@@ -155,9 +155,9 @@
   },
   "agent_runs": {
     "bar-blog": {
-      "lastRun": "2026-09-22T05:01:24.240Z",
+      "lastRun": "2026-09-23T05:01:05.490Z",
       "status": "success",
-      "lastAction": "blog published: how-to-tell-if-your-monday-com-pipeline-is-actually-healthy-",
+      "lastAction": "blog published: how-to-turn-your-monday-com-resource-plan-into-a-client-read",
       "error": null
     },
     "bar-linkedin": {
