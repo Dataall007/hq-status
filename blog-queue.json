@@ -49,12 +49,6 @@
       "product": "docuai"
     },
     {
-      "title": "How to Find Every Deal in Your monday.com CRM That Has No Associated Company — and Why It's Undermining Your Account-Based Strategy",
-      "brief": "Deals without a linked company look like minor data gaps — but when you're trying to run account-based outreach or report by company, they become invisible revenue. This post shows how to find them and what to do next.",
-      "description": "Target keyword: \"monday.com CRM missing company field\". H2 sections: Why account-based selling falls apart when deal records aren't linked to companies / The three ways company fields end up blank in monday.com (and which one is happening to you) / How to build a filter view that surfaces every deal with no company association / What to do when the company genuinely doesn't exist yet in your board / How missing company links distort your territory and account reporting / Real-world example: a SaaS company running quarterly account reviews that kept finding deals owned by the same rep attributed to three different \"company\" spellings — or none at all / A simple triage process for cleaning up company associations without starting over. Scenario centres on a revenue operations lead preparing for a board-level account review who discovered 23% of pipeline deals had no company linked.",
-      "product": "crm-audit"
-    },
-    {
       "title": "How to Find Every Deal in Your monday.com Pipeline Where the Probability Hasn't Changed in 60 Days",
       "brief": "A deal where the probability has been sitting at 50% for two months isn't progressing — it's just taking up space in your forecast. This post shows how to find those deals and decide whether to push, qualify down, or close them out.",
       "description": "Target keyword: \"stale deal probability monday.com pipeline\". H2 sections: Why probability fields become \"set and forget\" in most monday.com CRMs / How a frozen probability silently inflates your weighted pipeline / Building a filter to surface deals where a numeric column hasn't changed within a defined window / The difference between a deal that's genuinely in negotiation and one that's been forgotten / How to use a probability review as a forcing function for rep accountability / Real-world example: a professional services firm whose sales director ran a weighted forecast every month without realising that 30% of the values feeding it hadn't been touched since the deal was created / A recommended 60-day probability audit cadence and what to do with each category. Scenario follows a sales director who trusted her forecast model completely until a CRM audit revealed the inputs were months out of date.",
@@ -73,5 +67,5 @@
       "product": "crm-audit"
     }
   ],
-  "last_updated": "2026-09-27T04:00:50.234Z"
+  "last_updated": "2026-09-27T05:01:13.695Z"
 }
