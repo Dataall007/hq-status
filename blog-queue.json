@@ -1,12 +1,6 @@
 {
   "queue": [
     {
-      "title": "How to Generate a Subcontractor Completion Certificate Directly from Your monday.com Project Board",
-      "brief": "When a subcontractor finishes their scope, most project managers still draft the completion certificate by hand — pulling dates, sign-off notes, and deliverable lists from the board one field at a time. This post shows how to turn that board data into a signed-off, client-ready certificate without leaving monday.com.",
-      "description": "Target keyword: \"subcontractor completion certificate monday.com.\" H2 sections: (1) Why completion certificates get delayed and what it costs you — the gap between \"work done\" and \"paperwork done\" and how it holds up final payments; (2) The monday.com columns that feed a completion certificate — which fields you already have (assigned subcontractor, task status, delivery date, sign-off person) and which ones most boards are missing; (3) How to structure your board so the certificate writes itself — recommended column setup, status triggers, and naming conventions; (4) Generating the certificate automatically when status hits \"Complete\" — walkthrough of mapping board columns to a certificate template and triggering generation on a status change; (5) What to include in the certificate that subcontractors and clients actually need — scope reference, agreed deliverables, acceptance date, authorised signatory; (6) How to send, store, and link the certificate back to the monday.com item so nothing gets lost. Real-world example: a fit-out contractor managing six trades simultaneously, each with their own completion milestone, who needs to issue certificates to each subcontractor the day their work is signed off — not three days later when someone finds the Word template.",
-      "product": "docuai"
-    },
-    {
       "title": "How to Auto-Generate a Scope of Works Document from Your monday.com Task Board Before a Project Starts",
       "brief": "A scope of works document should exist before a single task is actioned — but most teams either skip it or write it from scratch after the board is already built. This post shows how to pull the scope directly from the board data you've already entered and turn it into a formal document in seconds.",
       "description": "Target keyword: \"scope of works document monday.com.\" H2 sections: (1) The problem with writing scope documents after the project kicks off — why doing it late leads to scope creep, misaligned expectations, and unenforceable change orders; (2) What a scope of works document actually needs to contain — deliverables, exclusions, assumptions, milestones, and responsible parties; (3) How to structure your monday.com project board so scope data is already there — which columns to use and how to label them so they map cleanly to a document; (4) Generating the scope document from your board before kickoff — step-by-step walkthrough of connecting board columns to a scope template and generating the output; (5) Using the scope document as a baseline for change orders — how having a generated, timestamped scope doc makes every later change order easier to defend; (6) Where to store the document so it stays linked to the live project board and is findable when disputes arise. Real-world example: a digital agency that starts every client project by building a monday.com board but has no formalised process to turn that board into a scope document — resulting in \"that wasn't in scope\" arguments mid-project that could have been avoided.",
@@ -67,5 +61,5 @@
       "product": "crm-audit"
     }
   ],
-  "last_updated": "2026-09-27T05:01:13.695Z"
+  "last_updated": "2026-09-28T05:01:04.229Z"
 }
