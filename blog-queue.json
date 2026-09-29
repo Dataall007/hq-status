@@ -43,12 +43,6 @@
       "product": "docuai"
     },
     {
-      "title": "How to Find Every Deal in Your monday.com Pipeline Where the Probability Hasn't Changed in 60 Days",
-      "brief": "A deal where the probability has been sitting at 50% for two months isn't progressing — it's just taking up space in your forecast. This post shows how to find those deals and decide whether to push, qualify down, or close them out.",
-      "description": "Target keyword: \"stale deal probability monday.com pipeline\". H2 sections: Why probability fields become \"set and forget\" in most monday.com CRMs / How a frozen probability silently inflates your weighted pipeline / Building a filter to surface deals where a numeric column hasn't changed within a defined window / The difference between a deal that's genuinely in negotiation and one that's been forgotten / How to use a probability review as a forcing function for rep accountability / Real-world example: a professional services firm whose sales director ran a weighted forecast every month without realising that 30% of the values feeding it hadn't been touched since the deal was created / A recommended 60-day probability audit cadence and what to do with each category. Scenario follows a sales director who trusted her forecast model completely until a CRM audit revealed the inputs were months out of date.",
-      "product": "crm-audit"
-    },
-    {
       "title": "How to Find the Deals in Your monday.com CRM Where Two Reps Think They Own the Same Account",
       "brief": "Shared account ownership sounds collaborative — but in practice it usually means nobody is responsible, both reps are making conflicting promises, and the client is confused. This post shows how to find dual-ownership problems in your monday.com pipeline before they cost you the deal.",
       "description": "Target keyword: \"duplicate deal ownership monday.com CRM\". H2 sections: How dual ownership happens in monday.com (merges, reassignments, and copy-paste board setup) / Why the client experience deteriorates when two reps are working the same account independently / How to build a filter that surfaces accounts with multiple active deals owned by different people / The questions to ask before deciding who should own the account going forward / When shared ownership is legitimate — and how to structure it so it doesn't create conflict / Real-world example: a logistics company whose two enterprise reps were both actively working the same prospect, offering different pricing, with neither knowing about the other until the prospect called to complain / A clean ownership policy you can implement in monday.com in one afternoon. Scenario follows a sales manager who discovered the overlap only after a deal was lost and the client cited \"mixed messages\" as the reason.",
@@ -61,5 +55,5 @@
       "product": "crm-audit"
     }
   ],
-  "last_updated": "2026-09-28T05:01:04.229Z"
+  "last_updated": "2026-09-29T05:01:04.055Z"
 }
