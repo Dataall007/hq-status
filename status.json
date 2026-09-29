@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-29T05:01:02.626Z",
+  "last_updated": "2026-09-29T05:01:05.590Z",
   "projects": {
     "docuai": {
       "status": "pending_review",
@@ -106,7 +106,7 @@
           ]
         }
       },
-      "last_action": "blog published: how-to-generate-a-subcontractor-completion-certificate-direc",
+      "last_action": "blog published: how-to-find-every-deal-in-your-monday-com-pipeline-where-the",
       "next_scheduled": "Tuesday 08:00 — 3rd blog post | Friday 12:00 — LinkedIn proposal",
       "tasks": [
         {
@@ -155,9 +155,9 @@
   },
   "agent_runs": {
     "bar-blog": {
-      "lastRun": "2026-09-28T05:01:05.539Z",
+      "lastRun": "2026-09-29T05:01:05.590Z",
       "status": "success",
-      "lastAction": "blog published: how-to-generate-a-subcontractor-completion-certificate-direc",
+      "lastAction": "blog published: how-to-find-every-deal-in-your-monday-com-pipeline-where-the",
       "error": null
     },
     "bar-linkedin": {
