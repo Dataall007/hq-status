@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-30T05:01:10.575Z",
+  "last_updated": "2026-09-30T05:01:13.272Z",
   "projects": {
     "docuai": {
       "status": "pending_review",
@@ -106,7 +106,7 @@
           ]
         }
       },
-      "last_action": "blog published: how-to-find-every-deal-in-your-monday-com-pipeline-where-the",
+      "last_action": "blog published: how-to-auto-generate-a-scope-of-works-document-from-your-mon",
       "next_scheduled": "Tuesday 08:00 — 3rd blog post | Friday 12:00 — LinkedIn proposal",
       "tasks": [
         {
@@ -155,9 +155,9 @@
   },
   "agent_runs": {
     "bar-blog": {
-      "lastRun": "2026-09-29T05:01:05.590Z",
+      "lastRun": "2026-09-30T05:01:13.272Z",
       "status": "success",
-      "lastAction": "blog published: how-to-find-every-deal-in-your-monday-com-pipeline-where-the",
+      "lastAction": "blog published: how-to-auto-generate-a-scope-of-works-document-from-your-mon",
       "error": null
     },
     "bar-linkedin": {
