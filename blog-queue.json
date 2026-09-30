@@ -1,12 +1,6 @@
 {
   "queue": [
     {
-      "title": "How to Auto-Generate a Scope of Works Document from Your monday.com Task Board Before a Project Starts",
-      "brief": "A scope of works document should exist before a single task is actioned — but most teams either skip it or write it from scratch after the board is already built. This post shows how to pull the scope directly from the board data you've already entered and turn it into a formal document in seconds.",
-      "description": "Target keyword: \"scope of works document monday.com.\" H2 sections: (1) The problem with writing scope documents after the project kicks off — why doing it late leads to scope creep, misaligned expectations, and unenforceable change orders; (2) What a scope of works document actually needs to contain — deliverables, exclusions, assumptions, milestones, and responsible parties; (3) How to structure your monday.com project board so scope data is already there — which columns to use and how to label them so they map cleanly to a document; (4) Generating the scope document from your board before kickoff — step-by-step walkthrough of connecting board columns to a scope template and generating the output; (5) Using the scope document as a baseline for change orders — how having a generated, timestamped scope doc makes every later change order easier to defend; (6) Where to store the document so it stays linked to the live project board and is findable when disputes arise. Real-world example: a digital agency that starts every client project by building a monday.com board but has no formalised process to turn that board into a scope document — resulting in \"that wasn't in scope\" arguments mid-project that could have been avoided.",
-      "product": "docuai"
-    },
-    {
       "title": "How to Generate a Weekly Client Progress Report from monday.com Without Writing a Single Update",
       "brief": "Most client-facing progress reports are written manually every Friday afternoon by a project manager who copies statuses, completion percentages, and notes out of monday.com into a Word doc or email. This post shows how to generate that report directly from the board — automatically, consistently, and in a format clients actually read.",
       "description": "Target keyword: \"client progress report monday.com automation.\" H2 sections: (1) Why Friday afternoon report-writing is one of the most expensive admin habits in project management — time cost per report multiplied across projects and weeks; (2) What clients actually want in a weekly progress report — what to include, what to leave out, and why less is more; (3) The monday.com columns that should feed your progress report — task status, percentage complete, owner, blockers, next milestones, and budget consumption; (4) How to structure your board so the report generates cleanly — naming conventions, group structure, and which columns to keep client-facing vs internal; (5) Setting up a weekly trigger to generate and send the report automatically — using status changes, date columns, and automations as the trigger for document generation; (6) How to brand and format the output so it looks like something your team produced deliberately, not exported from a tool. Real-world example: a construction project manager running eight active client projects who spends two hours every Friday manually compiling updates — and whose reports still arrive inconsistently because it depends on who has time to write them.",
@@ -55,5 +49,5 @@
       "product": "crm-audit"
     }
   ],
-  "last_updated": "2026-09-29T05:01:04.055Z"
+  "last_updated": "2026-09-30T05:01:11.853Z"
 }
