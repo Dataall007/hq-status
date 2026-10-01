@@ -37,17 +37,11 @@
       "product": "docuai"
     },
     {
-      "title": "How to Find the Deals in Your monday.com CRM Where Two Reps Think They Own the Same Account",
-      "brief": "Shared account ownership sounds collaborative — but in practice it usually means nobody is responsible, both reps are making conflicting promises, and the client is confused. This post shows how to find dual-ownership problems in your monday.com pipeline before they cost you the deal.",
-      "description": "Target keyword: \"duplicate deal ownership monday.com CRM\". H2 sections: How dual ownership happens in monday.com (merges, reassignments, and copy-paste board setup) / Why the client experience deteriorates when two reps are working the same account independently / How to build a filter that surfaces accounts with multiple active deals owned by different people / The questions to ask before deciding who should own the account going forward / When shared ownership is legitimate — and how to structure it so it doesn't create conflict / Real-world example: a logistics company whose two enterprise reps were both actively working the same prospect, offering different pricing, with neither knowing about the other until the prospect called to complain / A clean ownership policy you can implement in monday.com in one afternoon. Scenario follows a sales manager who discovered the overlap only after a deal was lost and the client cited \"mixed messages\" as the reason.",
-      "product": "crm-audit"
-    },
-    {
       "title": "How to Find Every Deal in Your monday.com CRM Where the Expected Revenue and the Quoted Amount Don't Match",
       "brief": "When the number in your Deal Value field doesn't match the number in the proposal you sent, your forecast is wrong before the quarter even starts. This post shows how to find those mismatches across your entire pipeline and fix them systematically.",
       "description": "Target keyword: \"deal value",
       "product": "crm-audit"
     }
   ],
-  "last_updated": "2026-09-30T05:01:11.853Z"
+  "last_updated": "2026-10-01T05:01:10.155Z"
 }
