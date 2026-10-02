@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-02T09:00:17.505Z",
+  "last_updated": "2026-10-02T09:00:19.085Z",
   "projects": {
     "docuai": {
       "status": "pending_review",
@@ -106,7 +106,7 @@
           ]
         }
       },
-      "last_action": "blog published: how-to-generate-a-weekly-client-progress-report-from-monday-",
+      "last_action": "linkedin proposal: Proof | 2 באוקטובר 2026",
       "next_scheduled": "Tuesday 08:00 — 3rd blog post | Friday 12:00 — LinkedIn proposal",
       "tasks": [
         {
@@ -161,9 +161,9 @@
       "error": null
     },
     "bar-linkedin": {
-      "lastRun": "2026-09-25T09:00:16.517Z",
+      "lastRun": "2026-10-02T09:00:19.085Z",
       "status": "success",
-      "lastAction": "linkedin proposal: Proof | 25 בספטמבר 2026",
+      "lastAction": "linkedin proposal: Proof | 2 באוקטובר 2026",
       "error": null
     },
     "routine-email": {
