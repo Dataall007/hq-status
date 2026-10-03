@@ -29,13 +29,7 @@
       "brief": "Before a project starts, someone usually needs to approve who is working on it, at what capacity, and at what cost — but that approval document almost never exists in writing. This post shows how to pull that summary straight from your monday.com resource board.",
       "description": "Target keyword: \"resource allocation document monday.com\". H2 sections: Why verbal resource agreements cause scope and budget problems downstream / What an internal resource allocation summary should contain / How to structure your monday.com resource board so the data is document-ready / Mapping people columns, effort columns, and rate columns to document fields / The approval workflow: how to route the generated document for sign-off before work begins / Real-world example: an IT services firm whose project leads were approving resource assignments over Slack with no paper trail, leading to disputes over billable hours mid-project / How generating a one-page resource summary per project changed their internal accountability. Scenario follows an operations manager at a managed services provider who kept discovering resource conflicts two weeks into projects that could have been caught on day one.",
       "product": "docuai"
-    },
-    {
-      "title": "How to Find Every Deal in Your monday.com CRM Where the Expected Revenue and the Quoted Amount Don't Match",
-      "brief": "When the number in your Deal Value field doesn't match the number in the proposal you sent, your forecast is wrong before the quarter even starts. This post shows how to find those mismatches across your entire pipeline and fix them systematically.",
-      "description": "Target keyword: \"deal value",
-      "product": "crm-audit"
     }
   ],
-  "last_updated": "2026-10-02T05:01:05.614Z"
+  "last_updated": "2026-10-03T05:01:00.843Z"
 }
