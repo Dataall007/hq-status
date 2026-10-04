@@ -29,7 +29,54 @@
       "brief": "Before a project starts, someone usually needs to approve who is working on it, at what capacity, and at what cost — but that approval document almost never exists in writing. This post shows how to pull that summary straight from your monday.com resource board.",
       "description": "Target keyword: \"resource allocation document monday.com\". H2 sections: Why verbal resource agreements cause scope and budget problems downstream / What an internal resource allocation summary should contain / How to structure your monday.com resource board so the data is document-ready / Mapping people columns, effort columns, and rate columns to document fields / The approval workflow: how to route the generated document for sign-off before work begins / Real-world example: an IT services firm whose project leads were approving resource assignments over Slack with no paper trail, leading to disputes over billable hours mid-project / How generating a one-page resource summary per project changed their internal accountability. Scenario follows an operations manager at a managed services provider who kept discovering resource conflicts two weeks into projects that could have been caught on day one.",
       "product": "docuai"
+    },
+    {
+      "title": "How to Find Every Deal in Your monday.com CRM Where the Stage and the Probability Don't Match — and Why It's Warping Your Forecast",
+      "brief": "When a deal sits in \"Proposal Sent\" but still carries a 10% probability, your forecast is lying — and no one notices until the quarter closes badly. This post shows monday.com users exactly how to surface every mismatched deal in their pipeline and what to do about it.",
+      "description": "H2 sections: Why stage-probability mismatches happen in the first place | The two ways this breaks your revenue forecast | How to build a monday.com formula column that flags every mismatch | What to do with the flagged deals (update, kill, or escalate) | How to build an automation that prevents new mismatches from slipping through. Target keyword: \"monday.com pipeline forecast accuracy.\" Real-world example: A 12-person SaaS sales team discovers that 23 deals in \"Contract Sent\" still show 20% probability — the stage they were in two months ago — inflating their committed pipeline by $340,000 and causing the VP of Sales to miss her board forecast by a mile.",
+      "product": "crm-audit"
+    },
+    {
+      "title": "How to Find Every Company in Your monday.com CRM That Has Open Deals and No Active Contact — and What That Silence Is Costing You",
+      "brief": "A company record with live pipeline attached but no reachable contact is money sitting in a black hole. This post walks monday.com users through finding every orphaned account in their CRM and recovering the deals before they quietly expire.",
+      "description": "H2 sections: What an orphaned account actually looks like in monday.com | Why contacts go missing (leavers, mergers, bad data entry) | How to use filters and linked-board logic to surface accounts with deals but no active contact | How to triage: which deals are recoverable and which should be closed lost | How to set up a recurring audit so orphaned accounts never pile up again. Target keyword: \"monday.com CRM account hygiene.\" Real-world example: A B2B consulting firm finds 17 company records in their monday.com CRM where the linked contact left the client organisation months ago — three of those companies have deals totalling $180,000 still marked as active, with no one chasing them.",
+      "product": "crm-audit"
+    },
+    {
+      "title": "How to Find the Deals in Your monday.com Pipeline That Were Moved Backwards Through Stages — and What That Pattern Reveals",
+      "brief": "Deals that move forward are normal — deals that move backward are a signal that something is broken in your process, your qualification, or your team. This post shows how to spot reverse-stage movement in monday.com and how to use it to fix the real problem.",
+      "description": "H2 sections: Why backwards stage movement is more common than most sales managers realise | The three root causes (bad qualification, premature advancement, customer-side delays) | How to use monday.com's activity log and column tracking to identify which deals moved backward and when | How to build a dashboard view that flags backward movers automatically | What to do with the pattern once you've found it — process fix vs. coaching fix. Target keyword: \"monday.com sales pipeline stage regression.\" Real-world example: A mid-market IT reseller notices deals regularly regress from \"Commercial Review\" back to \"Scoping\" — after auditing 90 days of stage history in monday.com they find one rep is advancing deals before the technical sign-off is complete, creating a pattern that's adding 22 days to average deal length.",
+      "product": "crm-audit"
+    },
+    {
+      "title": "How to Find Every Deal in Your monday.com CRM Where the Expected Close Date Keeps Getting Pushed — and What It Means for Your Pipeline",
+      "brief": "A close date that moves once is a negotiation — a close date that moves three times is a dead deal wearing a live deal's clothes. This post shows monday.com users how to find serial date-pushers in their pipeline and make smarter decisions about which ones to keep working.",
+      "description": "H2 sections: Why reps push close dates instead of closing out deals | How repeated close-date changes quietly inflate your pipeline value | How to track close-date edit history in monday.com and build a \"times pushed\" counter using automations | How to set a threshold (two pushes = review, three pushes = flag) and enforce it | When to kill the deal vs. when to re-qualify it. Target keyword: \"monday.com deal close date slippage.\" Real-world example: A professional services firm runs a manual export from monday.com and finds 31 deals whose close dates have been pushed at least twice — 14 of those have been pushed three or more times, and together they represent $620,000 in pipeline that the sales director has been counting on for two consecutive quarters.",
+      "product": "crm-audit"
+    },
+    {
+      "title": "How to Generate a Client-Ready Project Plan Summary from Your monday.com Board Before the Kickoff Call",
+      "brief": "Most project managers spend an hour before every kickoff call reformatting board data into a document the client can actually read — this post shows how to skip that entirely and generate a polished project plan summary directly from monday.com. The document covers scope, milestones, owners, and timeline without anyone opening Word.",
+      "description": "H2 sections: Why the kickoff document is always the last thing that gets prepared | What a useful pre-kickoff project plan summary actually contains | How to structure your monday.com board so the right data flows into the right document fields | How to map board columns (task name, owner, due date, status, phase) to document sections | How to generate and send the summary before the call without touching a word processor. Target keyword: \"monday.com project kickoff document.\" Real-world example: A digital agency with 30 active projects spends approximately 45 minutes per kickoff reformatting their monday.com board data into a client-facing plan — by mapping their standard board columns to a document template, they generate the same document in under a minute and start every call with a professional summary already in the client's inbox.",
+      "product": "docuai"
+    },
+    {
+      "title": "How to Auto-Generate a Resource Allocation Report from Your monday.com Board That Your Finance Team Will Actually Trust",
+      "brief": "Finance teams need to know who is working on what, at what cost, and for how long — but that information is scattered across monday.com boards in a format no spreadsheet can easily pull together. This post shows how to turn resource data from monday.com into a clean, finance-ready allocation report without rebuilding it from scratch each month.",
+      "description": "H2 sections: Why resource reports generated manually from monday.com always contain errors | What finance actually wants to see in a resource allocation report | How to structure your monday.com board to capture the right resource data (person, hours, rate, project, period) | How to map those columns into a structured report document | How to schedule the report to generate automatically at the end of each month. Target keyword: \"monday.com resource allocation report.\" Real-world example: A project-based engineering consultancy manually compiles a monthly resource report for their CFO by exporting monday.com data into Excel and reformatting it — the process takes two hours every month and frequently contains formula errors; by connecting their board directly to a document template they generate the same report in seconds and eliminate the reconciliation step entirely.",
+      "product": "docuai"
+    },
+    {
+      "title": "How to Generate a Client Escalation Summary Directly from Your monday.com Board — Without a Chain of Internal Emails",
+      "brief": "When something goes wrong on a project, the last thing anyone wants to do is write the escalation document — but sending a poorly structured escalation to a client is worse than sending nothing. This post shows how to generate a clear, professional escalation summary straight from monday.com the moment an issue is flagged.",
+      "description": "H2 sections: Why escalation documents are always written badly and always written late | What a client escalation summary needs to contain (issue, impact, timeline, owner, resolution plan) | How to capture escalation data inside monday.com using a dedicated issue or risk item | How to map those fields into a structured escalation document | How to trigger document generation automatically when an item status changes to \"Escalated.\" Target keyword: \"monday.com project escalation document.\" Real-world example: A managed IT services firm handles roughly eight client escalations per month — each one requires a written summary sent within four hours of the escalation being raised, but the document is typically written by the account manager from scratch under pressure; by mapping their monday.com incident items to an escalation template, they generate the document the moment the item status flips and send it within minutes of the issue being logged.",
+      "product": "docuai"
+    },
+    {
+      "title": "How to Turn Your monday.com Project Timeline into a Client-Facing Milestone Report Without Rebuilding It in PowerPoint",
+      "brief": "Clients want to see progress against milestones — not a screenshot of your monday.com board. This post shows how to",
+      "product": "docuai"
     }
   ],
-  "last_updated": "2026-10-03T05:01:00.843Z"
+  "last_updated": "2026-10-04T04:00:47.604Z"
 }
