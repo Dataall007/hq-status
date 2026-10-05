@@ -25,12 +25,6 @@
       "product": "docuai"
     },
     {
-      "title": "How to Find Every Deal in Your monday.com CRM Where the Stage and the Probability Don't Match — and Why It's Warping Your Forecast",
-      "brief": "When a deal sits in \"Proposal Sent\" but still carries a 10% probability, your forecast is lying — and no one notices until the quarter closes badly. This post shows monday.com users exactly how to surface every mismatched deal in their pipeline and what to do about it.",
-      "description": "H2 sections: Why stage-probability mismatches happen in the first place | The two ways this breaks your revenue forecast | How to build a monday.com formula column that flags every mismatch | What to do with the flagged deals (update, kill, or escalate) | How to build an automation that prevents new mismatches from slipping through. Target keyword: \"monday.com pipeline forecast accuracy.\" Real-world example: A 12-person SaaS sales team discovers that 23 deals in \"Contract Sent\" still show 20% probability — the stage they were in two months ago — inflating their committed pipeline by $340,000 and causing the VP of Sales to miss her board forecast by a mile.",
-      "product": "crm-audit"
-    },
-    {
       "title": "How to Find Every Company in Your monday.com CRM That Has Open Deals and No Active Contact — and What That Silence Is Costing You",
       "brief": "A company record with live pipeline attached but no reachable contact is money sitting in a black hole. This post walks monday.com users through finding every orphaned account in their CRM and recovering the deals before they quietly expire.",
       "description": "H2 sections: What an orphaned account actually looks like in monday.com | Why contacts go missing (leavers, mergers, bad data entry) | How to use filters and linked-board logic to surface accounts with deals but no active contact | How to triage: which deals are recoverable and which should be closed lost | How to set up a recurring audit so orphaned accounts never pile up again. Target keyword: \"monday.com CRM account hygiene.\" Real-world example: A B2B consulting firm finds 17 company records in their monday.com CRM where the linked contact left the client organisation months ago — three of those companies have deals totalling $180,000 still marked as active, with no one chasing them.",
@@ -72,5 +66,5 @@
       "product": "docuai"
     }
   ],
-  "last_updated": "2026-10-04T05:01:03.125Z"
+  "last_updated": "2026-10-05T05:01:02.856Z"
 }
