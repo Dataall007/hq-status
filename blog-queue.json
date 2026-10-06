@@ -1,12 +1,6 @@
 {
   "queue": [
     {
-      "title": "How to Auto-Generate a Project Handover Pack the Moment Your monday.com Project Hits 100% Complete",
-      "brief": "Most project handovers are rushed, incomplete, and assembled from memory — because nobody builds the document until after the deadline has passed. This post shows how to use your monday.com board data to generate a full handover pack automatically the instant a project closes.",
-      "description": "Target keyword: \"project handover document monday.com\". H2 sections: What a proper handover pack actually contains (and why most teams skip half of it) / Why monday.com already has everything you need — it's just not assembled / How to identify the board columns that map to each section of a handover doc / The trigger point: using a Status column set to \"Complete\" as the document generation event / How to structure the handover pack so the receiving team (or client) can act immediately / Real-world example: a web development agency whose handover \"document\" was a Slack thread and three separate spreadsheets — and what they switched to / How to make this repeatable across every project without adding any admin. Real-world scenario follows a small digital agency that delivers client websites on monday.com and kept losing the same institutional knowledge every handover cycle.",
-      "product": "docuai"
-    },
-    {
       "title": "How to Generate a Scope of Work Document from monday.com Before a Project Even Starts",
       "brief": "Sales teams close deals and then project managers spend days writing a scope of work from scratch — even though everything they need is already sitting in the CRM or project board. This post shows how to pull that data into a client-ready SOW in seconds.",
       "description": "Target keyword: \"scope of work document monday.com\". H2 sections: Why the gap between \"deal closed\" and \"SOW sent\" costs you trust and time / What a scope of work needs to include at a minimum / Which monday.com columns to use as the source fields for each SOW section / How to set up a consistent column structure that makes SOW generation reliable / The difference between a SOW and a Statement of Work (and when each term applies) / Real-world example: a marketing consultancy that was writing SOWs manually in Google Docs for every new client engagement and taking two to three days each time / How automating the first draft changes the PM's job from writer to reviewer. Scenario centres on a 12-person consultancy whose project managers dreaded the post-sale admin more than the projects themselves.",
@@ -66,5 +60,5 @@
       "product": "docuai"
     }
   ],
-  "last_updated": "2026-10-05T05:01:02.856Z"
+  "last_updated": "2026-10-06T05:01:03.464Z"
 }
