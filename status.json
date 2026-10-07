@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-07T05:01:01.262Z",
+  "last_updated": "2026-10-07T05:01:03.910Z",
   "projects": {
     "docuai": {
       "status": "pending_review",
@@ -106,7 +106,7 @@
           ]
         }
       },
-      "last_action": "blog published: how-to-auto-generate-a-project-handover-pack-the-moment-your",
+      "last_action": "blog published: how-to-find-every-company-in-your-monday-com-crm-that-has-op",
       "next_scheduled": "Tuesday 08:00 — 3rd blog post | Friday 12:00 — LinkedIn proposal",
       "tasks": [
         {
@@ -155,9 +155,9 @@
   },
   "agent_runs": {
     "bar-blog": {
-      "lastRun": "2026-10-06T05:01:04.737Z",
+      "lastRun": "2026-10-07T05:01:03.910Z",
       "status": "success",
-      "lastAction": "blog published: how-to-auto-generate-a-project-handover-pack-the-moment-your",
+      "lastAction": "blog published: how-to-find-every-company-in-your-monday-com-crm-that-has-op",
       "error": null
     },
     "bar-linkedin": {
