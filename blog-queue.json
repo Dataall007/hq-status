@@ -19,12 +19,6 @@
       "product": "docuai"
     },
     {
-      "title": "How to Find Every Company in Your monday.com CRM That Has Open Deals and No Active Contact — and What That Silence Is Costing You",
-      "brief": "A company record with live pipeline attached but no reachable contact is money sitting in a black hole. This post walks monday.com users through finding every orphaned account in their CRM and recovering the deals before they quietly expire.",
-      "description": "H2 sections: What an orphaned account actually looks like in monday.com | Why contacts go missing (leavers, mergers, bad data entry) | How to use filters and linked-board logic to surface accounts with deals but no active contact | How to triage: which deals are recoverable and which should be closed lost | How to set up a recurring audit so orphaned accounts never pile up again. Target keyword: \"monday.com CRM account hygiene.\" Real-world example: A B2B consulting firm finds 17 company records in their monday.com CRM where the linked contact left the client organisation months ago — three of those companies have deals totalling $180,000 still marked as active, with no one chasing them.",
-      "product": "crm-audit"
-    },
-    {
       "title": "How to Find the Deals in Your monday.com Pipeline That Were Moved Backwards Through Stages — and What That Pattern Reveals",
       "brief": "Deals that move forward are normal — deals that move backward are a signal that something is broken in your process, your qualification, or your team. This post shows how to spot reverse-stage movement in monday.com and how to use it to fix the real problem.",
       "description": "H2 sections: Why backwards stage movement is more common than most sales managers realise | The three root causes (bad qualification, premature advancement, customer-side delays) | How to use monday.com's activity log and column tracking to identify which deals moved backward and when | How to build a dashboard view that flags backward movers automatically | What to do with the pattern once you've found it — process fix vs. coaching fix. Target keyword: \"monday.com sales pipeline stage regression.\" Real-world example: A mid-market IT reseller notices deals regularly regress from \"Commercial Review\" back to \"Scoping\" — after auditing 90 days of stage history in monday.com they find one rep is advancing deals before the technical sign-off is complete, creating a pattern that's adding 22 days to average deal length.",
@@ -60,5 +54,5 @@
       "product": "docuai"
     }
   ],
-  "last_updated": "2026-10-06T05:01:03.464Z"
+  "last_updated": "2026-10-07T05:01:02.483Z"
 }
