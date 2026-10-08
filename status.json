@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-08T05:01:06.491Z",
+  "last_updated": "2026-10-08T05:01:09.223Z",
   "projects": {
     "docuai": {
       "status": "pending_review",
@@ -106,7 +106,7 @@
           ]
         }
       },
-      "last_action": "blog published: how-to-find-every-company-in-your-monday-com-crm-that-has-op",
+      "last_action": "blog published: how-to-generate-a-scope-of-work-document-from-monday-com-bef",
       "next_scheduled": "Tuesday 08:00 — 3rd blog post | Friday 12:00 — LinkedIn proposal",
       "tasks": [
         {
@@ -155,9 +155,9 @@
   },
   "agent_runs": {
     "bar-blog": {
-      "lastRun": "2026-10-07T05:01:03.910Z",
+      "lastRun": "2026-10-08T05:01:09.222Z",
       "status": "success",
-      "lastAction": "blog published: how-to-find-every-company-in-your-monday-com-crm-that-has-op",
+      "lastAction": "blog published: how-to-generate-a-scope-of-work-document-from-monday-com-bef",
       "error": null
     },
     "bar-linkedin": {
