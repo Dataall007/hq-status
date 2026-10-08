@@ -1,12 +1,6 @@
 {
   "queue": [
     {
-      "title": "How to Generate a Scope of Work Document from monday.com Before a Project Even Starts",
-      "brief": "Sales teams close deals and then project managers spend days writing a scope of work from scratch — even though everything they need is already sitting in the CRM or project board. This post shows how to pull that data into a client-ready SOW in seconds.",
-      "description": "Target keyword: \"scope of work document monday.com\". H2 sections: Why the gap between \"deal closed\" and \"SOW sent\" costs you trust and time / What a scope of work needs to include at a minimum / Which monday.com columns to use as the source fields for each SOW section / How to set up a consistent column structure that makes SOW generation reliable / The difference between a SOW and a Statement of Work (and when each term applies) / Real-world example: a marketing consultancy that was writing SOWs manually in Google Docs for every new client engagement and taking two to three days each time / How automating the first draft changes the PM's job from writer to reviewer. Scenario centres on a 12-person consultancy whose project managers dreaded the post-sale admin more than the projects themselves.",
-      "product": "docuai"
-    },
-    {
       "title": "How to Turn Your monday.com Task List into a Weekly Client Progress Report Without Writing Anything",
       "brief": "Clients want to know what happened this week — but pulling together a readable progress report from a board full of tasks, statuses, and updates is 45 minutes of work nobody has time for. This post shows how to generate that report directly from monday.com data.",
       "description": "Target keyword: \"client progress report monday.com\". H2 sections: What clients actually want to see in a weekly update (and what they don't) / Why copying and pasting from monday.com into a report is breaking your Friday afternoons / The board structure that makes progress reporting easy to automate / How to filter by week, status, and owner before generating the document / What to include when nothing moved: how to write an honest \"no change\" update / Real-world example: a construction project management firm sending weekly reports to six clients simultaneously, each taking 40 minutes to assemble manually / How to send a polished PDF report to a client in under two minutes using only board data. Scenario follows a PM at a fit-out company who was spending every Friday afternoon writing the same six reports in slightly different formats.",
@@ -54,5 +48,5 @@
       "product": "docuai"
     }
   ],
-  "last_updated": "2026-10-07T05:01:02.483Z"
+  "last_updated": "2026-10-08T05:01:07.936Z"
 }
