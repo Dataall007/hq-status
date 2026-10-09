@@ -13,12 +13,6 @@
       "product": "docuai"
     },
     {
-      "title": "How to Find the Deals in Your monday.com Pipeline That Were Moved Backwards Through Stages — and What That Pattern Reveals",
-      "brief": "Deals that move forward are normal — deals that move backward are a signal that something is broken in your process, your qualification, or your team. This post shows how to spot reverse-stage movement in monday.com and how to use it to fix the real problem.",
-      "description": "H2 sections: Why backwards stage movement is more common than most sales managers realise | The three root causes (bad qualification, premature advancement, customer-side delays) | How to use monday.com's activity log and column tracking to identify which deals moved backward and when | How to build a dashboard view that flags backward movers automatically | What to do with the pattern once you've found it — process fix vs. coaching fix. Target keyword: \"monday.com sales pipeline stage regression.\" Real-world example: A mid-market IT reseller notices deals regularly regress from \"Commercial Review\" back to \"Scoping\" — after auditing 90 days of stage history in monday.com they find one rep is advancing deals before the technical sign-off is complete, creating a pattern that's adding 22 days to average deal length.",
-      "product": "crm-audit"
-    },
-    {
       "title": "How to Find Every Deal in Your monday.com CRM Where the Expected Close Date Keeps Getting Pushed — and What It Means for Your Pipeline",
       "brief": "A close date that moves once is a negotiation — a close date that moves three times is a dead deal wearing a live deal's clothes. This post shows monday.com users how to find serial date-pushers in their pipeline and make smarter decisions about which ones to keep working.",
       "description": "H2 sections: Why reps push close dates instead of closing out deals | How repeated close-date changes quietly inflate your pipeline value | How to track close-date edit history in monday.com and build a \"times pushed\" counter using automations | How to set a threshold (two pushes = review, three pushes = flag) and enforce it | When to kill the deal vs. when to re-qualify it. Target keyword: \"monday.com deal close date slippage.\" Real-world example: A professional services firm runs a manual export from monday.com and finds 31 deals whose close dates have been pushed at least twice — 14 of those have been pushed three or more times, and together they represent $620,000 in pipeline that the sales director has been counting on for two consecutive quarters.",
@@ -48,5 +42,5 @@
       "product": "docuai"
     }
   ],
-  "last_updated": "2026-10-08T05:01:07.936Z"
+  "last_updated": "2026-10-09T05:01:04.073Z"
 }
