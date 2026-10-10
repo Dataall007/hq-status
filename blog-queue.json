@@ -1,12 +1,6 @@
 {
   "queue": [
     {
-      "title": "How to Turn Your monday.com Task List into a Weekly Client Progress Report Without Writing Anything",
-      "brief": "Clients want to know what happened this week — but pulling together a readable progress report from a board full of tasks, statuses, and updates is 45 minutes of work nobody has time for. This post shows how to generate that report directly from monday.com data.",
-      "description": "Target keyword: \"client progress report monday.com\". H2 sections: What clients actually want to see in a weekly update (and what they don't) / Why copying and pasting from monday.com into a report is breaking your Friday afternoons / The board structure that makes progress reporting easy to automate / How to filter by week, status, and owner before generating the document / What to include when nothing moved: how to write an honest \"no change\" update / Real-world example: a construction project management firm sending weekly reports to six clients simultaneously, each taking 40 minutes to assemble manually / How to send a polished PDF report to a client in under two minutes using only board data. Scenario follows a PM at a fit-out company who was spending every Friday afternoon writing the same six reports in slightly different formats.",
-      "product": "docuai"
-    },
-    {
       "title": "How to Auto-Generate a Resource Allocation Summary for Internal Sign-Off Before Any Project Kicks Off",
       "brief": "Before a project starts, someone usually needs to approve who is working on it, at what capacity, and at what cost — but that approval document almost never exists in writing. This post shows how to pull that summary straight from your monday.com resource board.",
       "description": "Target keyword: \"resource allocation document monday.com\". H2 sections: Why verbal resource agreements cause scope and budget problems downstream / What an internal resource allocation summary should contain / How to structure your monday.com resource board so the data is document-ready / Mapping people columns, effort columns, and rate columns to document fields / The approval workflow: how to route the generated document for sign-off before work begins / Real-world example: an IT services firm whose project leads were approving resource assignments over Slack with no paper trail, leading to disputes over billable hours mid-project / How generating a one-page resource summary per project changed their internal accountability. Scenario follows an operations manager at a managed services provider who kept discovering resource conflicts two weeks into projects that could have been caught on day one.",
@@ -42,5 +36,5 @@
       "product": "docuai"
     }
   ],
-  "last_updated": "2026-10-09T05:01:04.073Z"
+  "last_updated": "2026-10-10T05:01:03.450Z"
 }
