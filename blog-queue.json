@@ -36,12 +36,6 @@
       "product": "docuai"
     },
     {
-      "title": "How to Find Every Deal in Your monday.com Pipeline That Has Moved Stages Without a Single Note or Update",
-      "brief": "When a deal moves forward in your pipeline with no notes, no logged activity, and no explanation, it's either a ghost or a guess — and either way it's distorting your forecast. This post shows how to find every deal in monday.com where stage movement happened in silence.",
-      "description": "Target keyword: \"monday.com deals with no activity notes.\" Real-world example: a sales director at a software reseller who discovers during a quarterly review that eleven deals advanced to proposal stage with no calls logged, no emails recorded, and no updates from the assigned rep — three of which are now being counted as near-close revenue. H2 sections: Why stage movement without activity is a red flag, not a win; What \"silent progression\" looks like in a monday.com CRM board; How to filter for deals where the stage column changed but the updates column is empty; How to cross-reference last activity date against current stage; What each pattern usually means (data entry shortcuts, rep confusion, inherited deals); How to build a simple monday.com view that surfaces these deals automatically every week; What to do when you find them.",
-      "product": "crm-audit"
-    },
-    {
       "title": "How to Generate a Formal Project Sign-Off Document from monday.com Before You Close Any Project",
       "brief": "Most teams close projects in monday.com by changing a status — but without a signed-off document, scope disputes and warranty claims have nothing to push back against. This post shows how to generate a formal client sign-off document directly from your monday.com board before you archive anything.",
       "description": "Target keyword: \"monday.com project sign-off document.\" Real-world example: a construction project coordinator who closed out a commercial fit-out in monday.com, marked everything complete, then received a client claim two months later about unfinished items — with no documented sign-off to reference. H2 sections: Why a status change is not the same as a client sign-off; What a formal project sign-off document needs to include; The monday.com columns that feed directly into a sign-off document (deliverables, dates, owners, sign-off status); How to structure the document so it's legally useful, not just administrative; How to trigger sign-off document generation from a monday.com automation; What to do if the client won't sign — and how the document helps anyway; How to store the signed document back against the monday.com project item.",
@@ -72,5 +66,5 @@
       "product": "docuai"
     }
   ],
-  "last_updated": "2026-10-11T05:00:02.029Z"
+  "last_updated": "2026-10-11T05:00:03.409Z"
 }
