@@ -42,12 +42,6 @@
       "product": "docuai"
     },
     {
-      "title": "How to Find Every Deal in Your monday.com CRM Where the Deal Size Has Never Been Updated Since It Was Created",
-      "brief": "The number a rep types when they create a deal is usually an estimate — but in most monday.com pipelines, that number never gets corrected, and the forecast is built on guesses. This post shows how to find every deal where the value field has never moved since day one.",
-      "description": "Target keyword: \"monday.com deal value never updated.\" Real-world example: a RevOps lead at a B2B services firm who runs a pipeline review and finds that 30% of open deals still carry the value entered when the deal was first created — some of those deals have been through three rounds of scoping conversations and the number hasn't moved once. H2 sections: Why the original deal value is almost always a guess; How deal values get frozen in monday.com pipelines (and why reps don't update them); How to identify deals where the value column hasn't changed since the item was created; What a stale deal value does to your pipeline coverage ratio and your forecast; How to distinguish \"stable deal value\" from \"neglected deal value\"; How to build a monday.com view that flags value-frozen deals by age; What to do with each category of frozen value — correct, close, or escalate.\nBRIEF: The number a rep types when they create a deal is usually an estimate — but in most monday.com pipelines, that number never gets corrected, and the forecast is built on guesses. This post shows how to find every deal where the value field has never moved since day one.",
-      "product": "crm-audit"
-    },
-    {
       "title": "How to Generate a Formal Variation Order the Moment Scope Is Added to a monday.com Project",
       "brief": "Scope creep doesn't start as a problem — it starts as a favour, a small addition, a quick extra task added to the board. This post shows how to catch every scope addition in monday.com and instantly turn it into a formal variation order before the work starts and before the invoice is disputed.",
       "description": "Target keyword: \"monday.com variation order document.\" Real-world example: a digital agency account manager who added three \"quick\" items to a client project in monday.com over six weeks — each one agreed verbally — and then discovered at invoicing that the client had no memory of authorising any of them, resulting in a $4,200 write-off. H2 sections: What a variation order is and why verbal agreement isn't enough; How scope additions typically appear in monday.com (new subitems, status changes, column additions); How to set up a trigger that detects scope additions and initiates a variation order document; What fields belong in a variation order and how they map to monday.com columns; How to format the document so it's clear, signable, and client-friendly; How to log the approved variation order back against the original project item; Why generating the document before the work starts changes the client conversation entirely.",
@@ -66,5 +60,5 @@
       "product": "docuai"
     }
   ],
-  "last_updated": "2026-10-11T05:00:03.409Z"
+  "last_updated": "2026-10-11T05:01:09.314Z"
 }
