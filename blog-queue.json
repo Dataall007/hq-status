@@ -7,12 +7,6 @@
       "product": "docuai"
     },
     {
-      "title": "How to Find Every Deal in Your monday.com CRM Where the Expected Close Date Keeps Getting Pushed — and What It Means for Your Pipeline",
-      "brief": "A close date that moves once is a negotiation — a close date that moves three times is a dead deal wearing a live deal's clothes. This post shows monday.com users how to find serial date-pushers in their pipeline and make smarter decisions about which ones to keep working.",
-      "description": "H2 sections: Why reps push close dates instead of closing out deals | How repeated close-date changes quietly inflate your pipeline value | How to track close-date edit history in monday.com and build a \"times pushed\" counter using automations | How to set a threshold (two pushes = review, three pushes = flag) and enforce it | When to kill the deal vs. when to re-qualify it. Target keyword: \"monday.com deal close date slippage.\" Real-world example: A professional services firm runs a manual export from monday.com and finds 31 deals whose close dates have been pushed at least twice — 14 of those have been pushed three or more times, and together they represent $620,000 in pipeline that the sales director has been counting on for two consecutive quarters.",
-      "product": "crm-audit"
-    },
-    {
       "title": "How to Generate a Client-Ready Project Plan Summary from Your monday.com Board Before the Kickoff Call",
       "brief": "Most project managers spend an hour before every kickoff call reformatting board data into a document the client can actually read — this post shows how to skip that entirely and generate a polished project plan summary directly from monday.com. The document covers scope, milestones, owners, and timeline without anyone opening Word.",
       "description": "H2 sections: Why the kickoff document is always the last thing that gets prepared | What a useful pre-kickoff project plan summary actually contains | How to structure your monday.com board so the right data flows into the right document fields | How to map board columns (task name, owner, due date, status, phase) to document sections | How to generate and send the summary before the call without touching a word processor. Target keyword: \"monday.com project kickoff document.\" Real-world example: A digital agency with 30 active projects spends approximately 45 minutes per kickoff reformatting their monday.com board data into a client-facing plan — by mapping their standard board columns to a document template, they generate the same document in under a minute and start every call with a professional summary already in the client's inbox.",
@@ -78,5 +72,5 @@
       "product": "docuai"
     }
   ],
-  "last_updated": "2026-10-11T04:00:48.685Z"
+  "last_updated": "2026-10-11T05:00:02.029Z"
 }
