@@ -42,17 +42,11 @@
       "product": "docuai"
     },
     {
-      "title": "How to Find Every Deal in Your monday.com CRM That Is Sitting in Discovery or Qualification with a Close Date in the Past",
-      "brief": "A deal stuck in early stages with a close date that already passed isn't an active opportunity — it's a record that's quietly inflating your pipeline while giving your forecast zero signal. This post shows how to find every one of them in monday.com and what to do next.",
-      "description": "Target keyword: \"monday.com stale early-stage deals.\" Real-world example: a sales manager at a managed IT services company who runs a pipeline export and finds nineteen deals in Discovery or Qualification with close dates between three and fourteen months ago — all still marked open, all still included in the monthly pipeline total. H2 sections: Why early-stage deals with expired close dates are the most dangerous pipeline noise; How to filter monday.com for stage plus close date combination; The difference between a delayed deal and an abandoned one; How to use last-activity date to separate the two; What your pipeline coverage number looks like with and without these records; How to build a standing monday.com view that keeps this category visible every week; A three-option decision framework for each deal you find: requalify, push to nurture, or close lost.",
-      "product": "crm-audit"
-    },
-    {
       "title": "How to Auto-Generate a Client Onboarding Pack the Moment a monday.com Project Is Marked as Started",
       "brief": "The moment a project kicks off, clients need a welcome document, a contact sheet, a timeline, and a list of what's needed from them — and most teams send these late, inconsistently, or not at all. This post shows how to generate a complete onboarding pack from your monday.com board the instant a project moves to active.",
       "description": "Target keyword: \"monday.com client onboarding document.\" Real-world example: a web development studio whose project managers spend their first day on every new engagement writing the same onboarding email and attaching the same manually updated documents — while clients email in asking basic questions that the pack would have answered. H2 sections: What a client onboarding pack should contain and why timing matters as much as content; What monday.com already stores that belongs in an onboarding document (project owner, timeline, key milestones, deliverables, client responsibilities); How to map each section of the onboarding pack to specific monday.com columns; How to trigger document generation automatically when project status changes to \"In Progress\" or equivalent; What the generated document looks like and how to brand it for the client; How to include client-specific information without manual editing; How sending the pack on day one changes client behaviour and reduces inbound questions.\n\n###",
       "product": "docuai"
     }
   ],
-  "last_updated": "2026-10-12T05:01:03.321Z"
+  "last_updated": "2026-10-13T05:01:03.254Z"
 }
