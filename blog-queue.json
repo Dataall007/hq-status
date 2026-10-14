@@ -1,12 +1,6 @@
 {
   "queue": [
     {
-      "title": "How to Generate a Client-Ready Project Plan Summary from Your monday.com Board Before the Kickoff Call",
-      "brief": "Most project managers spend an hour before every kickoff call reformatting board data into a document the client can actually read — this post shows how to skip that entirely and generate a polished project plan summary directly from monday.com. The document covers scope, milestones, owners, and timeline without anyone opening Word.",
-      "description": "H2 sections: Why the kickoff document is always the last thing that gets prepared | What a useful pre-kickoff project plan summary actually contains | How to structure your monday.com board so the right data flows into the right document fields | How to map board columns (task name, owner, due date, status, phase) to document sections | How to generate and send the summary before the call without touching a word processor. Target keyword: \"monday.com project kickoff document.\" Real-world example: A digital agency with 30 active projects spends approximately 45 minutes per kickoff reformatting their monday.com board data into a client-facing plan — by mapping their standard board columns to a document template, they generate the same document in under a minute and start every call with a professional summary already in the client's inbox.",
-      "product": "docuai"
-    },
-    {
       "title": "How to Auto-Generate a Resource Allocation Report from Your monday.com Board That Your Finance Team Will Actually Trust",
       "brief": "Finance teams need to know who is working on what, at what cost, and for how long — but that information is scattered across monday.com boards in a format no spreadsheet can easily pull together. This post shows how to turn resource data from monday.com into a clean, finance-ready allocation report without rebuilding it from scratch each month.",
       "description": "H2 sections: Why resource reports generated manually from monday.com always contain errors | What finance actually wants to see in a resource allocation report | How to structure your monday.com board to capture the right resource data (person, hours, rate, project, period) | How to map those columns into a structured report document | How to schedule the report to generate automatically at the end of each month. Target keyword: \"monday.com resource allocation report.\" Real-world example: A project-based engineering consultancy manually compiles a monthly resource report for their CFO by exporting monday.com data into Excel and reformatting it — the process takes two hours every month and frequently contains formula errors; by connecting their board directly to a document template they generate the same report in seconds and eliminate the reconciliation step entirely.",
@@ -48,5 +42,5 @@
       "product": "docuai"
     }
   ],
-  "last_updated": "2026-10-13T05:01:03.254Z"
+  "last_updated": "2026-10-14T05:01:03.358Z"
 }
