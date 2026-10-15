@@ -40,13 +40,7 @@
       "brief": "The moment a project kicks off, clients need a welcome document, a contact sheet, a timeline, and a list of what's needed from them — and most teams send these late, inconsistently, or not at all. This post shows how to generate a complete onboarding pack from your monday.com board the instant a project moves to active.",
       "description": "Target keyword: \"monday.com client onboarding document.\" Real-world example: a web development studio whose project managers spend their first day on every new engagement writing the same onboarding email and attaching the same manually updated documents — while clients email in asking basic questions that the pack would have answered. H2 sections: What a client onboarding pack should contain and why timing matters as much as content; What monday.com already stores that belongs in an onboarding document (project owner, timeline, key milestones, deliverables, client responsibilities); How to map each section of the onboarding pack to specific monday.com columns; How to trigger document generation automatically when project status changes to \"In Progress\" or equivalent; What the generated document looks like and how to brand it for the client; How to include client-specific information without manual editing; How sending the pack on day one changes client behaviour and reduces inbound questions.\n\n###",
       "product": "docuai"
-    },
-    {
-      "title": "How to Find Every Deal in Your monday.com CRM Where the Contact, Value, and Close Date Are All Filled In — But the Deal Has Never Once Been Touched",
-      "brief": "A deal that looks complete on the surface can still be completely dead underneath — and monday.com gives you no warning when that happens. This post shows you how to find the deals in your pipeline that have all the right fields filled in but zero activity, and why those are often your most dangerous revenue leaks.",
-      "description": "H2 sections cover: why \"complete-looking\" deals are the hardest pipeline rot to spot; what fields to check in monday.com to identify deals with no updates, no activity log changes, and no communications since creation; how to build a filter that surfaces these records without a third-party tool; what to do when you find them (re-qualify, close lost, or hand off); and how a full pipeline scan catches this pattern across your entire board automatically. Target keyword: \"inactive deals monday.com CRM.\" Real-world example: a SaaS sales team realises 11 deals in their Proposal stage have never had a single column updated since they were created six months ago — all with a close date that has already passed — and they had been counting all 11 toward their quarterly forecast.",
-      "product": "crm-audit"
     }
   ],
-  "last_updated": "2026-10-15T05:00:10.530Z"
+  "last_updated": "2026-10-15T05:00:44.352Z"
 }
