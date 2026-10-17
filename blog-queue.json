@@ -1,12 +1,6 @@
 {
   "queue": [
     {
-      "title": "How to Auto-Generate a Resource Allocation Report from Your monday.com Board That Your Finance Team Will Actually Trust",
-      "brief": "Finance teams need to know who is working on what, at what cost, and for how long — but that information is scattered across monday.com boards in a format no spreadsheet can easily pull together. This post shows how to turn resource data from monday.com into a clean, finance-ready allocation report without rebuilding it from scratch each month.",
-      "description": "H2 sections: Why resource reports generated manually from monday.com always contain errors | What finance actually wants to see in a resource allocation report | How to structure your monday.com board to capture the right resource data (person, hours, rate, project, period) | How to map those columns into a structured report document | How to schedule the report to generate automatically at the end of each month. Target keyword: \"monday.com resource allocation report.\" Real-world example: A project-based engineering consultancy manually compiles a monthly resource report for their CFO by exporting monday.com data into Excel and reformatting it — the process takes two hours every month and frequently contains formula errors; by connecting their board directly to a document template they generate the same report in seconds and eliminate the reconciliation step entirely.",
-      "product": "docuai"
-    },
-    {
       "title": "How to Generate a Client Escalation Summary Directly from Your monday.com Board — Without a Chain of Internal Emails",
       "brief": "When something goes wrong on a project, the last thing anyone wants to do is write the escalation document — but sending a poorly structured escalation to a client is worse than sending nothing. This post shows how to generate a clear, professional escalation summary straight from monday.com the moment an issue is flagged.",
       "description": "H2 sections: Why escalation documents are always written badly and always written late | What a client escalation summary needs to contain (issue, impact, timeline, owner, resolution plan) | How to capture escalation data inside monday.com using a dedicated issue or risk item | How to map those fields into a structured escalation document | How to trigger document generation automatically when an item status changes to \"Escalated.\" Target keyword: \"monday.com project escalation document.\" Real-world example: A managed IT services firm handles roughly eight client escalations per month — each one requires a written summary sent within four hours of the escalation being raised, but the document is typically written by the account manager from scratch under pressure; by mapping their monday.com incident items to an escalation template, they generate the document the moment the item status flips and send it within minutes of the issue being logged.",
@@ -42,5 +36,5 @@
       "product": "docuai"
     }
   ],
-  "last_updated": "2026-10-16T05:01:15.030Z"
+  "last_updated": "2026-10-17T05:01:01.592Z"
 }
