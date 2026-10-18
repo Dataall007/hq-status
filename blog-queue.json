@@ -42,12 +42,6 @@
       "product": "docuai"
     },
     {
-      "title": "How to Find Every Deal in Your monday.com CRM Where the Stage Was Updated But the Close Date Was Not",
-      "brief": "Moving a deal forward in your pipeline should always trigger a close date review — but it almost never does. This post explains why that disconnect is one of the most common reasons pipeline forecasts are wrong, and how to find every deal where it's happening.",
-      "description": "Target keyword: \"monday.com pipeline close date audit.\" The post opens with the scenario: a rep moves a deal from Proposal to Negotiation, feels good about it, and never touches the close date — which is still set to a date that passed two months ago. H2s will cover: Why close dates and pipeline stages must move together to produce accurate forecasts; The specific pattern to look for — stage changed within the last 30 days, close date unchanged or in the past; How to filter and sort your monday.com board to surface these deals manually; What each combination of stage + stale close date tells you about deal health; and How to build a standing audit routine so this data rot doesn't accumulate. Real-world example: a SaaS sales team discovers that 22 of their 40 active deals have close dates that are more than 45 days old despite recent stage movement — their pipeline value was technically accurate but temporally meaningless.",
-      "product": "crm-audit"
-    },
-    {
       "title": "How to Auto-Generate a Client Offboarding Document from Your monday.com Board When a Project Ends",
       "brief": "Most teams have a client onboarding process — almost none have a formal offboarding one. This post makes the case for why an offboarding document matters, and how to generate it automatically from your monday.com board the moment a project is closed.",
       "description": "Target keyword: \"monday.com client offboarding document.\" The post opens by pointing out that the last impression a client has is often the messiest — no formal summary, no handover of assets, no record of what was delivered. H2s will cover: What a client offboarding document should include (deliverables summary, open items, login/asset transfer checklist, final sign-off, next steps); Why monday.com boards already hold most of this information by project end; How to identify the right columns and groups to pull from (completed tasks, file attachments, status fields, assigned contacts); How to structure the document so clients feel the engagement ended professionally; and How to trigger offboarding document generation automatically when a board status hits \"Complete\" or \"Closed.\" Real-world example: a digital agency that started sending auto-generated offboarding packs to clients and saw a measurable uptick in referral requests because clients finally had a clean record of everything delivered.",
@@ -78,5 +72,5 @@
       "product": "docuai"
     }
   ],
-  "last_updated": "2026-10-18T04:00:46.443Z"
+  "last_updated": "2026-10-18T05:00:01.545Z"
 }
