@@ -48,12 +48,6 @@
       "product": "docuai"
     },
     {
-      "title": "How to Find Every Deal in Your monday.com CRM That Has More Than One Contact But No Clear Decision Maker",
-      "brief": "Multiple contacts on a deal looks like good coverage — but if none of them is flagged as the decision maker, you don't actually know who can say yes. This post shows how to find every deal in your monday.com pipeline where that clarity is missing.",
-      "description": "Target keyword: \"monday.com CRM decision maker audit.\" The post opens with the real risk: your rep has been nurturing three contacts at the same account for six weeks, but none of them has budget authority — and nobody flagged it. H2s will cover: Why decision maker identification is a pipeline health issue, not just a sales skills issue; What the data pattern looks like in monday.com — multiple contact links, no \"Role\" or \"Decision Maker\" field populated; How to find these deals by filtering on contact count and missing field values; What to do when you find them — the right way to re-qualify without derailing the relationship; and How to build a board structure that prevents this ambiguity from entering the pipeline in the first place. Real-world example: a B2B services firm audits their pipeline and finds that 30% of their multi-contact deals have no decision maker recorded — one of those deals had been sitting in Proposal for 11 weeks while the rep waited for someone who couldn't actually approve.",
-      "product": "crm-audit"
-    },
-    {
       "title": "How to Generate a Formal Project Sign-Off Document from monday.com Before You Invoice",
       "brief": "Sending an invoice without a signed project completion confirmation is one of the most common causes of delayed payment and scope disputes. This post shows how to generate a formal sign-off document directly from your monday.com board before you ever hit send on an invoice.",
       "description": "Target keyword: \"monday.com project sign-off document.\" The post opens with the scenario every agency and consultant knows: the project is done, the invoice goes out, and then the client comes back saying they weren't happy with something — and there's no record that they approved the work. H2s will cover: What a project sign-off document needs to include to be legally and commercially useful (deliverables list, acceptance criteria, sign-off date, named approver); How your monday.com board already captures most of this data across task completion, file columns, and status fields; How to structure a sign-off document that clients will actually read and return quickly; How to automate generation of the document when a board reaches a defined completion milestone; and How to use the signed document as the trigger for invoicing in your workflow. Real-world example: a web development studio that added an auto-generated sign-off step between project completion and invoicing and cut their average payment delay from 28 days to 11.",
@@ -72,5 +66,5 @@
       "product": "docuai"
     }
   ],
-  "last_updated": "2026-10-18T05:00:01.545Z"
+  "last_updated": "2026-10-18T05:01:05.557Z"
 }
