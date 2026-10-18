@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-18T05:01:04.392Z",
+  "last_updated": "2026-10-18T05:01:06.788Z",
   "projects": {
     "docuai": {
       "status": "pending_review",
@@ -106,7 +106,7 @@
           ]
         }
       },
-      "last_action": "blog published: how-to-auto-generate-a-resource-allocation-report-from-your-",
+      "last_action": "blog published: how-to-find-every-deal-in-your-monday-com-crm-that-has-more-",
       "next_scheduled": "Tuesday 08:00 — 3rd blog post | Friday 12:00 — LinkedIn proposal",
       "tasks": [
         {
@@ -155,9 +155,9 @@
   },
   "agent_runs": {
     "bar-blog": {
-      "lastRun": "2026-10-17T05:01:02.998Z",
+      "lastRun": "2026-10-18T05:01:06.788Z",
       "status": "success",
-      "lastAction": "blog published: how-to-auto-generate-a-resource-allocation-report-from-your-",
+      "lastAction": "blog published: how-to-find-every-deal-in-your-monday-com-crm-that-has-more-",
       "error": null
     },
     "bar-linkedin": {
