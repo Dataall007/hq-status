@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-19T05:01:06.266Z",
+  "last_updated": "2026-10-19T05:01:08.828Z",
   "projects": {
     "docuai": {
       "status": "pending_review",
@@ -106,7 +106,7 @@
           ]
         }
       },
-      "last_action": "blog published: how-to-find-every-deal-in-your-monday-com-crm-that-has-more-",
+      "last_action": "blog published: how-to-generate-a-client-escalation-summary-directly-from-yo",
       "next_scheduled": "Tuesday 08:00 — 3rd blog post | Friday 12:00 — LinkedIn proposal",
       "tasks": [
         {
@@ -155,9 +155,9 @@
   },
   "agent_runs": {
     "bar-blog": {
-      "lastRun": "2026-10-18T05:01:06.788Z",
+      "lastRun": "2026-10-19T05:01:08.828Z",
       "status": "success",
-      "lastAction": "blog published: how-to-find-every-deal-in-your-monday-com-crm-that-has-more-",
+      "lastAction": "blog published: how-to-generate-a-client-escalation-summary-directly-from-yo",
       "error": null
     },
     "bar-linkedin": {
