@@ -48,17 +48,11 @@
       "product": "docuai"
     },
     {
-      "title": "How to Find Every Deal in Your monday.com CRM Where the Discount Was Applied But Never Approved",
-      "brief": "Discounts kill margin quietly — especially when reps apply them in the deal record without any approval trail. This post shows how to find every deal in your monday.com pipeline where a discount exists but no approval is documented.",
-      "description": "Target keyword: \"monday.com CRM discount audit.\" The post opens with the uncomfortable truth: if your reps can type a number into a discount field without any approval gate, some of them are doing it — and your margin is bleeding in ways your pipeline report will never show. H2s will cover: Why untracked discounts are a pipeline health and a profitability problem simultaneously; What the data pattern looks like — deals where a discount field is populated but an \"Approved By\" or \"Discount Status\" field is blank; How to filter your monday.com board to surface every deal with this combination of values; How to reconstruct the approval history (or lack of it) using activity logs and column history; and How to redesign your board so discounts trigger a mandatory approval step before the deal can advance. Real-world example: a managed services company audits their closed-won deals from the prior quarter and finds that 18% included discounts with no approval on record — the average discount was 14%, and several were on deals their finance team had never been notified about.",
-      "product": "crm-audit"
-    },
-    {
       "title": "How to Turn Your monday.com Project Board into a Monthly Retainer Report Your Clients Will Actually Read",
       "brief": "Retainer clients pay every month and often have no idea what they're paying for — which is when they start questioning the invoice. This post shows how to generate a clear, professional monthly retainer report straight from your monday.com board without any manual write-up.",
       "description": "Target keyword: \"monday.com retainer report.\" The post opens with the retainer relationship problem: the work is real, the hours are logged, but the client only sees a recurring charge — and without a monthly summary, every invoice renewal is a potential friction point. H2s will cover: What a retainer report should contain to justify the engagement (tasks completed, hours used",
       "product": "docuai"
     }
   ],
-  "last_updated": "2026-10-19T05:01:07.480Z"
+  "last_updated": "2026-10-20T05:01:06.141Z"
 }
