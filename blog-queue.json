@@ -1,11 +1,6 @@
 {
   "queue": [
     {
-      "title": "How to Turn Your monday.com Project Timeline into a Client-Facing Milestone Report Without Rebuilding It in PowerPoint",
-      "brief": "Clients want to see progress against milestones — not a screenshot of your monday.com board. This post shows how to",
-      "product": "docuai"
-    },
-    {
       "title": "How to Auto-Generate a Post-Meeting Action Summary from Your monday.com Items After Every Client Call",
       "brief": "Every client call produces a list of actions that someone has to type up and send — usually hours later, usually incomplete. This post shows how to pull those actions directly from your monday.com board and turn them into a formatted, client-ready summary without writing a word.",
       "description": "Target keyword: \"monday.com post-meeting action summary.\" Real-world example: a project manager at a marketing agency who spends 40 minutes after every client call writing up what was discussed and who owns what — only to have the client reply asking for clarification anyway. H2 sections: Why post-meeting summaries are the most under-rated project document; What your monday.com board already knows about every meeting (status owners, due dates, flagged items); How to structure a post-meeting action summary that clients actually read; How to map monday.com columns to a standard action summary format; How to trigger document generation automatically after a status change or date column; What the output looks like vs. a manually written email; How to send the summary directly from monday.com without leaving the platform.",
@@ -54,5 +49,5 @@
       "product": "docuai"
     }
   ],
-  "last_updated": "2026-10-20T05:01:06.141Z"
+  "last_updated": "2026-10-21T05:01:02.194Z"
 }
