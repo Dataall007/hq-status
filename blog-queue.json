@@ -47,7 +47,13 @@
       "brief": "Retainer clients pay every month and often have no idea what they're paying for — which is when they start questioning the invoice. This post shows how to generate a clear, professional monthly retainer report straight from your monday.com board without any manual write-up.",
       "description": "Target keyword: \"monday.com retainer report.\" The post opens with the retainer relationship problem: the work is real, the hours are logged, but the client only sees a recurring charge — and without a monthly summary, every invoice renewal is a potential friction point. H2s will cover: What a retainer report should contain to justify the engagement (tasks completed, hours used",
       "product": "docuai"
+    },
+    {
+      "title": "How to Find Every Deal in Your monday.com CRM Where the Owner Has Changed More Than Once — and Why Serial Handoffs Are Killing Your Close Rate",
+      "brief": "When a deal changes hands multiple times, accountability evaporates and momentum dies — but most monday.com users have no idea how many of these orphaned handoffs are sitting in their pipeline right now. This post shows you exactly how to find them, what the data usually reveals, and why serial ownership changes are one of the quietest revenue leaks in any CRM.",
+      "description": "H2s cover: why deal ownership changes matter more than most sales managers realise; how to use monday.com's activity log and People column history to identify deals that have been reassigned more than once; what patterns typically emerge (deal age, stage stagnation, missing follow-up after each handoff); how to calculate the close-rate drop on multi-ownership deals versus single-owner deals in your board; a triage framework for deciding which handed-off deals are still worth pursuing and which should be closed lost; and how to set up a monday.com automation that flags any deal reassigned more than once for immediate manager review. Target keyword: \"monday.com deal ownership audit.\" Real-world example: a SaaS sales team discovers that 34% of their open pipeline has changed owner at least twice — and that none of those deals have had a logged activity in over 45 days, pointing to a structural onboarding gap between SDR, AE, and account management handoffs.",
+      "product": "crm-audit"
     }
   ],
-  "last_updated": "2026-10-21T05:01:02.194Z"
+  "last_updated": "2026-10-22T05:00:12.944Z"
 }
