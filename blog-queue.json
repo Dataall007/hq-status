@@ -1,12 +1,6 @@
 {
   "queue": [
     {
-      "title": "How to Auto-Generate a Post-Meeting Action Summary from Your monday.com Items After Every Client Call",
-      "brief": "Every client call produces a list of actions that someone has to type up and send — usually hours later, usually incomplete. This post shows how to pull those actions directly from your monday.com board and turn them into a formatted, client-ready summary without writing a word.",
-      "description": "Target keyword: \"monday.com post-meeting action summary.\" Real-world example: a project manager at a marketing agency who spends 40 minutes after every client call writing up what was discussed and who owns what — only to have the client reply asking for clarification anyway. H2 sections: Why post-meeting summaries are the most under-rated project document; What your monday.com board already knows about every meeting (status owners, due dates, flagged items); How to structure a post-meeting action summary that clients actually read; How to map monday.com columns to a standard action summary format; How to trigger document generation automatically after a status change or date column; What the output looks like vs. a manually written email; How to send the summary directly from monday.com without leaving the platform.",
-      "product": "docuai"
-    },
-    {
       "title": "How to Generate a Formal Project Sign-Off Document from monday.com Before You Close Any Project",
       "brief": "Most teams close projects in monday.com by changing a status — but without a signed-off document, scope disputes and warranty claims have nothing to push back against. This post shows how to generate a formal client sign-off document directly from your monday.com board before you archive anything.",
       "description": "Target keyword: \"monday.com project sign-off document.\" Real-world example: a construction project coordinator who closed out a commercial fit-out in monday.com, marked everything complete, then received a client claim two months later about unfinished items — with no documented sign-off to reference. H2 sections: Why a status change is not the same as a client sign-off; What a formal project sign-off document needs to include; The monday.com columns that feed directly into a sign-off document (deliverables, dates, owners, sign-off status); How to structure the document so it's legally useful, not just administrative; How to trigger sign-off document generation from a monday.com automation; What to do if the client won't sign — and how the document helps anyway; How to store the signed document back against the monday.com project item.",
@@ -49,5 +43,5 @@
       "product": "docuai"
     }
   ],
-  "last_updated": "2026-10-22T05:01:17.987Z"
+  "last_updated": "2026-10-23T05:01:01.977Z"
 }
