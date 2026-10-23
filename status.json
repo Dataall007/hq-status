@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-23T09:00:20.670Z",
+  "last_updated": "2026-10-23T09:00:22.505Z",
   "projects": {
     "docuai": {
       "status": "pending_review",
@@ -106,7 +106,7 @@
           ]
         }
       },
-      "last_action": "blog published: how-to-auto-generate-a-post-meeting-action-summary-from-your",
+      "last_action": "linkedin proposal: Proof | 23 באוקטובר 2026",
       "next_scheduled": "Tuesday 08:00 — 3rd blog post | Friday 12:00 — LinkedIn proposal",
       "tasks": [
         {
@@ -161,9 +161,9 @@
       "error": null
     },
     "bar-linkedin": {
-      "lastRun": "2026-10-16T09:00:20.272Z",
+      "lastRun": "2026-10-23T09:00:22.505Z",
       "status": "success",
-      "lastAction": "linkedin proposal: Proof | 16 באוקטובר 2026",
+      "lastAction": "linkedin proposal: Proof | 23 באוקטובר 2026",
       "error": null
     },
     "routine-email": {
