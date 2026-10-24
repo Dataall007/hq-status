@@ -41,13 +41,7 @@
       "brief": "Retainer clients pay every month and often have no idea what they're paying for — which is when they start questioning the invoice. This post shows how to generate a clear, professional monthly retainer report straight from your monday.com board without any manual write-up.",
       "description": "Target keyword: \"monday.com retainer report.\" The post opens with the retainer relationship problem: the work is real, the hours are logged, but the client only sees a recurring charge — and without a monthly summary, every invoice renewal is a potential friction point. H2s will cover: What a retainer report should contain to justify the engagement (tasks completed, hours used",
       "product": "docuai"
-    },
-    {
-      "title": "How to Find Every Deal in Your monday.com CRM Where the Stage Has Never Changed Since It Was Created",
-      "brief": "Some deals don't go cold — they never moved in the first place. This post shows monday.com users how to surface pipeline items that have been sitting in their opening stage since day one, and why these static records are often the most damaging entries in your CRM.",
-      "description": "H2 sections cover: why deals that never change stage are worse than deals that go backwards; how to filter and sort your monday.com pipeline to isolate zero-movement records; what a stage-frozen deal usually signals (bad data entry, a dead lead kept open, or a missed qualification step); how to triage and action each type once you've found them; and how to set up a recurring check so stage-frozen deals can't quietly age in your pipeline. Target keyword: \"deals stuck in first stage monday.com.\" Real-world example: a SaaS sales team discovers 40 deals that have sat in \"New Lead\" for over 90 days — 12 are duplicates, 15 belong to contacts who went dark before any real activity was logged, and the rest were never properly qualified, inflating the pipeline by an amount that made their monthly forecast look 20% stronger than it actually was.",
-      "product": "crm-audit"
     }
   ],
-  "last_updated": "2026-10-24T05:00:10.997Z"
+  "last_updated": "2026-10-24T05:00:41.022Z"
 }
