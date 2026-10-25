@@ -55,12 +55,6 @@
       "product": "docuai"
     },
     {
-      "title": "How to Find Every Deal in Your monday.com CRM Where the Same Email Domain Appears Across Multiple Companies",
-      "brief": "Duplicate companies disguised as different accounts are one of the most common — and most expensive — data problems in monday.com CRMs. This post shows how to spot them using email domain patterns before they cause embarrassing cross-account confusion or double prospecting.",
-      "description": "Target keyword: \"duplicate company records in monday.com CRM.\" H2 sections: How duplicate company records get created in the first place / Why the same email domain appearing under two company names is a red flag / What happens when two reps are working the same account under different names / How to audit your monday.com CRM for domain-level duplicates without a data engineering team / How to merge, clean, and prevent recurrence. Real-world example: A B2B software company discovers that \"Acme Corp\" and \"Acme Corporation Ltd\" are both live in their monday.com CRM with separate contacts, separate deals, and two different reps actively working them — one of whom has already sent a proposal with a lower price.",
-      "product": "crm-audit"
-    },
-    {
       "title": "How to Generate a Client Acceptance Sign-Off Document Directly from Your monday.com Delivery Board",
       "brief": "Getting formal client sign-off at project completion is critical — but most teams either skip it entirely or chase it via email for weeks. This post shows how to generate a structured client acceptance document from your monday.com board the moment delivery items are marked complete.",
       "description": "Target keyword: \"project client acceptance document from monday.com.\" H2 sections: Why client acceptance documentation matters more than most teams realise / What should be in a client acceptance sign-off document (and what's usually missing) / The monday.com columns that feed directly into an acceptance record / How to trigger document generation automatically when a project reaches 100% / How to handle partial acceptance and conditional sign-off without rewriting everything. Real-world example: A software development agency regularly hands over finished builds with no formal acceptance document — disputes about what was delivered, and when, cost them two client relationships in a single year. This post walks through how generating the document automatically from monday.com at delivery removes the ambiguity entirely.",
@@ -85,5 +79,5 @@
       "product": "crm-audit"
     }
   ],
-  "last_updated": "2026-10-25T06:00:02.100Z"
+  "last_updated": "2026-10-25T06:01:06.541Z"
 }
