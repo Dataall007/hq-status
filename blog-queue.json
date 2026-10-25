@@ -49,12 +49,6 @@
       "product": "docuai"
     },
     {
-      "title": "How to Find Every Deal in Your monday.com CRM Where the Stage Was Updated but the Close Date Wasn't",
-      "brief": "When a rep moves a deal forward in the pipeline, the close date should move too — but it almost never does. This post explains why frozen close dates silently distort your revenue forecast and exactly how to find every deal in monday.com where this has happened.",
-      "description": "Target keyword: \"deals with outdated close dates in monday.com.\" H2 sections: Why close dates and stage updates should always move together / How a deal moves forward while its close date stays in the past / What a board full of stale close dates does to your monthly forecast / How to filter your monday.com CRM to surface every deal where these two fields are out of sync / How to fix it systematically and stop it happening again. Real-world example: A SaaS sales team notices their Q3 forecast looks strong, but when they pull actuals it's 40% off — the gap traces back to deals that advanced three stages without anyone touching the close date, making pipeline look nearer to closing than it really was.",
-      "product": "crm-audit"
-    },
-    {
       "title": "How to Auto-Generate a Service Level Agreement from Your monday.com Project Board",
       "brief": "SLAs shouldn't live in someone's email drafts folder — they should come directly from the scope, timelines, and responsibilities already sitting in your monday.com board. This post walks through how to generate a client-ready SLA document the moment a project is set up, without starting from a blank page.",
       "description": "Target keyword: \"generate SLA document from monday.com.\" H2 sections: What an SLA actually needs to say (and what most businesses forget to include) / Why manually drafting SLAs from board data leads to inconsistencies and missed clauses / The monday.com columns that map directly to SLA content / How to build a document template that pulls response times, ownership, and escalation paths from your board / What to do when SLA terms change mid-project. Real-world example: A managed IT services provider that onboards 10–15 new clients per quarter is writing a bespoke SLA for each one by hand, pulling values from monday.com into a Word doc. This post shows how to generate that document automatically the moment a new client board is created.",
@@ -91,5 +85,5 @@
       "product": "crm-audit"
     }
   ],
-  "last_updated": "2026-10-25T05:00:48.861Z"
+  "last_updated": "2026-10-25T06:00:02.100Z"
 }
