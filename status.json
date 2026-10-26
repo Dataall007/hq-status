@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-26T06:01:04.128Z",
+  "last_updated": "2026-10-26T06:01:07.123Z",
   "projects": {
     "docuai": {
       "status": "pending_review",
@@ -106,7 +106,7 @@
           ]
         }
       },
-      "last_action": "blog published: how-to-find-every-deal-in-your-monday-com-crm-where-the-same",
+      "last_action": "blog published: how-to-generate-a-formal-project-sign-off-document-from-mond",
       "next_scheduled": "Tuesday 08:00 — 3rd blog post | Friday 12:00 — LinkedIn proposal",
       "tasks": [
         {
@@ -155,9 +155,9 @@
   },
   "agent_runs": {
     "bar-blog": {
-      "lastRun": "2026-10-25T06:01:08.191Z",
+      "lastRun": "2026-10-26T06:01:07.123Z",
       "status": "success",
-      "lastAction": "blog published: how-to-find-every-deal-in-your-monday-com-crm-where-the-same",
+      "lastAction": "blog published: how-to-generate-a-formal-project-sign-off-document-from-mond",
       "error": null
     },
     "bar-linkedin": {
