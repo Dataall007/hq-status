@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-26T03:00:00.613Z",
+  "last_updated": "2026-10-26T03:00:02.470Z",
   "projects": {
     "docuai": {
       "status": "pending_review",
@@ -167,9 +167,9 @@
       "error": null
     },
     "routine-email": {
-      "lastRun": "2026-10-25T03:00:02.280Z",
+      "lastRun": "2026-10-26T03:00:02.470Z",
       "status": "success",
-      "lastAction": "daily email sent — ☀️ בוקר טוב — יום ראשון, 25 באוקטובר 2026",
+      "lastAction": "daily email sent — ☀️ בוקר טוב — יום שני, 26 באוקטובר 2026",
       "error": null
     },
     "test": {
