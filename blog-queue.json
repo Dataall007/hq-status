@@ -1,12 +1,6 @@
 {
   "queue": [
     {
-      "title": "How to Generate a Formal Project Sign-Off Document from monday.com Before You Close Any Project",
-      "brief": "Most teams close projects in monday.com by changing a status — but without a signed-off document, scope disputes and warranty claims have nothing to push back against. This post shows how to generate a formal client sign-off document directly from your monday.com board before you archive anything.",
-      "description": "Target keyword: \"monday.com project sign-off document.\" Real-world example: a construction project coordinator who closed out a commercial fit-out in monday.com, marked everything complete, then received a client claim two months later about unfinished items — with no documented sign-off to reference. H2 sections: Why a status change is not the same as a client sign-off; What a formal project sign-off document needs to include; The monday.com columns that feed directly into a sign-off document (deliverables, dates, owners, sign-off status); How to structure the document so it's legally useful, not just administrative; How to trigger sign-off document generation from a monday.com automation; What to do if the client won't sign — and how the document helps anyway; How to store the signed document back against the monday.com project item.",
-      "product": "docuai"
-    },
-    {
       "title": "How to Generate a Formal Variation Order the Moment Scope Is Added to a monday.com Project",
       "brief": "Scope creep doesn't start as a problem — it starts as a favour, a small addition, a quick extra task added to the board. This post shows how to catch every scope addition in monday.com and instantly turn it into a formal variation order before the work starts and before the invoice is disputed.",
       "description": "Target keyword: \"monday.com variation order document.\" Real-world example: a digital agency account manager who added three \"quick\" items to a client project in monday.com over six weeks — each one agreed verbally — and then discovered at invoicing that the client had no memory of authorising any of them, resulting in a $4,200 write-off. H2 sections: What a variation order is and why verbal agreement isn't enough; How scope additions typically appear in monday.com (new subitems, status changes, column additions); How to set up a trigger that detects scope additions and initiates a variation order document; What fields belong in a variation order and how they map to monday.com columns; How to format the document so it's clear, signable, and client-friendly; How to log the approved variation order back against the original project item; Why generating the document before the work starts changes the client conversation entirely.",
@@ -79,5 +73,5 @@
       "product": "crm-audit"
     }
   ],
-  "last_updated": "2026-10-25T06:01:06.541Z"
+  "last_updated": "2026-10-26T06:01:05.483Z"
 }
