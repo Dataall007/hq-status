@@ -25,12 +25,6 @@
       "product": "docuai"
     },
     {
-      "title": "How to Generate a Formal Project Sign-Off Document from monday.com Before You Invoice",
-      "brief": "Sending an invoice without a signed project completion confirmation is one of the most common causes of delayed payment and scope disputes. This post shows how to generate a formal sign-off document directly from your monday.com board before you ever hit send on an invoice.",
-      "description": "Target keyword: \"monday.com project sign-off document.\" The post opens with the scenario every agency and consultant knows: the project is done, the invoice goes out, and then the client comes back saying they weren't happy with something — and there's no record that they approved the work. H2s will cover: What a project sign-off document needs to include to be legally and commercially useful (deliverables list, acceptance criteria, sign-off date, named approver); How your monday.com board already captures most of this data across task completion, file columns, and status fields; How to structure a sign-off document that clients will actually read and return quickly; How to automate generation of the document when a board reaches a defined completion milestone; and How to use the signed document as the trigger for invoicing in your workflow. Real-world example: a web development studio that added an auto-generated sign-off step between project completion and invoicing and cut their average payment delay from 28 days to 11.",
-      "product": "docuai"
-    },
-    {
       "title": "How to Turn Your monday.com Project Board into a Monthly Retainer Report Your Clients Will Actually Read",
       "brief": "Retainer clients pay every month and often have no idea what they're paying for — which is when they start questioning the invoice. This post shows how to generate a clear, professional monthly retainer report straight from your monday.com board without any manual write-up.",
       "description": "Target keyword: \"monday.com retainer report.\" The post opens with the retainer relationship problem: the work is real, the hours are logged, but the client only sees a recurring charge — and without a monthly summary, every invoice renewal is a potential friction point. H2s will cover: What a retainer report should contain to justify the engagement (tasks completed, hours used",
@@ -73,5 +67,5 @@
       "product": "crm-audit"
     }
   ],
-  "last_updated": "2026-10-26T06:01:05.483Z"
+  "last_updated": "2026-10-27T06:00:02.100Z"
 }
