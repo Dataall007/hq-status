@@ -49,12 +49,6 @@
       "product": "docuai"
     },
     {
-      "title": "How to Find Every Deal in Your monday.com CRM Where the Lead Source Has Never Been Filled In",
-      "brief": "If you don't know where a deal came from, you can't know where to invest next — but most monday.com pipelines are full of deals with a blank lead source field. This post shows how to find every one of them and why the gap is costing you more than you think.",
-      "description": "Target keyword: \"missing lead source data in monday.com CRM.\" H2 sections: Why lead source is the most ignored field in most monday.com CRMs / What happens to your marketing attribution when lead source is consistently blank / How deals with no source data end up skewing your channel ROI calculations / How to filter your monday.com pipeline to pull every deal where lead source is empty or defaulted / How to backfill the field intelligently and enforce it going forward. Real-world example: A professional services firm running paid ads, referral programmes, and an outbound SDR team tries to assess which channel is generating the most revenue — but 60% of closed-won deals in monday.com have no lead source recorded, making the entire analysis useless and sending budget decisions back to gut feel.",
-      "product": "crm-audit"
-    },
-    {
       "title": "How to Auto-Generate a Retainer Agreement from Your monday.com Client Board When a Project Converts to Ongoing Work",
       "brief": "The moment a fixed-scope project converts to a retainer is exactly when documentation falls apart — scope creeps in, billing terms stay vague, and nothing is formalised. This post shows how to generate a retainer agreement automatically from monday.com the moment that transition happens.",
       "description": "Target keyword: \"generate retainer agreement from monday.com.\" H2 sections: Why the fixed-project-to-retainer moment is where documentation breaks down / What a retainer agreement needs to cover that a project SOW doesn't / The monday.com columns and board structure that map to retainer terms / How to set up a trigger so the document generates the moment a project is flagged for ongoing work / How to version and update retainer agreements when scope or pricing changes. Real-world example: A brand design studio converts roughly half of its project clients to monthly retainers — but the terms of each retainer live in a chain of email threads rather than a signed document. When a client disputes billable hours six months in, there is nothing to refer back to. This post walks through generating a formal retainer agreement from the monday.com board the moment the conversion is confirmed.",
@@ -67,5 +61,5 @@
       "product": "crm-audit"
     }
   ],
-  "last_updated": "2026-10-27T06:00:02.100Z"
+  "last_updated": "2026-10-27T06:01:11.919Z"
 }
