@@ -47,13 +47,7 @@
       "brief": "The moment a fixed-scope project converts to a retainer is exactly when documentation falls apart — scope creeps in, billing terms stay vague, and nothing is formalised. This post shows how to generate a retainer agreement automatically from monday.com the moment that transition happens.",
       "description": "Target keyword: \"generate retainer agreement from monday.com.\" H2 sections: Why the fixed-project-to-retainer moment is where documentation breaks down / What a retainer agreement needs to cover that a project SOW doesn't / The monday.com columns and board structure that map to retainer terms / How to set up a trigger so the document generates the moment a project is flagged for ongoing work / How to version and update retainer agreements when scope or pricing changes. Real-world example: A brand design studio converts roughly half of its project clients to monthly retainers — but the terms of each retainer live in a chain of email threads rather than a signed document. When a client disputes billable hours six months in, there is nothing to refer back to. This post walks through generating a formal retainer agreement from the monday.com board the moment the conversion is confirmed.",
       "product": "docuai"
-    },
-    {
-      "title": "How to Find Every Deal in Your monday.com Pipeline That Has Been in the Same Stage Longer Than Your Average Sales Cycle",
-      "brief": "Every pipeline has a graveyard — deals that stopped moving without anyone officially closing them. This post shows how to calculate your average stage duration in monday.com and surface every deal that has blown past it, so you can act before the deal goes cold permanently.",
-      "description": "Target keyword: \"deals stuck longer than sales cycle monday.com.\" H2 sections: What average stage duration is and why it's the most honest measure of pipeline health / How deals stay open long past the point of no return without triggering any alerts / How to calculate your own average sales cycle length from monday.com historical data / How to filter your active pipeline to find every deal sitting beyond that threshold / What to",
-      "product": "crm-audit"
     }
   ],
-  "last_updated": "2026-10-28T06:01:06.749Z"
+  "last_updated": "2026-10-29T06:00:02.086Z"
 }
