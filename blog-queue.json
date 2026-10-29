@@ -47,7 +47,13 @@
       "brief": "The moment a fixed-scope project converts to a retainer is exactly when documentation falls apart — scope creeps in, billing terms stay vague, and nothing is formalised. This post shows how to generate a retainer agreement automatically from monday.com the moment that transition happens.",
       "description": "Target keyword: \"generate retainer agreement from monday.com.\" H2 sections: Why the fixed-project-to-retainer moment is where documentation breaks down / What a retainer agreement needs to cover that a project SOW doesn't / The monday.com columns and board structure that map to retainer terms / How to set up a trigger so the document generates the moment a project is flagged for ongoing work / How to version and update retainer agreements when scope or pricing changes. Real-world example: A brand design studio converts roughly half of its project clients to monthly retainers — but the terms of each retainer live in a chain of email threads rather than a signed document. When a client disputes billable hours six months in, there is nothing to refer back to. This post walks through generating a formal retainer agreement from the monday.com board the moment the conversion is confirmed.",
       "product": "docuai"
+    },
+    {
+      "title": "How to Find Every Deal in Your monday.com CRM Where the Stage Hasn't Moved in 30 Days — and Whether It's Stalled or Just Hidden",
+      "brief": "A deal sitting in the same pipeline stage for 30 days isn't always dead — but you need to know the difference between a deal that's progressing quietly and one that's been silently abandoned. This post shows monday.com users exactly how to surface those stagnant records, read the signals correctly, and decide what to do before the quarter closes.",
+      "description": "H2 sections cover: Why stage velocity matters more than deal count in a monday.com pipeline; How to filter and group your board by last stage-change date to expose 30-day non-movers; The three reasons a deal stalls (no next action, wrong owner, or genuine prospect silence) and how to tell them apart from your monday.com data; What a healthy stage-age distribution looks like vs. what a troubled one looks like; How to build a simple monday.com dashboard view that flags stagnant deals automatically each week; When to archive, reassign, or re-engage. Target keyword: \"stalled deals monday.com pipeline.\" Real-world example: a SaaS sales team discovers 18 deals in their Proposal Sent stage that haven't moved in over 45 days — none had a follow-up task, two had no owner, and three had close dates from the previous quarter — all invisible until they ran a stage-age filter.",
+      "product": "crm-audit"
     }
   ],
-  "last_updated": "2026-10-29T06:00:02.086Z"
+  "last_updated": "2026-10-29T06:00:15.200Z"
 }
