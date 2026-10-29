@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-29T06:00:52.343Z",
+  "last_updated": "2026-10-29T06:00:56.701Z",
   "projects": {
     "docuai": {
       "status": "pending_review",
@@ -106,7 +106,7 @@
           ]
         }
       },
-      "last_action": "blog published: how-to-generate-a-formal-variation-order-the-moment-scope-is",
+      "last_action": "blog published: how-to-find-every-deal-in-your-monday-com-crm-where-the-stag",
       "next_scheduled": "Tuesday 08:00 — 3rd blog post | Friday 12:00 — LinkedIn proposal",
       "tasks": [
         {
@@ -155,9 +155,9 @@
   },
   "agent_runs": {
     "bar-blog": {
-      "lastRun": "2026-10-28T06:01:08.454Z",
+      "lastRun": "2026-10-29T06:00:56.701Z",
       "status": "success",
-      "lastAction": "blog published: how-to-generate-a-formal-variation-order-the-moment-scope-is",
+      "lastAction": "blog published: how-to-find-every-deal-in-your-monday-com-crm-where-the-stag",
       "error": null
     },
     "bar-linkedin": {
