@@ -47,7 +47,13 @@
       "brief": "The moment a fixed-scope project converts to a retainer is exactly when documentation falls apart — scope creeps in, billing terms stay vague, and nothing is formalised. This post shows how to generate a retainer agreement automatically from monday.com the moment that transition happens.",
       "description": "Target keyword: \"generate retainer agreement from monday.com.\" H2 sections: Why the fixed-project-to-retainer moment is where documentation breaks down / What a retainer agreement needs to cover that a project SOW doesn't / The monday.com columns and board structure that map to retainer terms / How to set up a trigger so the document generates the moment a project is flagged for ongoing work / How to version and update retainer agreements when scope or pricing changes. Real-world example: A brand design studio converts roughly half of its project clients to monthly retainers — but the terms of each retainer live in a chain of email threads rather than a signed document. When a client disputes billable hours six months in, there is nothing to refer back to. This post walks through generating a formal retainer agreement from the monday.com board the moment the conversion is confirmed.",
       "product": "docuai"
+    },
+    {
+      "title": "How to Find Every Deal in Your monday.com CRM Where the Stage Age Is Longer Than Your Average Sales Cycle — and What to Do Before They Expire",
+      "brief": "If a deal has been sitting in the same pipeline stage longer than it typically takes your team to close, it isn't progressing — it's decaying. This post shows monday.com users exactly how to identify those overdue deals, what the data usually reveals, and how to act before the opportunity disappears quietly.",
+      "description": "H2 sections cover: Why stage age matters more than close date as a health signal; How to calculate your average time-per-stage in monday.com using existing data; How to surface deals where stage age has already exceeded that benchmark; What the most common reasons are for deals stalling at each stage (missing info, no next action, wrong owner); How to build a simple monday.com filter view that flags these deals automatically each week; When to revive, reprice, or remove a deal from your active pipeline. Target keyword: \"deals stuck in pipeline monday.com.\" Real-world example: a SaaS sales team discovers that 14 of their 40 open deals have been in Proposal Sent for over 45 days — double their average — and that none of them have a follow-up task logged, meaning they were never chased after the proposal went out.",
+      "product": "crm-audit"
     }
   ],
-  "last_updated": "2026-10-29T06:00:54.196Z"
+  "last_updated": "2026-10-30T06:00:12.440Z"
 }
