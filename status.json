@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-30T06:00:43.478Z",
+  "last_updated": "2026-10-30T06:00:46.519Z",
   "projects": {
     "docuai": {
       "status": "pending_review",
@@ -155,7 +155,7 @@
   },
   "agent_runs": {
     "bar-blog": {
-      "lastRun": "2026-10-29T06:00:56.701Z",
+      "lastRun": "2026-10-30T06:00:46.519Z",
       "status": "success",
       "lastAction": "blog published: how-to-find-every-deal-in-your-monday-com-crm-where-the-stag",
       "error": null
