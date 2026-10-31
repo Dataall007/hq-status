@@ -47,13 +47,7 @@
       "brief": "The moment a fixed-scope project converts to a retainer is exactly when documentation falls apart — scope creeps in, billing terms stay vague, and nothing is formalised. This post shows how to generate a retainer agreement automatically from monday.com the moment that transition happens.",
       "description": "Target keyword: \"generate retainer agreement from monday.com.\" H2 sections: Why the fixed-project-to-retainer moment is where documentation breaks down / What a retainer agreement needs to cover that a project SOW doesn't / The monday.com columns and board structure that map to retainer terms / How to set up a trigger so the document generates the moment a project is flagged for ongoing work / How to version and update retainer agreements when scope or pricing changes. Real-world example: A brand design studio converts roughly half of its project clients to monthly retainers — but the terms of each retainer live in a chain of email threads rather than a signed document. When a client disputes billable hours six months in, there is nothing to refer back to. This post walks through generating a formal retainer agreement from the monday.com board the moment the conversion is confirmed.",
       "product": "docuai"
-    },
-    {
-      "title": "How to Find Every Deal in Your monday.com CRM Where the Same Contact Is Linked to a Competitor — and Why It's Quietly Poisoning Your Pipeline",
-      "brief": "When a contact in your monday.com CRM is associated with a company you've also flagged as a competitor, that deal is already compromised — and most teams never notice until it's too late. This post shows you exactly how to surface those records, what to do with them, and why leaving them unresolved skews both your forecast and your team's effort.",
-      "description": "H2 sections cover: Why competitor-linked contacts end up in your pipeline in the first place (acquisitions, job changes, shared domains); How to cross-reference your Contacts and Companies boards in monday.com to find the overlap; What to look at once you find a match — deal stage, last activity, assigned rep, and whether the contact was ever flagged; The revenue impact of pursuing deals where your own data is working against you; How to build a simple monday.com filter or dashboard view to catch these going forward; and When to close, quarantine, or reassign the deal. Target keyword: \"monday.com CRM competitor contacts pipeline audit.\" Real-world example: a SaaS sales team discovers three open deals where the primary contact recently moved to a company listed in their own competitor board — none of the reps knew, and two deals were in proposal stage.",
-      "product": "crm-audit"
     }
   ],
-  "last_updated": "2026-10-31T06:00:11.187Z"
+  "last_updated": "2026-10-31T06:00:46.034Z"
 }
