@@ -61,12 +61,6 @@
       "product": "docuai"
     },
     {
-      "title": "How to Find Every Deal in Your monday.com CRM Where a Proposal Was Sent But No Follow-Up Was Ever Logged",
-      "brief": "Sending a proposal and then waiting in silence is one of the most common and most avoidable reasons deals go cold. This post shows monday.com users how to identify every deal where a proposal went out but the activity log shows nothing happened next.",
-      "description": "Target keyword: \"proposal sent no follow-up monday.com CRM.\" The post opens with the uncomfortable truth: most proposals are forgotten within 72 hours — not by the prospect, but by the rep who sent them. H2 sections cover: (1) Why the proposal-to-follow-up gap is so damaging — deals that receive a follow-up within 48 hours of a proposal close at significantly higher rates; (2) How to structure your monday.com CRM to capture \"Proposal Sent\" as a stage and follow-up activity as a logged action; (3) How to manually filter for deals in or past the Proposal stage where the last activity column predates the proposal date by more than five days; (4) What to do with the list once you have it — re-engagement sequences, rep coaching, and pipeline triage; (5) How the CRM Audit Tool identifies these records automatically and surfaces them in the free report. Real-world example: a professional services firm that ran a manual audit and found 34 proposals sent in the previous quarter with zero logged follow-up — representing over £180,000 in open pipeline that had effectively been abandoned.",
-      "product": "crm-audit"
-    },
-    {
       "title": "How to Generate a Formal Defects or Snagging Report from Your monday.com Board at Project Completion",
       "brief": "At the end of a project, outstanding defects and unresolved items need to be documented formally — but most teams capture them in monday.com and then spend hours reformatting them for the client. This post shows how to turn that board data into a client-ready snagging report without leaving monday.com.",
       "description": "Target keyword: \"snagging report from monday.com.\" The post opens in the context of construction, fit-out, and facilities projects where a formal defects list is both a contractual requirement and a handover checkpoint. H2 sections cover: (1) What a snagging or defects report needs to include — item description, location, responsible party, severity, and resolution status; (2) How teams typically use monday.com to log these items during walkthroughs and inspections — and why the board already contains everything needed; (3) The formatting problem: monday.com boards look nothing like a formal client document, so someone always has to reformat it manually; (4) How DocuAI maps snagging-related columns to a structured report template and generates a formatted PDF ready for client signature; (5) How to automate the trigger — generating the report when all items reach a \"Resolved\" or \"For Client Review\" status. Real-world example: a fit-out contractor managing an office refurbishment who was manually compiling snagging reports from monday.com exports into Word at the end of every project — and how generating it directly from the board saved four hours per project handover.",
@@ -79,5 +73,5 @@
       "product": "crm-audit"
     }
   ],
-  "last_updated": "2026-11-01T06:00:01.659Z"
+  "last_updated": "2026-11-01T06:01:07.467Z"
 }
