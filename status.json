@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-02T06:01:02.640Z",
+  "last_updated": "2026-11-02T06:01:05.735Z",
   "projects": {
     "docuai": {
       "status": "pending_review",
@@ -106,7 +106,7 @@
           ]
         }
       },
-      "last_action": "blog published: how-to-find-every-deal-in-your-monday-com-crm-where-a-propos",
+      "last_action": "blog published: how-to-auto-generate-a-client-onboarding-pack-the-moment-a-m",
       "next_scheduled": "Tuesday 08:00 — 3rd blog post | Friday 12:00 — LinkedIn proposal",
       "tasks": [
         {
@@ -155,9 +155,9 @@
   },
   "agent_runs": {
     "bar-blog": {
-      "lastRun": "2026-11-01T06:01:09.091Z",
+      "lastRun": "2026-11-02T06:01:05.735Z",
       "status": "success",
-      "lastAction": "blog published: how-to-find-every-deal-in-your-monday-com-crm-where-a-propos",
+      "lastAction": "blog published: how-to-auto-generate-a-client-onboarding-pack-the-moment-a-m",
       "error": null
     },
     "bar-linkedin": {
