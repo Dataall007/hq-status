@@ -1,12 +1,6 @@
 {
   "queue": [
     {
-      "title": "How to Auto-Generate a Client Onboarding Pack the Moment a monday.com Project Is Marked as Started",
-      "brief": "The moment a project kicks off, clients need a welcome document, a contact sheet, a timeline, and a list of what's needed from them — and most teams send these late, inconsistently, or not at all. This post shows how to generate a complete onboarding pack from your monday.com board the instant a project moves to active.",
-      "description": "Target keyword: \"monday.com client onboarding document.\" Real-world example: a web development studio whose project managers spend their first day on every new engagement writing the same onboarding email and attaching the same manually updated documents — while clients email in asking basic questions that the pack would have answered. H2 sections: What a client onboarding pack should contain and why timing matters as much as content; What monday.com already stores that belongs in an onboarding document (project owner, timeline, key milestones, deliverables, client responsibilities); How to map each section of the onboarding pack to specific monday.com columns; How to trigger document generation automatically when project status changes to \"In Progress\" or equivalent; What the generated document looks like and how to brand it for the client; How to include client-specific information without manual editing; How sending the pack on day one changes client behaviour and reduces inbound questions.\n\n###",
-      "product": "docuai"
-    },
-    {
       "title": "How to Generate a Post-Mortem Report from Your monday.com Board After a Project Goes Wrong",
       "brief": "When a project derails, the last thing your team wants to do is write up what happened — but skipping the post-mortem means making the same mistakes again. This post shows how to pull every relevant data point from your monday.com board and turn it into a structured post-mortem document automatically.",
       "description": "Target keyword: \"monday.com post-mortem report.\" The post opens with the familiar pain: a project just finished badly, everyone wants to move on, and nobody has time to document what went wrong — so nothing changes. H2s will cover: What a useful post-mortem actually contains (timeline, missed milestones, blocked tasks, overdue items, accountability gaps); How monday.com boards already hold most of that data — if you know where to look; Which columns and fields to audit before generating the report (status history, due date vs completion date, assignees, stuck items); How to structure the output so it's useful to leadership without being a blame document; and How to automate post-mortem generation the moment a project board is archived or marked complete. Real-world example: a software delivery team whose board showed three tasks that were marked Done but had never been reviewed — the post-mortem caught it; without the document, the gap would have been invisible.",
@@ -73,5 +67,5 @@
       "product": "crm-audit"
     }
   ],
-  "last_updated": "2026-11-01T06:01:07.467Z"
+  "last_updated": "2026-11-02T06:01:04.067Z"
 }
