@@ -1,12 +1,6 @@
 {
   "queue": [
     {
-      "title": "How to Generate a Post-Mortem Report from Your monday.com Board After a Project Goes Wrong",
-      "brief": "When a project derails, the last thing your team wants to do is write up what happened — but skipping the post-mortem means making the same mistakes again. This post shows how to pull every relevant data point from your monday.com board and turn it into a structured post-mortem document automatically.",
-      "description": "Target keyword: \"monday.com post-mortem report.\" The post opens with the familiar pain: a project just finished badly, everyone wants to move on, and nobody has time to document what went wrong — so nothing changes. H2s will cover: What a useful post-mortem actually contains (timeline, missed milestones, blocked tasks, overdue items, accountability gaps); How monday.com boards already hold most of that data — if you know where to look; Which columns and fields to audit before generating the report (status history, due date vs completion date, assignees, stuck items); How to structure the output so it's useful to leadership without being a blame document; and How to automate post-mortem generation the moment a project board is archived or marked complete. Real-world example: a software delivery team whose board showed three tasks that were marked Done but had never been reviewed — the post-mortem caught it; without the document, the gap would have been invisible.",
-      "product": "docuai"
-    },
-    {
       "title": "How to Auto-Generate a Client Offboarding Document from Your monday.com Board When a Project Ends",
       "brief": "Most teams have a client onboarding process — almost none have a formal offboarding one. This post makes the case for why an offboarding document matters, and how to generate it automatically from your monday.com board the moment a project is closed.",
       "description": "Target keyword: \"monday.com client offboarding document.\" The post opens by pointing out that the last impression a client has is often the messiest — no formal summary, no handover of assets, no record of what was delivered. H2s will cover: What a client offboarding document should include (deliverables summary, open items, login/asset transfer checklist, final sign-off, next steps); Why monday.com boards already hold most of this information by project end; How to identify the right columns and groups to pull from (completed tasks, file attachments, status fields, assigned contacts); How to structure the document so clients feel the engagement ended professionally; and How to trigger offboarding document generation automatically when a board status hits \"Complete\" or \"Closed.\" Real-world example: a digital agency that started sending auto-generated offboarding packs to clients and saw a measurable uptick in referral requests because clients finally had a clean record of everything delivered.",
@@ -61,5 +55,5 @@
       "product": "docuai"
     }
   ],
-  "last_updated": "2026-11-03T06:01:27.767Z"
+  "last_updated": "2026-11-04T06:01:03.430Z"
 }
