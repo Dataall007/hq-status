@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-06T10:00:22.745Z",
+  "last_updated": "2026-11-06T10:00:25.339Z",
   "projects": {
     "docuai": {
       "status": "pending_review",
@@ -106,7 +106,7 @@
           ]
         }
       },
-      "last_action": "blog published: how-to-auto-generate-a-client-offboarding-document-from-your",
+      "last_action": "linkedin proposal: Proof | 6 בנובמבר 2026",
       "next_scheduled": "Tuesday 08:00 — 3rd blog post | Friday 12:00 — LinkedIn proposal",
       "tasks": [
         {
@@ -161,9 +161,9 @@
       "error": null
     },
     "bar-linkedin": {
-      "lastRun": "2026-10-30T10:00:21.857Z",
+      "lastRun": "2026-11-06T10:00:25.339Z",
       "status": "success",
-      "lastAction": "linkedin proposal: Proof | 30 באוקטובר 2026",
+      "lastAction": "linkedin proposal: Proof | 6 בנובמבר 2026",
       "error": null
     },
     "routine-email": {
