@@ -1,12 +1,6 @@
 {
   "queue": [
     {
-      "title": "How to Auto-Generate a Client Offboarding Document from Your monday.com Board When a Project Ends",
-      "brief": "Most teams have a client onboarding process — almost none have a formal offboarding one. This post makes the case for why an offboarding document matters, and how to generate it automatically from your monday.com board the moment a project is closed.",
-      "description": "Target keyword: \"monday.com client offboarding document.\" The post opens by pointing out that the last impression a client has is often the messiest — no formal summary, no handover of assets, no record of what was delivered. H2s will cover: What a client offboarding document should include (deliverables summary, open items, login/asset transfer checklist, final sign-off, next steps); Why monday.com boards already hold most of this information by project end; How to identify the right columns and groups to pull from (completed tasks, file attachments, status fields, assigned contacts); How to structure the document so clients feel the engagement ended professionally; and How to trigger offboarding document generation automatically when a board status hits \"Complete\" or \"Closed.\" Real-world example: a digital agency that started sending auto-generated offboarding packs to clients and saw a measurable uptick in referral requests because clients finally had a clean record of everything delivered.",
-      "product": "docuai"
-    },
-    {
       "title": "How to Turn Your monday.com Project Board into a Monthly Retainer Report Your Clients Will Actually Read",
       "brief": "Retainer clients pay every month and often have no idea what they're paying for — which is when they start questioning the invoice. This post shows how to generate a clear, professional monthly retainer report straight from your monday.com board without any manual write-up.",
       "description": "Target keyword: \"monday.com retainer report.\" The post opens with the retainer relationship problem: the work is real, the hours are logged, but the client only sees a recurring charge — and without a monthly summary, every invoice renewal is a potential friction point. H2s will cover: What a retainer report should contain to justify the engagement (tasks completed, hours used",
@@ -55,5 +49,5 @@
       "product": "docuai"
     }
   ],
-  "last_updated": "2026-11-05T06:01:15.419Z"
+  "last_updated": "2026-11-06T06:01:02.491Z"
 }
