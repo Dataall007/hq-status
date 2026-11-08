@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-08T06:00:49.296Z",
+  "last_updated": "2026-11-08T06:00:52.526Z",
   "projects": {
     "docuai": {
       "status": "pending_review",
@@ -155,7 +155,7 @@
   },
   "agent_runs": {
     "bar-blog": {
-      "lastRun": "2026-11-07T06:00:53.416Z",
+      "lastRun": "2026-11-08T06:00:52.526Z",
       "status": "success",
       "lastAction": "blog published: how-to-find-every-deal-in-your-monday-com-crm-where-the-deal",
       "error": null
