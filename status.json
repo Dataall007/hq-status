@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-08T03:00:01.853Z",
+  "last_updated": "2026-11-08T05:00:49.172Z",
   "projects": {
     "docuai": {
       "status": "pending_review",
@@ -193,9 +193,9 @@
       }
     },
     "bar-weekly-plan": {
-      "lastRun": "2026-11-01T05:00:50.074Z",
+      "lastRun": "2026-11-08T05:00:49.172Z",
       "status": "success",
-      "lastAction": "weekly plan sent: 6 topics",
+      "lastAction": "weekly plan sent: 7 topics",
       "error": null
     }
   },
