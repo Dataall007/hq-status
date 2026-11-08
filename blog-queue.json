@@ -71,7 +71,13 @@
       "brief": "Most project teams track issues in monday.com but never turn that log into a formal document — which means clients don't see it, it doesn't get signed off, and unresolved issues quietly become disputes. This post shows how to convert an existing issue log board into a professional issue register that clients can actually review and approve.",
       "description": "H2 sections: (1) The difference between an internal issue log and a client-ready issue register — and why it matters, (2) What belongs in a formal issue register: ID, description, owner, priority, status, resolution date, impact, (3) How to structure your monday",
       "product": "docuai"
+    },
+    {
+      "title": "How to Find Every Deal in Your monday.com CRM Where the Deal Was Marked Won But No Revenue Was Ever Recorded — and What That Gap Is Doing to Your Actual Numbers",
+      "brief": "Winning a deal in monday.com is supposed to be the moment everything gets recorded — but for most teams, it's the moment the data stops. This post shows you exactly how to find every closed-won deal in your pipeline where the revenue figure is missing, inconsistent, or was never confirmed, and why those gaps make your reported numbers unreliable.",
+      "description": "H2s cover: why closed-won deals are where revenue data breaks down most quietly; the specific monday.com fields that go unfilled after a deal is marked won (deal value, actual close date, confirmed revenue, invoice reference); how to filter and cross-reference your board to surface won deals with no revenue recorded; what it means for your monthly and quarterly reporting when won ≠ revenue captured; the downstream effect on forecasting, commission calculations, and finance reconciliation; and how to build a simple audit habit that catches this before the quarter closes. Target keyword: \"monday.com closed won deals missing revenue.\" Real-world example: a sales team hitting their \"won deal\" target every month but finance consistently reporting lower-than-expected revenue because half the won items never had a final value confirmed before the rep moved on.",
+      "product": "crm-audit"
     }
   ],
-  "last_updated": "2026-11-08T06:00:04.831Z"
+  "last_updated": "2026-11-08T06:00:15.825Z"
 }
