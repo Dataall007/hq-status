@@ -67,17 +67,11 @@
       "product": "docuai"
     },
     {
-      "title": "How to Find Every Deal in Your monday.com CRM Where the Contact Email or Phone Has Never Been Filled In — and Why It's Stalling Your Outreach",
-      "brief": "A deal with no contact details isn't a deal — it's a name on a board with no way to move it forward. This post shows monday.com users how to find every record where basic contact information is missing and what that gap is doing to their pipeline velocity.",
-      "description": "H2 sections: (1) The quiet friction of incomplete contact records — why reps avoid them instead of fixing them, (2) How missing contact data compounds over time in a monday.com CRM, (3) How to filter your monday.com board to surface every deal where email or phone is blank, (4) What to do with the list: enrich, reassign, or close, (5) How to prevent the problem upstream with required fields and validation rules in monday.com, (6) A real example: a recruitment agency running a filter on their monday.com CRM and discovering 67 open deals — representing over £200,000 in potential revenue — where no contact email had ever been entered, with no outreach logged against any of them. Target keyword: \"missing contact details monday.com CRM.\" The post is hands-on and practical for any monday.com user, with the audit tool introduced as the way to run this check automatically across the full pipeline rather than manually filtering board by board.",
-      "product": "crm-audit"
-    },
-    {
       "title": "How to Turn Your monday.com Issue Log into a Formal Client Issue Register Without Writing It Up Manually",
       "brief": "Most project teams track issues in monday.com but never turn that log into a formal document — which means clients don't see it, it doesn't get signed off, and unresolved issues quietly become disputes. This post shows how to convert an existing issue log board into a professional issue register that clients can actually review and approve.",
       "description": "H2 sections: (1) The difference between an internal issue log and a client-ready issue register — and why it matters, (2) What belongs in a formal issue register: ID, description, owner, priority, status, resolution date, impact, (3) How to structure your monday",
       "product": "docuai"
     }
   ],
-  "last_updated": "2026-11-08T06:00:03.311Z"
+  "last_updated": "2026-11-08T06:00:04.831Z"
 }
