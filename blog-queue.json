@@ -61,12 +61,6 @@
       "product": "docuai"
     },
     {
-      "title": "How to Find Every Deal in Your monday.com CRM Where the Close Date Was Pushed More Than Twice — and Why Serial Slippage Is Worse Than a Lost Deal",
-      "brief": "A close date that moves once is normal. A close date that moves three times is a signal that something is fundamentally wrong — either with the deal, the qualification, or the rep's honesty with themselves. This post shows monday.com users how to find every serial slippage deal in their pipeline and what to do with them.",
-      "description": "H2 sections: (1) Why moving a close date feels harmless but destroys forecast accuracy over time, (2) The difference between one slip and a pattern — and why the threshold matters, (3) How to audit close date history in monday.com to find deals that have been pushed more than twice, (4) The four reasons close dates slip repeatedly — and how to diagnose which one is happening, (5) How to decide: re-qualify, escalate, or close lost, (6) A real example: a B2B services firm finding 14 deals in their monday.com pipeline where the close date had been moved three or more times, with a combined pipeline value of £380,000 — none of which had triggered a re-qualification conversation. Target keyword: \"close date slippage monday.com CRM.\" The post teaches how to use column history and board filters in monday.com to surface this pattern manually, with the audit tool introduced as the way to run this at scale.",
-      "product": "crm-audit"
-    },
-    {
       "title": "How to Generate a Formal Project Extension Request Document Directly from Your monday.com Board",
       "brief": "When a deadline needs to move, most teams send an apologetic email and hope for the best — a formal written extension request is far more professional and far more likely to be approved without damaging the relationship. This post shows monday.com users how to build that document from data already sitting in their board.",
       "description": "H2 sections: (1) Why informal deadline conversations cost you client trust, (2) What a formal project extension request should include — and why most teams skip half of it, (3) The monday.com columns that contain everything you need: original dates, revised dates, reason codes, dependencies, sign-off history, (4) How to structure the document: context, impact, proposed revised timeline, mitigation steps, (5) How to trigger the document automatically when a project due date is changed in monday.com, (6) A real example: a software development team using their monday.com project board to generate a formal extension request the moment a sprint overrun pushed the delivery date, including an updated milestone table pulled directly from their timeline column. Target keyword: \"project extension request document monday.com.\" The post is genuinely useful as a manual guide — the automation angle is introduced as the way to make it consistent across every project manager on the team.",
@@ -85,5 +79,5 @@
       "product": "docuai"
     }
   ],
-  "last_updated": "2026-11-08T06:00:01.903Z"
+  "last_updated": "2026-11-08T06:00:03.311Z"
 }
