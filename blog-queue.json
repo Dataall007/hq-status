@@ -55,12 +55,6 @@
       "product": "docuai"
     },
     {
-      "title": "How to Find Every Deal in Your monday.com CRM Where the Deal Value Dropped After the Proposal Was Sent — and What It's Doing to Your Forecast",
-      "brief": "When a deal value is quietly revised downward after a proposal goes out, it rarely gets flagged — but it distorts your forecast and signals a negotiation problem no one is tracking. This post shows monday.com users how to find every deal where this has happened and what questions it should trigger.",
-      "description": "H2 sections: (1) Why post-proposal value changes are a forecast killer, (2) What legitimate value changes look like vs. silent discounting, (3) How to filter your monday.com pipeline to find deals where value changed after the proposal stage, (4) The pattern these deals usually follow — and what it reveals about your sales process, (5) How to use this data to tighten approval rules and protect margin, (6) A real example: a SaaS sales team discovering that 11 deals had their value reduced after proposals were sent, with no approval record and no corresponding stage change. Target keyword: \"monday.com deal value changed after proposal.\" The post walks through building a filtered board view, using activity logs and column history in monday.com, and setting up a governance rule — all practical and tool-agnostic.",
-      "product": "crm-audit"
-    },
-    {
       "title": "How to Auto-Generate a Contractor or Freelancer Brief from Your monday.com Project Board Before Work Starts",
       "brief": "Bringing a contractor on mid-project is fast — getting them properly briefed rarely is, and vague verbal handoffs cost time and money when work has to be redone. This post shows monday.com users how to pull everything a contractor needs from an existing board and produce a formal written brief without starting from a blank page.",
       "description": "H2 sections: (1) The briefing problem: why contractors often start with incomplete information, (2) What a proper contractor brief should contain — and what's already in your monday.com board, (3) How to map board columns to brief sections: scope, deliverables, deadlines, contacts, dependencies, (4) The trigger point: when to generate the brief and who should receive it, (5) How to automate brief generation the moment a freelancer is assigned to a task group, (6) A real example: a marketing agency assigning a video editor to a client campaign in monday.com and generating a fully scoped brief — including deadline, file specs, and feedback rounds — in under a minute. Target keyword: \"contractor brief monday.com.\" The post is practical enough to help any monday.com user build a manual template from their board, with automation shown as the natural next step.",
@@ -91,5 +85,5 @@
       "product": "docuai"
     }
   ],
-  "last_updated": "2026-11-08T05:00:47.485Z"
+  "last_updated": "2026-11-08T06:00:01.903Z"
 }
