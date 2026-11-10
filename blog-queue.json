@@ -71,13 +71,7 @@
       "brief": "Most project teams track issues in monday.com but never turn that log into a formal document — which means clients don't see it, it doesn't get signed off, and unresolved issues quietly become disputes. This post shows how to convert an existing issue log board into a professional issue register that clients can actually review and approve.",
       "description": "H2 sections: (1) The difference between an internal issue log and a client-ready issue register — and why it matters, (2) What belongs in a formal issue register: ID, description, owner, priority, status, resolution date, impact, (3) How to structure your monday",
       "product": "docuai"
-    },
-    {
-      "title": "How to Find Every Deal in Your monday.com CRM Where the Follow-Up Was Logged But the Stage Never Moved — and What That Pattern Reveals About Your Pipeline",
-      "brief": "When activity is being logged but stages aren't advancing, it looks like momentum — but it's actually stagnation dressed up as effort. This post shows monday.com users how to identify deals where reps are busy but nothing is actually progressing, and what to do about it.",
-      "description": "H2 sections cover: why logged activity without stage movement is one of the most dangerous pipeline illusions; how to filter your monday.com board to surface deals where updates, calls, or emails have been recorded but the stage column hasn't changed in 30, 60, or 90 days; how to distinguish genuine nurture from deals that are quietly dying; what questions to ask about each stuck record before writing it off or re-engaging; and how a full pipeline scan can surface this pattern across your entire CRM in one pass. Target keyword: \"monday.com deals with no stage movement\". Real-world example: a SaaS sales team discovers 14 deals in their monday.com pipeline where reps logged weekly check-in calls for two months, but every deal was still sitting in \"Proposal Sent\" — collectively representing $180k of forecast revenue that was never going to close.",
-      "product": "crm-audit"
     }
   ],
-  "last_updated": "2026-11-10T06:00:11.662Z"
+  "last_updated": "2026-11-10T06:01:15.084Z"
 }
