@@ -1,12 +1,6 @@
 {
   "queue": [
     {
-      "title": "How to Turn Your monday.com Project Board into a Monthly Retainer Report Your Clients Will Actually Read",
-      "brief": "Retainer clients pay every month and often have no idea what they're paying for — which is when they start questioning the invoice. This post shows how to generate a clear, professional monthly retainer report straight from your monday.com board without any manual write-up.",
-      "description": "Target keyword: \"monday.com retainer report.\" The post opens with the retainer relationship problem: the work is real, the hours are logged, but the client only sees a recurring charge — and without a monthly summary, every invoice renewal is a potential friction point. H2s will cover: What a retainer report should contain to justify the engagement (tasks completed, hours used",
-      "product": "docuai"
-    },
-    {
       "title": "How to Generate a Client-Ready End-of-Month Report Directly from Your monday.com Board",
       "brief": "Most project managers spend hours at the end of every month copying data from monday.com into a report nobody asked them to build manually. This post shows how to pull everything that matters — progress, blockers, milestones — into a formatted client document without leaving the board.",
       "description": "Target keyword: \"generate monthly project report from monday.com.\" H2 sections: Why end-of-month reporting always takes longer than it should / What data already exists in your monday.com board that clients actually want to see / How to structure a monthly report so it answers client questions before they ask them / How to turn monday.com columns into a report template that runs itself / What to do when the data isn't clean enough to report (and how to prevent that next month). Real-world example: A digital agency managing six concurrent client projects spends three hours every month building status reports in Word from monday.com screenshots — this post walks through how to eliminate that entirely by generating the report directly from board items the moment the month closes.",
@@ -73,5 +67,5 @@
       "product": "docuai"
     }
   ],
-  "last_updated": "2026-11-10T06:01:15.084Z"
+  "last_updated": "2026-11-11T06:01:01.289Z"
 }
