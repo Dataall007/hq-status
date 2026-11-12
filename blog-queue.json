@@ -65,13 +65,7 @@
       "brief": "Most project teams track issues in monday.com but never turn that log into a formal document — which means clients don't see it, it doesn't get signed off, and unresolved issues quietly become disputes. This post shows how to convert an existing issue log board into a professional issue register that clients can actually review and approve.",
       "description": "H2 sections: (1) The difference between an internal issue log and a client-ready issue register — and why it matters, (2) What belongs in a formal issue register: ID, description, owner, priority, status, resolution date, impact, (3) How to structure your monday",
       "product": "docuai"
-    },
-    {
-      "title": "How to Find Every Deal in Your monday.com CRM Where the Win Rate by Stage Tells a Different Story Than Your Close Rate — and What the Gap Is Hiding",
-      "brief": "Most monday.com sales teams track their overall close rate and call it a day — but the real revenue leak lives inside individual stage conversion rates, where deals quietly die before anyone notices. This post shows you how to surface the specific stages where your pipeline is haemorrhaging deals, why aggregate close rate masks the problem, and what to do once you find it.",
-      "description": "H2 sections cover: why overall close rate is a lagging metric that hides stage-level attrition; how to calculate stage-by-stage conversion rates using your monday.com pipeline data; what a healthy drop-off curve looks like versus a broken one; real-world example of an agency that had a 38% close rate overall but was losing 70% of deals specifically at the Proposal Sent stage without realising it; how to identify whether the leak is a volume problem (too many deals entering) or a quality problem (wrong deals advancing); what dirty or missing data — blank deal values, no contact logged, stale dates — does to stage conversion accuracy; and how the CRM Audit Tool surfaces these stage-level patterns in a single scan. Target keyword: monday.com pipeline stage conversion rate.",
-      "product": "crm-audit"
     }
   ],
-  "last_updated": "2026-11-12T06:00:11.358Z"
+  "last_updated": "2026-11-12T06:01:17.146Z"
 }
