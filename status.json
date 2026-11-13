@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-13T03:00:02.545Z",
+  "last_updated": "2026-11-13T06:01:03.476Z",
   "projects": {
     "docuai": {
       "status": "pending_review",
@@ -93,7 +93,7 @@
         }
       },
       "blog_progress": {
-        "posts_published": 85,
+        "posts_published": 86,
         "posts_in_queue": 1,
         "calendar_planned": 8,
         "focus": "monday.com SEO",
