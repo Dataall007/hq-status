@@ -1,12 +1,6 @@
 {
   "queue": [
     {
-      "title": "How to Generate a Client-Ready End-of-Month Report Directly from Your monday.com Board",
-      "brief": "Most project managers spend hours at the end of every month copying data from monday.com into a report nobody asked them to build manually. This post shows how to pull everything that matters — progress, blockers, milestones — into a formatted client document without leaving the board.",
-      "description": "Target keyword: \"generate monthly project report from monday.com.\" H2 sections: Why end-of-month reporting always takes longer than it should / What data already exists in your monday.com board that clients actually want to see / How to structure a monthly report so it answers client questions before they ask them / How to turn monday.com columns into a report template that runs itself / What to do when the data isn't clean enough to report (and how to prevent that next month). Real-world example: A digital agency managing six concurrent client projects spends three hours every month building status reports in Word from monday.com screenshots — this post walks through how to eliminate that entirely by generating the report directly from board items the moment the month closes.",
-      "product": "docuai"
-    },
-    {
       "title": "How to Auto-Generate a Service Level Agreement from Your monday.com Project Board",
       "brief": "SLAs shouldn't live in someone's email drafts folder — they should come directly from the scope, timelines, and responsibilities already sitting in your monday.com board. This post walks through how to generate a client-ready SLA document the moment a project is set up, without starting from a blank page.",
       "description": "Target keyword: \"generate SLA document from monday.com.\" H2 sections: What an SLA actually needs to say (and what most businesses forget to include) / Why manually drafting SLAs from board data leads to inconsistencies and missed clauses / The monday.com columns that map directly to SLA content / How to build a document template that pulls response times, ownership, and escalation paths from your board / What to do when SLA terms change mid-project. Real-world example: A managed IT services provider that onboards 10–15 new clients per quarter is writing a bespoke SLA for each one by hand, pulling values from monday.com into a Word doc. This post shows how to generate that document automatically the moment a new client board is created.",
@@ -67,5 +61,5 @@
       "product": "docuai"
     }
   ],
-  "last_updated": "2026-11-12T06:01:17.146Z"
+  "last_updated": "2026-11-13T06:01:05.232Z"
 }
