@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-14T06:00:50.317Z",
+  "last_updated": "2026-11-14T06:00:53.390Z",
   "projects": {
     "docuai": {
       "status": "pending_review",
@@ -106,7 +106,7 @@
           ]
         }
       },
-      "last_action": "linkedin proposal: Proof | 13 בנובמבר 2026",
+      "last_action": "blog published: how-to-find-every-deal-in-your-monday-com-crm-where-the-deal",
       "next_scheduled": "Tuesday 08:00 — 3rd blog post | Friday 12:00 — LinkedIn proposal",
       "tasks": [
         {
@@ -155,9 +155,9 @@
   },
   "agent_runs": {
     "bar-blog": {
-      "lastRun": "2026-11-13T06:01:06.777Z",
+      "lastRun": "2026-11-14T06:00:53.390Z",
       "status": "success",
-      "lastAction": "blog published: how-to-generate-a-client-ready-end-of-month-report-directly-",
+      "lastAction": "blog published: how-to-find-every-deal-in-your-monday-com-crm-where-the-deal",
       "error": null
     },
     "bar-linkedin": {
