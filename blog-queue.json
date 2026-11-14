@@ -59,13 +59,7 @@
       "brief": "Most project teams track issues in monday.com but never turn that log into a formal document — which means clients don't see it, it doesn't get signed off, and unresolved issues quietly become disputes. This post shows how to convert an existing issue log board into a professional issue register that clients can actually review and approve.",
       "description": "H2 sections: (1) The difference between an internal issue log and a client-ready issue register — and why it matters, (2) What belongs in a formal issue register: ID, description, owner, priority, status, resolution date, impact, (3) How to structure your monday",
       "product": "docuai"
-    },
-    {
-      "title": "How to Find Every Deal in Your monday.com CRM Where the Deal Was Won But No Revenue Was Ever Recorded — and What That Gap Is Doing to Your Actual Numbers",
-      "brief": "Winning deals is only half the job — if the closed revenue never makes it into your monday.com board, your pipeline looks healthy while your forecast quietly falls apart. This post shows monday.com users exactly how to find every won deal with a missing or zero revenue value, why it happens, and what it costs you when reporting, forecasting, or handing off to finance.",
-      "description": "H2 sections cover: (1) Why won deals end up with no revenue recorded in monday.com and the three most common reasons it happens; (2) How to filter your monday.com CRM to surface every closed-won item where the deal value, revenue, or invoice amount column is empty or zero; (3) What a revenue gap between your won deal count and your recorded pipeline value actually signals about your data hygiene; (4) How missing won-deal revenue corrupts your forecasting, commission tracking, and finance handoffs; (5) How to run a one-time cleanup and set up a monday.com automation that flags any deal moved to Won without a revenue value filled in; (6) What a healthy won-deal record looks like and the minimum fields every closed deal should have before it leaves the pipeline. Target keyword: monday.com won deals missing revenue. Real-world example: an agency closes 14 deals in a quarter, but their pipeline summary shows only 9 with recorded values — the remaining 5 were won by reps who never updated the deal amount, leaving the revenue invisible to anyone running a board report or handing data to finance.",
-      "product": "crm-audit"
     }
   ],
-  "last_updated": "2026-11-14T06:00:13.772Z"
+  "last_updated": "2026-11-14T06:00:51.863Z"
 }
