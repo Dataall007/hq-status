@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-13T20:02:15.710Z",
+  "last_updated": "2026-11-14T03:00:00.758Z",
   "projects": {
     "docuai": {
       "status": "pending_review",
@@ -491,7 +491,7 @@
       "issue": "DNS propagation in progress"
     }
   },
-  "routine_email_last_sent": "2026-11-13",
+  "routine_email_last_sent": "2026-11-14",
   "roadmap": {
     "now": [
       {
