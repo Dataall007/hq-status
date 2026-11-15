@@ -73,12 +73,6 @@
       "product": "docuai"
     },
     {
-      "title": "How to Find Every Deal in Your monday.com CRM Where the Contact Email Domain Doesn't Match the Company Domain — and Why It Matters",
-      "brief": "A contact whose email doesn't match the company they're linked to is either a data entry error or a signal that someone is shopping your proposal to a competitor. This post shows how to find every mismatched record in your monday.com CRM and what each type of mismatch actually means.",
-      "description": "Target keyword: \"contact email domain mismatch monday.com CRM\". H2 sections: Why email-to-company domain mismatches are more common than most CRM managers realise / The three types of mismatch: data entry error, personal email used at signup, and genuine third-party contact / How to audit your monday.com contacts board for domain mismatches using formulas and filters / What each mismatch type tells you about the quality of that contact record / How mismatched contacts affect your outreach, your reporting, and your account-based targeting / The cleanup process: how to verify, correct, and flag records systematically / A real-world example of a sales ops manager finding 60 contacts in a 400-record monday.com CRM where the email domain pointed to a completely different company. The post gives a step-by-step manual audit process any monday.com user can follow.",
-      "product": "crm-audit"
-    },
-    {
       "title": "How to Generate a Client-Ready Project Delay Notification from Your monday.com Board Without a Single Email Chain",
       "brief": "When a project is running late, the worst thing you can do is communicate it badly — but drafting a formal delay notification from scratch while the team is already under pressure is a recipe for vague, uncommitted language. This post shows how to pull the right data from monday.com and turn it into a professional delay notice clients can actually act on.",
       "description": "Target keyword: \"project delay notification monday.com\". H2 sections: Why how you communicate a delay matters as much as the delay itself / What a formal delay notification should include (original timeline, revised timeline, reason, impact on deliverables, next steps) / The monday.com columns that map to each section of the notice (deadline columns, status, notes, owner) / How to structure a notification that is honest without being damaging / The most common mistakes teams make when writing delay notices under pressure / How to generate the notification automatically when a task or milestone status changes to delayed / A real-world example of a construction project manager using monday.com to auto-produce a formal delay notification for a client the moment a critical path task slips past its due date. The post gives a reusable notification template and column mapping for readers building this manually.",
@@ -90,5 +84,5 @@
       "product": "crm-audit"
     }
   ],
-  "last_updated": "2026-11-15T06:00:03.769Z"
+  "last_updated": "2026-11-15T06:00:05.329Z"
 }
