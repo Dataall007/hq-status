@@ -73,12 +73,6 @@
       "product": "docuai"
     },
     {
-      "title": "How to Find Every Deal in Your monday.com CRM Where the Close Date Was Pushed Back More Than Twice — and What It Signals About Your Forecast",
-      "brief": "A deal that slips its close date once is normal — a deal that slips it three or more times is a forecast problem disguised as a live opportunity. This post shows how to identify serial date-pushers in your monday.com pipeline and what to do with them before they distort your numbers.",
-      "description": "Target keyword: \"close date pushed back monday.com pipeline\". H2 sections: Why repeated close date changes are one of the most reliable early-warning signals in any pipeline / How monday.com tracks (or fails to track) date changes at the item level / How to audit for deals where the close date has moved more than twice using column history and filters / The difference between a date slip caused by client delay and one caused by rep avoidance / How serial date-pushers inflate your weighted pipeline value / What to do with each category: re-qualify, escalate, or close lost / A real-world example of a B2B services team discovering that 20% of their pipeline by value was made up of deals that had slipped their close date four or more times. The post gives readers a clear manual audit method they can run today.",
-      "product": "crm-audit"
-    },
-    {
       "title": "How to Find Every Deal in Your monday.com CRM Where the Contact Email Domain Doesn't Match the Company Domain — and Why It Matters",
       "brief": "A contact whose email doesn't match the company they're linked to is either a data entry error or a signal that someone is shopping your proposal to a competitor. This post shows how to find every mismatched record in your monday.com CRM and what each type of mismatch actually means.",
       "description": "Target keyword: \"contact email domain mismatch monday.com CRM\". H2 sections: Why email-to-company domain mismatches are more common than most CRM managers realise / The three types of mismatch: data entry error, personal email used at signup, and genuine third-party contact / How to audit your monday.com contacts board for domain mismatches using formulas and filters / What each mismatch type tells you about the quality of that contact record / How mismatched contacts affect your outreach, your reporting, and your account-based targeting / The cleanup process: how to verify, correct, and flag records systematically / A real-world example of a sales ops manager finding 60 contacts in a 400-record monday.com CRM where the email domain pointed to a completely different company. The post gives a step-by-step manual audit process any monday.com user can follow.",
@@ -96,5 +90,5 @@
       "product": "crm-audit"
     }
   ],
-  "last_updated": "2026-11-15T06:00:02.344Z"
+  "last_updated": "2026-11-15T06:00:03.769Z"
 }
