@@ -59,7 +59,48 @@
       "brief": "Most project teams track issues in monday.com but never turn that log into a formal document — which means clients don't see it, it doesn't get signed off, and unresolved issues quietly become disputes. This post shows how to convert an existing issue log board into a professional issue register that clients can actually review and approve.",
       "description": "H2 sections: (1) The difference between an internal issue log and a client-ready issue register — and why it matters, (2) What belongs in a formal issue register: ID, description, owner, priority, status, resolution date, impact, (3) How to structure your monday",
       "product": "docuai"
+    },
+    {
+      "title": "How to Auto-Generate a Client-Facing Budget Reconciliation Report from Your monday.com Board at Project Close",
+      "brief": "When a project ends, clients want to know where every pound or dollar went — but pulling that into a formatted document from monday.com takes hours nobody has. This post shows how to turn your budget columns into a clean reconciliation report before the final invoice goes out.",
+      "description": "Target keyword: \"budget reconciliation report monday.com\". H2 sections: Why budget reconciliation gets skipped at project close / What monday.com columns you need to make this work (planned vs actual cost, task status, notes) / How to structure the reconciliation report clients actually expect / The manual process most teams use and where it breaks down / How to generate the document directly from your board data / What to include beyond the numbers (variance explanations, sign-off fields) / A real-world example of an agency reconciling a 12-week web project with 6 cost line items across 3 workstreams. The post focuses on the data-to-document gap that exists in every project close workflow and gives readers a replicable structure even if they build it manually.",
+      "product": "docuai"
+    },
+    {
+      "title": "How to Find Every Deal in Your monday.com CRM Where the Deal Was Won But No Handoff to Delivery Was Ever Logged",
+      "brief": "Closing a deal is only half the job — if nothing gets handed to delivery, the client experience falls apart before it starts. This post shows how to identify every won deal in monday.com where the handoff step was never recorded, and what that gap is doing to your retention rate.",
+      "description": "Target keyword: \"won deals no handoff monday.com\". H2 sections: Why the gap between sales close and delivery start is a blind spot most teams ignore / What a logged handoff should look like in a monday.com CRM / How to filter for won deals with no linked delivery board, task, or handoff date / The most common reasons handoffs go unlogged (and why it's rarely laziness) / What the pattern looks like across a 6-month pipeline / How to calculate how many clients started without a formal handoff / A real-world example of a SaaS company discovering 14 of 40 Q1 wins had no delivery record attached. The post gives readers a concrete filter methodology they can apply manually in monday.com without any tool.",
+      "product": "crm-audit"
+    },
+    {
+      "title": "How to Generate a Formal Letter of Engagement from Your monday.com Board Before Any Work Begins",
+      "brief": "A letter of engagement protects both sides before a contract is signed — but most teams skip it because writing one from scratch takes too long. This post shows how to pull the right data from your monday.com board and turn it into a professional engagement letter in minutes.",
+      "description": "Target keyword: \"letter of engagement monday.com\". H2 sections: What a letter of engagement is and why it's different from a contract or SOW / The monday.com columns that map to a standard engagement letter (client name, scope summary, start date, rate, payment terms, point of contact) / How to structure a letter of engagement your legal team and clients will accept / Why most teams skip this step and what it costs them when scope disputes happen / How to generate the letter automatically the moment a deal moves to a specific stage / A real-world example of a consulting firm using their monday.com deal board to auto-produce a letter of engagement for every new retained client. The post gives a usable letter structure and field mapping even for readers building this manually.",
+      "product": "docuai"
+    },
+    {
+      "title": "How to Find Every Deal in Your monday.com CRM Where the Close Date Was Pushed Back More Than Twice — and What It Signals About Your Forecast",
+      "brief": "A deal that slips its close date once is normal — a deal that slips it three or more times is a forecast problem disguised as a live opportunity. This post shows how to identify serial date-pushers in your monday.com pipeline and what to do with them before they distort your numbers.",
+      "description": "Target keyword: \"close date pushed back monday.com pipeline\". H2 sections: Why repeated close date changes are one of the most reliable early-warning signals in any pipeline / How monday.com tracks (or fails to track) date changes at the item level / How to audit for deals where the close date has moved more than twice using column history and filters / The difference between a date slip caused by client delay and one caused by rep avoidance / How serial date-pushers inflate your weighted pipeline value / What to do with each category: re-qualify, escalate, or close lost / A real-world example of a B2B services team discovering that 20% of their pipeline by value was made up of deals that had slipped their close date four or more times. The post gives readers a clear manual audit method they can run today.",
+      "product": "crm-audit"
+    },
+    {
+      "title": "How to Find Every Deal in Your monday.com CRM Where the Contact Email Domain Doesn't Match the Company Domain — and Why It Matters",
+      "brief": "A contact whose email doesn't match the company they're linked to is either a data entry error or a signal that someone is shopping your proposal to a competitor. This post shows how to find every mismatched record in your monday.com CRM and what each type of mismatch actually means.",
+      "description": "Target keyword: \"contact email domain mismatch monday.com CRM\". H2 sections: Why email-to-company domain mismatches are more common than most CRM managers realise / The three types of mismatch: data entry error, personal email used at signup, and genuine third-party contact / How to audit your monday.com contacts board for domain mismatches using formulas and filters / What each mismatch type tells you about the quality of that contact record / How mismatched contacts affect your outreach, your reporting, and your account-based targeting / The cleanup process: how to verify, correct, and flag records systematically / A real-world example of a sales ops manager finding 60 contacts in a 400-record monday.com CRM where the email domain pointed to a completely different company. The post gives a step-by-step manual audit process any monday.com user can follow.",
+      "product": "crm-audit"
+    },
+    {
+      "title": "How to Generate a Client-Ready Project Delay Notification from Your monday.com Board Without a Single Email Chain",
+      "brief": "When a project is running late, the worst thing you can do is communicate it badly — but drafting a formal delay notification from scratch while the team is already under pressure is a recipe for vague, uncommitted language. This post shows how to pull the right data from monday.com and turn it into a professional delay notice clients can actually act on.",
+      "description": "Target keyword: \"project delay notification monday.com\". H2 sections: Why how you communicate a delay matters as much as the delay itself / What a formal delay notification should include (original timeline, revised timeline, reason, impact on deliverables, next steps) / The monday.com columns that map to each section of the notice (deadline columns, status, notes, owner) / How to structure a notification that is honest without being damaging / The most common mistakes teams make when writing delay notices under pressure / How to generate the notification automatically when a task or milestone status changes to delayed / A real-world example of a construction project manager using monday.com to auto-produce a formal delay notification for a client the moment a critical path task slips past its due date. The post gives a reusable notification template and column mapping for readers building this manually.",
+      "product": "docuai"
+    },
+    {
+      "title": "How to Find Every Deal in Your monday.com CRM That Was Closed Won in the Last 90 Days but Has No Recorded Revenue — and What It Means for Your Numbers",
+      "brief": "A deal marked closed won with no revenue figure attached is",
+      "product": "crm-audit"
     }
   ],
-  "last_updated": "2026-11-14T06:00:51.863Z"
+  "last_updated": "2026-11-15T05:00:46.779Z"
 }
