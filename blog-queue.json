@@ -1,17 +1,11 @@
 {
   "queue": [
     {
-      "title": "How to Generate a Formal Letter of Engagement from Your monday.com Board Before Any Work Begins",
-      "brief": "A letter of engagement protects both sides before a contract is signed — but most teams skip it because writing one from scratch takes too long. This post shows how to pull the right data from your monday.com board and turn it into a professional engagement letter in minutes.",
-      "description": "Target keyword: \"letter of engagement monday.com\". H2 sections: What a letter of engagement is and why it's different from a contract or SOW / The monday.com columns that map to a standard engagement letter (client name, scope summary, start date, rate, payment terms, point of contact) / How to structure a letter of engagement your legal team and clients will accept / Why most teams skip this step and what it costs them when scope disputes happen / How to generate the letter automatically the moment a deal moves to a specific stage / A real-world example of a consulting firm using their monday.com deal board to auto-produce a letter of engagement for every new retained client. The post gives a usable letter structure and field mapping even for readers building this manually.",
-      "product": "docuai"
-    },
-    {
       "title": "How to Generate a Client-Ready Project Delay Notification from Your monday.com Board Without a Single Email Chain",
       "brief": "When a project is running late, the worst thing you can do is communicate it badly — but drafting a formal delay notification from scratch while the team is already under pressure is a recipe for vague, uncommitted language. This post shows how to pull the right data from monday.com and turn it into a professional delay notice clients can actually act on.",
       "description": "Target keyword: \"project delay notification monday.com\". H2 sections: Why how you communicate a delay matters as much as the delay itself / What a formal delay notification should include (original timeline, revised timeline, reason, impact on deliverables, next steps) / The monday.com columns that map to each section of the notice (deadline columns, status, notes, owner) / How to structure a notification that is honest without being damaging / The most common mistakes teams make when writing delay notices under pressure / How to generate the notification automatically when a task or milestone status changes to delayed / A real-world example of a construction project manager using monday.com to auto-produce a formal delay notification for a client the moment a critical path task slips past its due date. The post gives a reusable notification template and column mapping for readers building this manually.",
       "product": "docuai"
     }
   ],
-  "last_updated": "2026-11-19T10:30:39.696Z"
+  "last_updated": "2026-11-19T10:30:41.635Z"
 }
