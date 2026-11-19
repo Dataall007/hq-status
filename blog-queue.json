@@ -1,12 +1,6 @@
 {
   "queue": [
     {
-      "title": "How to Auto-Generate a Contractor or Freelancer Brief from Your monday.com Project Board Before Work Starts",
-      "brief": "Bringing a contractor on mid-project is fast — getting them properly briefed rarely is, and vague verbal handoffs cost time and money when work has to be redone. This post shows monday.com users how to pull everything a contractor needs from an existing board and produce a formal written brief without starting from a blank page.",
-      "description": "H2 sections: (1) The briefing problem: why contractors often start with incomplete information, (2) What a proper contractor brief should contain — and what's already in your monday.com board, (3) How to map board columns to brief sections: scope, deliverables, deadlines, contacts, dependencies, (4) The trigger point: when to generate the brief and who should receive it, (5) How to automate brief generation the moment a freelancer is assigned to a task group, (6) A real example: a marketing agency assigning a video editor to a client campaign in monday.com and generating a fully scoped brief — including deadline, file specs, and feedback rounds — in under a minute. Target keyword: \"contractor brief monday.com.\" The post is practical enough to help any monday.com user build a manual template from their board, with automation shown as the natural next step.",
-      "product": "docuai"
-    },
-    {
       "title": "How to Generate a Formal Project Extension Request Document Directly from Your monday.com Board",
       "brief": "When a deadline needs to move, most teams send an apologetic email and hope for the best — a formal written extension request is far more professional and far more likely to be approved without damaging the relationship. This post shows monday.com users how to build that document from data already sitting in their board.",
       "description": "H2 sections: (1) Why informal deadline conversations cost you client trust, (2) What a formal project extension request should include — and why most teams skip half of it, (3) The monday.com columns that contain everything you need: original dates, revised dates, reason codes, dependencies, sign-off history, (4) How to structure the document: context, impact, proposed revised timeline, mitigation steps, (5) How to trigger the document automatically when a project due date is changed in monday.com, (6) A real example: a software development team using their monday.com project board to generate a formal extension request the moment a sprint overrun pushed the delivery date, including an updated milestone table pulled directly from their timeline column. Target keyword: \"project extension request document monday.com.\" The post is genuinely useful as a manual guide — the automation angle is introduced as the way to make it consistent across every project manager on the team.",
@@ -37,5 +31,5 @@
       "product": "docuai"
     }
   ],
-  "last_updated": "2026-11-19T10:30:33.130Z"
+  "last_updated": "2026-11-19T10:30:34.693Z"
 }
