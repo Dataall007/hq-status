@@ -1,12 +1,6 @@
 {
   "queue": [
     {
-      "title": "How to Generate a Client Acceptance Sign-Off Document Directly from Your monday.com Delivery Board",
-      "brief": "Getting formal client sign-off at project completion is critical — but most teams either skip it entirely or chase it via email for weeks. This post shows how to generate a structured client acceptance document from your monday.com board the moment delivery items are marked complete.",
-      "description": "Target keyword: \"project client acceptance document from monday.com.\" H2 sections: Why client acceptance documentation matters more than most teams realise / What should be in a client acceptance sign-off document (and what's usually missing) / The monday.com columns that feed directly into an acceptance record / How to trigger document generation automatically when a project reaches 100% / How to handle partial acceptance and conditional sign-off without rewriting everything. Real-world example: A software development agency regularly hands over finished builds with no formal acceptance document — disputes about what was delivered, and when, cost them two client relationships in a single year. This post walks through how generating the document automatically from monday.com at delivery removes the ambiguity entirely.",
-      "product": "docuai"
-    },
-    {
       "title": "How to Auto-Generate a Retainer Agreement from Your monday.com Client Board When a Project Converts to Ongoing Work",
       "brief": "The moment a fixed-scope project converts to a retainer is exactly when documentation falls apart — scope creeps in, billing terms stay vague, and nothing is formalised. This post shows how to generate a retainer agreement automatically from monday.com the moment that transition happens.",
       "description": "Target keyword: \"generate retainer agreement from monday.com.\" H2 sections: Why the fixed-project-to-retainer moment is where documentation breaks down / What a retainer agreement needs to cover that a project SOW doesn't / The monday.com columns and board structure that map to retainer terms / How to set up a trigger so the document generates the moment a project is flagged for ongoing work / How to version and update retainer agreements when scope or pricing changes. Real-world example: A brand design studio converts roughly half of its project clients to monthly retainers — but the terms of each retainer live in a chain of email threads rather than a signed document. When a client disputes billable hours six months in, there is nothing to refer back to. This post walks through generating a formal retainer agreement from the monday.com board the moment the conversion is confirmed.",
@@ -73,5 +67,5 @@
       "product": "docuai"
     }
   ],
-  "last_updated": "2026-11-18T13:34:36.321Z"
+  "last_updated": "2026-11-19T06:01:03.382Z"
 }
