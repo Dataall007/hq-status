@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-19T10:32:13.293Z",
+  "last_updated": "2026-11-19T10:32:17.006Z",
   "projects": {
     "docuai": {
       "status": "pending_review",
@@ -106,7 +106,7 @@
           ]
         }
       },
-      "last_action": "blog published: how-to-generate-a-client-acceptance-sign-off-document-directly-from-your-2026-11-19",
+      "last_action": "blog published: when-two-reps-define-proposal-sent-differently-who-s-right-2026-11-19",
       "next_scheduled": "Tuesday 08:00 — 3rd blog post | Friday 12:00 — LinkedIn proposal",
       "tasks": [
         {
@@ -155,9 +155,9 @@
   },
   "agent_runs": {
     "bar-blog": {
-      "lastRun": "2026-11-19T06:01:04.878Z",
+      "lastRun": "2026-11-19T10:32:17.006Z",
       "status": "success",
-      "lastAction": "blog published: how-to-generate-a-client-acceptance-sign-off-document-directly-from-your-2026-11-19",
+      "lastAction": "blog published: when-two-reps-define-proposal-sent-differently-who-s-right-2026-11-19",
       "error": null
     },
     "bar-linkedin": {
