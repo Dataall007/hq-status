@@ -1,12 +1,6 @@
 {
   "queue": [
     {
-      "title": "How to Turn Your monday.com Issue Log into a Formal Client Issue Register Without Writing It Up Manually",
-      "brief": "Most project teams track issues in monday.com but never turn that log into a formal document — which means clients don't see it, it doesn't get signed off, and unresolved issues quietly become disputes. This post shows how to convert an existing issue log board into a professional issue register that clients can actually review and approve.",
-      "description": "H2 sections: (1) The difference between an internal issue log and a client-ready issue register — and why it matters, (2) What belongs in a formal issue register: ID, description, owner, priority, status, resolution date, impact, (3) How to structure your monday",
-      "product": "docuai"
-    },
-    {
       "title": "How to Auto-Generate a Client-Facing Budget Reconciliation Report from Your monday.com Board at Project Close",
       "brief": "When a project ends, clients want to know where every pound or dollar went — but pulling that into a formatted document from monday.com takes hours nobody has. This post shows how to turn your budget columns into a clean reconciliation report before the final invoice goes out.",
       "description": "Target keyword: \"budget reconciliation report monday.com\". H2 sections: Why budget reconciliation gets skipped at project close / What monday.com columns you need to make this work (planned vs actual cost, task status, notes) / How to structure the reconciliation report clients actually expect / The manual process most teams use and where it breaks down / How to generate the document directly from your board data / What to include beyond the numbers (variance explanations, sign-off fields) / A real-world example of an agency reconciling a 12-week web project with 6 cost line items across 3 workstreams. The post focuses on the data-to-document gap that exists in every project close workflow and gives readers a replicable structure even if they build it manually.",
@@ -25,5 +19,5 @@
       "product": "docuai"
     }
   ],
-  "last_updated": "2026-11-19T10:30:36.373Z"
+  "last_updated": "2026-11-19T10:30:38.051Z"
 }
