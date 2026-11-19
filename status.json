@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-11-19T10:47:49.389Z",
+  "last_updated": "2026-11-19T10:50:47.978Z",
   "projects": {
     "docuai": {
-      "status": "pending_review",
+      "status": "approved_pending_pricing",
       "label": "DocuAI — monday.com Marketplace",
-      "note": "Submitted July 7. Awaiting Monday review team (Mohammad). App live at getdocuai.vercel.app.",
+      "note": "Marketplace review passed 18/8 (Mohammad). Awaiting pricing approval; blocker: server-side quota enforcement.",
       "next_action": "Respond to Mohammad if needed. Recruit first 5 reviews from network.",
       "reviewer": "mohammadmu@monday.com",
       "review_board": "marketplaceapps.monday.com/boards/18420652419",
@@ -17,9 +17,9 @@
       ]
     },
     "crm_audit": {
-      "status": "in_progress",
+      "status": "live",
       "label": "CRM Audit Tool $299",
-      "note": "PAYMENT FLOW LIVE & verified end-to-end (webhook→paid→full PDF→email). Free flow also live. Fixed 5 bugs this session (Puppeteer/Chromium, checkout 422, webhook raw-body/signature, non-ASCII PDF filename, report download button). LS_VARIANT_ID = buy-UUID c8ee4e0e-… (not numeric).",
+      "note": "Live in production. Frontend agent7d.com/tools/crm-audit, API crm-audit-api on Render. $299 tier; $449 Action Pack paused.",
       "next_action": "Final confirmation with a real purchase (test-mode card 4242, or live+refund). Optional: keep-warm ping for Render cold starts.",
       "url": "agent7d.com/tools/crm-audit",
       "completed": [
@@ -86,7 +86,7 @@
         "posts_published": 3,
         "posts_ready": 3,
         "about_section": "updated",
-        "note": "Tone being refined — needs tighter hooks",
+        "note": "מספרים ידניים — זרימת האישור לא בשימוש, ראה paused",
         "paused": {
           "since": "2026-08-22",
           "reason": "זרימת האישור הידנית לא בשימוש — 0 פוסטים אושרו בפועל"
@@ -107,7 +107,7 @@
         }
       },
       "last_action": "blog published: when-two-reps-define-proposal-sent-differently-who-s-right-2026-11-19",
-      "next_scheduled": "Tuesday 08:00 — 3rd blog post | Friday 12:00 — LinkedIn proposal",
+      "next_scheduled": "כל יום 08:00 — פוסט CRM Audit | שישי 12:00 — הצעת LinkedIn | ראשון 07:00 — תכנון שבועי",
       "tasks": [
         {
           "name": "LinkedIn — הצעת פוסט",
@@ -172,25 +172,11 @@
       "lastAction": "daily email sent — ☀️ בוקר טוב — יום חמישי, 19 בנובמבר 2026 | סיכום שבועי",
       "error": null
     },
-    "test": {
-      "lastRun": "2026-07-08T11:09:07.893Z",
-      "status": "success",
-      "lastAction": "GitHub API token test",
-      "error": null,
-      "paused": {
-        "since": "2026-08-22",
-        "reason": "רשומת בדיקה חד-פעמית של טוקן GitHub מ-08/07"
-      }
-    },
     "bclarity-routine": {
       "lastRun": "2026-07-22T02:54:42.469Z",
-      "status": "success",
-      "lastAction": "Live on Render (repo access restored). Monitor fixed: only auto-restarts when isFailed=true — no more false-positive redeploy loop.",
-      "error": null,
-      "paused": {
-        "since": "2026-08-22",
-        "reason": "השירות מושהה בכוונה — לא כשל. ריצה אחרונה 22/07"
-      }
+      "status": "suspended",
+      "lastAction": "מושהה בכוונה ב-21/8 — כפילות cron מול שירות hq. n8n monitor הושבת גם הוא.",
+      "error": null
     },
     "bar-weekly-plan": {
       "lastRun": "2026-11-15T05:00:48.423Z",
@@ -262,12 +248,6 @@
       "notes": "Decision needed: Strategy / Market / Sales Agent"
     },
     {
-      "task": "Bar — publish 3rd blog post",
-      "status": "planned",
-      "priority": "P2",
-      "notes": "Post queued, needs approval to publish"
-    },
-    {
       "task": "DocuAI — Monetization API (plan detection)",
       "status": "planned",
       "priority": "P2",
@@ -280,26 +260,13 @@
       "notes": "Blocked on Payoneer approval (3-5 days from July 8)"
     },
     {
-      "task": "LinkedIn — launch announcement post after Monday approval",
-      "status": "planned",
-      "priority": "P2",
-      "notes": "After approval"
-    },
-    {
       "task": "bClarity domain — decided (no purchase)",
       "status": "done",
       "priority": "P3",
       "notes": "Closed: NO bclarity.ai domain. bClarity lives at agent7d.com/bclarity (subdomain/path under main domain)."
     }
   ],
-  "waiting_on": [
-    {
-      "item": "Monday Marketplace Review",
-      "since": "2026-07-07",
-      "eta": "2-4 weeks",
-      "contact": "mohammadmu@monday.com"
-    }
-  ],
+  "waiting_on": [],
   "revenue_channels": {
     "bclarity_consulting": {
       "status": "active",
