@@ -1,12 +1,6 @@
 {
   "queue": [
     {
-      "title": "How to Generate a Client-Ready Budget Variance Report from Your monday.com Board Without Opening a Spreadsheet",
-      "brief": "Every project hits a point where the budget and the reality have drifted apart — and explaining that gap to a client in a professional document takes far longer than it should. This post shows monday.com users exactly how to surface budget variance data from their board and turn it into a formatted client report without touching Excel or Word.",
-      "description": "H2 sections: (1) Why budget variance reports are always late — and what it costs you, (2) What data you already have in monday.com that belongs in this report, (3) How to structure a budget variance report clients can actually understand, (4) The manual process most teams use and where it breaks down, (5) How to auto-generate the report from your board the moment numbers change, (6) A real example: a construction project management team generating a mid-project budget variance doc directly from their monday.com finance board after actual hours exceeded estimates. Target keyword: \"budget variance report monday.com.\" The post teaches column mapping, the logic of comparing estimated vs actual values in monday, and how to trigger document generation when a threshold is crossed — useful regardless of whether the reader uses a tool to do it.",
-      "product": "docuai"
-    },
-    {
       "title": "How to Auto-Generate a Contractor or Freelancer Brief from Your monday.com Project Board Before Work Starts",
       "brief": "Bringing a contractor on mid-project is fast — getting them properly briefed rarely is, and vague verbal handoffs cost time and money when work has to be redone. This post shows monday.com users how to pull everything a contractor needs from an existing board and produce a formal written brief without starting from a blank page.",
       "description": "H2 sections: (1) The briefing problem: why contractors often start with incomplete information, (2) What a proper contractor brief should contain — and what's already in your monday.com board, (3) How to map board columns to brief sections: scope, deliverables, deadlines, contacts, dependencies, (4) The trigger point: when to generate the brief and who should receive it, (5) How to automate brief generation the moment a freelancer is assigned to a task group, (6) A real example: a marketing agency assigning a video editor to a client campaign in monday.com and generating a fully scoped brief — including deadline, file specs, and feedback rounds — in under a minute. Target keyword: \"contractor brief monday.com.\" The post is practical enough to help any monday.com user build a manual template from their board, with automation shown as the natural next step.",
@@ -43,5 +37,5 @@
       "product": "docuai"
     }
   ],
-  "last_updated": "2026-11-19T10:30:31.414Z"
+  "last_updated": "2026-11-19T10:30:33.130Z"
 }
