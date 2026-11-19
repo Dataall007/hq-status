@@ -1,4 +1,12 @@
 {
-  "queue": [],
-  "last_updated": "2026-11-19T10:30:43.175Z"
+  "queue": [
+    {
+      "title": "When Two Reps Define 'Proposal Sent' Differently, Who's Right?",
+      "angle": "stage-consistency",
+      "brief": "Explores how inconsistent stage definitions between reps corrupt pipeline data in monday.com, and how a CRM audit exposes the problem before it distorts your forecast.",
+      "description": "H2 sections: Why stage names mean nothing without exit criteria; The two reps, two definitions problem in monday.com; What the audit reveals (stage distribution skew, field completeness gaps by rep, stale deals piling in one stage); How to write a one-line exit criterion for each stage; Making the fix stick without a team training day. Target keyword: monday.com pipeline stage consistency. Concrete example: two reps both use 'Proposal Sent' — one moves a deal there the moment a deck is shared, the other waits for a formal quote with a signed NDA; the CRM Audit flags a lopsided stage distribution and near-zero field completeness in that stage, revealing the discrepancy.",
+      "product": "crm-audit"
+    }
+  ],
+  "last_updated": "2026-11-19T10:31:08.970Z"
 }
