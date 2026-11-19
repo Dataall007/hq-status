@@ -1,12 +1,6 @@
 {
   "queue": [
     {
-      "title": "How to Generate a Formal Project Delay Notice from Your monday.com Board Before the Client Finds Out",
-      "brief": "When a project slips, the worst thing you can do is let the client discover it before you've communicated it formally. This post shows monday.com users how to turn delay-related board data into a professional written notice — fast enough to stay ahead of the conversation.",
-      "description": "Target keyword: \"project delay notice from monday.com.\" The post opens with the scenario every project manager dreads: a milestone date has slipped, the client is due for an update tomorrow, and there's no formal document ready. H2 sections cover: (1) What a formal delay notice needs to include — cause, impact, revised timeline, mitigation steps; (2) Which monday.com columns hold the data you already need — original due dates, current status, owner, dependency links; (3) How to manually draft the notice using board exports and why it takes longer than it should; (4) How DocuAI maps those exact columns to a structured delay notice template and generates the document in one action; (5) How to set up a monday.com automation that triggers document generation the moment a milestone status changes to \"Delayed.\" Real-world example: a construction project manager whose subcontractor falls behind on groundworks — they need to notify the client in writing within 24 hours per contract terms, and the post walks through how the board data becomes a signed-off notice without a single email chain.",
-      "product": "docuai"
-    },
-    {
       "title": "How to Auto-Generate a Letter of Engagement from Your monday.com Board Before Any Work Begins",
       "brief": "A letter of engagement is the document that formally confirms scope, fees, and expectations before a project starts — and most teams either skip it or spend hours writing it from scratch. This post shows monday.com users how to generate one directly from the board data they've already filled in.",
       "description": "Target keyword: \"letter of engagement from monday.com.\" The post opens by framing the letter of engagement as the document that protects both sides — the client knows what they're getting, and the agency or consultant knows what they've committed to. H2 sections cover: (1) What a letter of engagement must contain — scope summary, deliverables, timeline, fees, payment terms, and responsibilities; (2) Where that information already lives in a monday.com board — typically across project, contact, and deal-linked items; (3) The manual process most teams follow — copying from the CRM, pasting into Word, reformatting, getting it approved — and why it introduces errors; (4) How DocuAI pulls the relevant columns and generates a formatted, client-ready letter in one step; (5) How to trigger this automatically when a deal status moves to \"Won\" or a project item is created. Real-world example: a boutique marketing consultancy that was starting client work on verbal agreement and getting into scope disputes — and how generating a letter of engagement at the point of project creation resolved the ambiguity before work began.",
@@ -61,5 +55,5 @@
       "product": "docuai"
     }
   ],
-  "last_updated": "2026-11-19T10:30:26.481Z"
+  "last_updated": "2026-11-19T10:30:28.116Z"
 }
