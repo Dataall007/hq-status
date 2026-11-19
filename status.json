@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-19T06:01:01.685Z",
+  "last_updated": "2026-11-19T06:01:04.878Z",
   "projects": {
     "docuai": {
       "status": "pending_review",
@@ -106,7 +106,7 @@
           ]
         }
       },
-      "last_action": "blog published: how-to-find-every-deal-in-your-monday-com-crm-where-the-stage-moved-forw-2026-11-18",
+      "last_action": "blog published: how-to-generate-a-client-acceptance-sign-off-document-directly-from-your-2026-11-19",
       "next_scheduled": "Tuesday 08:00 — 3rd blog post | Friday 12:00 — LinkedIn proposal",
       "tasks": [
         {
@@ -155,9 +155,9 @@
   },
   "agent_runs": {
     "bar-blog": {
-      "lastRun": "2026-11-18T13:34:39.302Z",
+      "lastRun": "2026-11-19T06:01:04.878Z",
       "status": "success",
-      "lastAction": "blog published: how-to-find-every-deal-in-your-monday-com-crm-where-the-stage-moved-forw-2026-11-18",
+      "lastAction": "blog published: how-to-generate-a-client-acceptance-sign-off-document-directly-from-your-2026-11-19",
       "error": null
     },
     "bar-linkedin": {
