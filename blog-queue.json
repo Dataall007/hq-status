@@ -1,12 +1,6 @@
 {
   "queue": [
     {
-      "title": "How to Generate a Formal Project Extension Request Document Directly from Your monday.com Board",
-      "brief": "When a deadline needs to move, most teams send an apologetic email and hope for the best — a formal written extension request is far more professional and far more likely to be approved without damaging the relationship. This post shows monday.com users how to build that document from data already sitting in their board.",
-      "description": "H2 sections: (1) Why informal deadline conversations cost you client trust, (2) What a formal project extension request should include — and why most teams skip half of it, (3) The monday.com columns that contain everything you need: original dates, revised dates, reason codes, dependencies, sign-off history, (4) How to structure the document: context, impact, proposed revised timeline, mitigation steps, (5) How to trigger the document automatically when a project due date is changed in monday.com, (6) A real example: a software development team using their monday.com project board to generate a formal extension request the moment a sprint overrun pushed the delivery date, including an updated milestone table pulled directly from their timeline column. Target keyword: \"project extension request document monday.com.\" The post is genuinely useful as a manual guide — the automation angle is introduced as the way to make it consistent across every project manager on the team.",
-      "product": "docuai"
-    },
-    {
       "title": "How to Turn Your monday.com Issue Log into a Formal Client Issue Register Without Writing It Up Manually",
       "brief": "Most project teams track issues in monday.com but never turn that log into a formal document — which means clients don't see it, it doesn't get signed off, and unresolved issues quietly become disputes. This post shows how to convert an existing issue log board into a professional issue register that clients can actually review and approve.",
       "description": "H2 sections: (1) The difference between an internal issue log and a client-ready issue register — and why it matters, (2) What belongs in a formal issue register: ID, description, owner, priority, status, resolution date, impact, (3) How to structure your monday",
@@ -31,5 +25,5 @@
       "product": "docuai"
     }
   ],
-  "last_updated": "2026-11-19T10:30:34.693Z"
+  "last_updated": "2026-11-19T10:30:36.373Z"
 }
