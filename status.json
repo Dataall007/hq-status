@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-20T03:00:00.684Z",
+  "last_updated": "2026-11-20T03:00:02.754Z",
   "projects": {
     "docuai": {
       "status": "approved_pending_pricing",
@@ -167,9 +167,9 @@
       "error": null
     },
     "routine-email": {
-      "lastRun": "2026-11-19T03:00:02.652Z",
+      "lastRun": "2026-11-20T03:00:02.754Z",
       "status": "success",
-      "lastAction": "daily email sent — ☀️ בוקר טוב — יום חמישי, 19 בנובמבר 2026 | סיכום שבועי",
+      "lastAction": "daily email sent — ☀️ בוקר טוב — יום שישי, 20 בנובמבר 2026",
       "error": null
     },
     "bclarity-routine": {
