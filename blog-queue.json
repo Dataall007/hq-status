@@ -1,12 +1,4 @@
 {
-  "queue": [
-    {
-      "title": "What a New Rep Inherits When Your monday.com Pipeline Is a Mess",
-      "angle": "onboarding-rep",
-      "brief": "When a new sales rep is handed a monday.com pipeline full of unowned deals, missing values, and stale stages, they don't know what to trust — and that uncertainty costs you from day one. This post walks through the exact audit a new rep (or their manager) should run in the first week to separate real pipeline from noise.",
-      "description": "H2 sections: 'The invisible tax of a dirty handover' (why bad data costs a new rep their first 30 days); 'The five things to check before you touch a single deal' (owner coverage, deal value, last activity date, close date, and stage completeness); 'How to triage what's real vs what was never real' (using field completeness and 30-day activity thresholds to separate live deals from ghost records); 'What to do with the deals nobody claimed' (a simple rule for archiving vs reassigning); 'Making the CRM Audit Tool part of your onboarding checklist' (how to run a one-click board snapshot before the new rep's first call). Target keyword: monday.com CRM onboarding pipeline audit. Concrete example: a 7-person sales team where a departing rep left 34 open deals — 19 had no activity in 60+ days, 11 had no recorded value, and the new rep wasted their first two weeks chasing deals that were effectively dead.",
-      "product": "crm-audit"
-    }
-  ],
-  "last_updated": "2026-11-20T06:00:12.250Z"
+  "queue": [],
+  "last_updated": "2026-11-20T06:01:15.310Z"
 }
