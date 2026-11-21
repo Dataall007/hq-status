@@ -1,12 +1,4 @@
 {
-  "queue": [
-    {
-      "title": "Your monday.com Pipeline After the Holiday Break: A Triage Guide",
-      "angle": "post-vacation",
-      "brief": "Coming back to a neglected monday.com pipeline after time away is disorienting — this post gives sales reps and managers a concrete catch-up sequence to identify what decayed, what moved, and what needs immediate action before the quarter slips further.",
-      "description": "H2 sections: Why pipelines degrade faster than you expect during a break | The five things that silently change while you're out (close dates lapse, owners go dark, stages freeze, fields stay blank, follow-ups age past 30 days) | A 20-minute triage sequence using the CRM Audit Tool to surface no-activity deals, missing owners, and field gaps in one pass | What to do with what you find: a priority order for the first two days back | How to set a baseline before the next break so recovery takes minutes not hours. Target keyword: monday.com pipeline review after holiday. Concrete example: a sales manager returns after a two-week break to find six deals still showing a close date of December 31, three with no owner since a rep left in late December, and four with no activity logged since before Christmas — the post walks through exactly how to spot and triage all of these using the audit tool.",
-      "product": "crm-audit"
-    }
-  ],
-  "last_updated": "2026-11-21T06:00:11.466Z"
+  "queue": [],
+  "last_updated": "2026-11-21T06:01:13.382Z"
 }
