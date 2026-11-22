@@ -1,13 +1,6 @@
 {
   "queue": [
     {
-      "title": "The monday.com Pipeline Stage Nobody Trusts Anymore",
-      "angle": "stage-consistency",
-      "brief": "When every rep mentally adjusts the stage labels before trusting a forecast, the problem isn't the reps — it's the stage definitions. This post shows how to audit a single stage and write exit criteria that stick.",
-      "description": "H2s: 'Why One Stage Becomes Meaningless Over Time', 'The Quick Audit: Pull Every Deal in That Stage and Compare Notes', 'What Exit Criteria Actually Look Like', 'How to Enforce Them Without Policing Your Team'. Target keyword: monday.com pipeline stage definitions. Concrete example: 'Negotiation' stage contains deals ranging from first pricing conversation to signed-but-not-countersigned — showing how to separate them and write a checklist that makes the boundary obvious.",
-      "product": "crm-audit"
-    },
-    {
       "title": "Your Pipeline Has a Shape Problem — Here's How to Read It",
       "angle": "pipeline-shape",
       "brief": "A pipeline that looks full can still be broken if all the value is piled into one stage. This post teaches sales teams how to read the distribution of their monday.com board and what a healthy shape actually looks like.",
@@ -50,5 +43,5 @@
       "product": "crm-audit"
     }
   ],
-  "last_updated": "2026-11-22T05:00:36.132Z"
+  "last_updated": "2026-11-22T06:01:04.089Z"
 }
