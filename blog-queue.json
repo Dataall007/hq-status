@@ -1,4 +1,54 @@
 {
-  "queue": [],
-  "last_updated": "2026-11-21T06:01:13.382Z"
+  "queue": [
+    {
+      "title": "The monday.com Pipeline Stage Nobody Trusts Anymore",
+      "angle": "stage-consistency",
+      "brief": "When every rep mentally adjusts the stage labels before trusting a forecast, the problem isn't the reps — it's the stage definitions. This post shows how to audit a single stage and write exit criteria that stick.",
+      "description": "H2s: 'Why One Stage Becomes Meaningless Over Time', 'The Quick Audit: Pull Every Deal in That Stage and Compare Notes', 'What Exit Criteria Actually Look Like', 'How to Enforce Them Without Policing Your Team'. Target keyword: monday.com pipeline stage definitions. Concrete example: 'Negotiation' stage contains deals ranging from first pricing conversation to signed-but-not-countersigned — showing how to separate them and write a checklist that makes the boundary obvious.",
+      "product": "crm-audit"
+    },
+    {
+      "title": "Your Pipeline Has a Shape Problem — Here's How to Read It",
+      "angle": "pipeline-shape",
+      "brief": "A pipeline that looks full can still be broken if all the value is piled into one stage. This post teaches sales teams how to read the distribution of their monday.com board and what a healthy shape actually looks like.",
+      "description": "H2s: 'What Normal Pipeline Distribution Looks Like', 'Three Shapes That Signal a Problem', 'How to Read Your monday.com Stage Distribution Today', 'What to Do When Everything Is Stuck at the Top'. Target keyword: monday.com pipeline distribution. Concrete example: a team where 70% of deal value sits in 'Proposal Sent' and almost nothing is in 'Discovery' — illustrating what the drought looks like two months from now.",
+      "product": "crm-audit"
+    },
+    {
+      "title": "5 Signs Your monday.com CRM Adoption Is Quietly Slipping",
+      "angle": "crm-adoption",
+      "brief": "Teams don't stop using the CRM all at once — adoption erodes gradually through small habits that go unchecked. This post names the five early signals that updates are drying up, before the data becomes useless.",
+      "description": "H2s: 'Why CRM Adoption Breaks Down Slowly', 'Signal 1: Fields That Were Filled In Last Quarter Aren't Now', 'Signal 2: Activity Logs Stopping at the Same Stage', 'Signal 3: Close Dates Nobody Is Moving', 'Signal 4: Notes Disappearing From Updates', 'Signal 5: Owners Who Haven't Touched a Deal in Weeks', 'What to Do Before It Becomes a Data Problem'. Target keyword: monday.com CRM adoption. Concrete example: a manager who notices their team's boards look identical week over week — not because nothing changed, but because nobody is logging it.",
+      "product": "crm-audit"
+    },
+    {
+      "title": "Stalled Is Not Lost — But It Costs You Either Way",
+      "angle": "stale-vs-closed",
+      "brief": "Leaving a dead deal open distorts every number your team relies on. This post makes the case for a clear rule about when to call a deal and how to apply it inside monday.com without a manual board review.",
+      "description": "H2s: 'The Real Cost of a Deal Nobody Closed and Nobody Killed', 'What Stalled Looks Like vs What Lost Looks Like', 'A Simple Rule for When to Call It', 'How to Mark It Without Losing the History', 'Setting a Board View That Surfaces These Deals Automatically'. Target keyword: monday.com stalled deals. Concrete example: a pipeline showing $280K in open value, of which $90K hasn't had any activity in 45 days and hasn't been marked lost — showing what the real open number becomes once the zombies are removed.",
+      "product": "crm-audit"
+    },
+    {
+      "title": "When No One Owns a Deal, Everyone Assumes Someone Else Does",
+      "angle": "unowned-records",
+      "brief": "Unowned deals don't just sit idle — they actively mislead pipeline reports and fall through the cracks at the worst moments. This post shows how to surface them and assign ownership without triggering a team reshuffle.",
+      "description": "H2s: 'How Deals End Up Unowned in the First Place', 'What Unowned Records Are Doing to Your Pipeline Numbers', 'How to Pull Every Unowned Deal From Your monday.com Board Today', 'Assigning Owners Without Rewriting Your Team Structure', 'A Rule That Prevents the Problem at Entry'. Target keyword: unowned deals monday.com CRM. Concrete example: a deal that was transferred during a rep departure, never reassigned, and sat untouched for 60 days while still counting toward the team forecast at full value.",
+      "product": "crm-audit"
+    },
+    {
+      "title": "Close Dates Nobody Maintains Are Forecasts Nobody Should Trust",
+      "angle": "close-dates",
+      "brief": "A close date that was set at deal creation and never touched again is worse than no close date at all — it creates false confidence. This post explains what maintaining close dates actually requires and how to build that habit into monday.com.",
+      "description": "H2s: 'What a Close Date Is Actually Supposed to Mean', 'The Quiet Way Bad Close Dates Wreck Your Forecast', 'How to Spot Dates That Have Never Been Touched', 'What a Meaningful Close Date Update Looks Like', 'Building a Weekly Habit Around Close Date Review'. Target keyword: monday.com close date accuracy. Concrete example: a rep whose five deals all show close dates from the first week of the quarter — none updated since — and what that makes the forecast look like when the manager pulls it on day 45.",
+      "product": "crm-audit"
+    },
+    {
+      "title": "The Minimum CRM Routine a 5-Person Team Can Actually Sustain",
+      "angle": "small-team",
+      "brief": "Small sales teams can't afford a dedicated ops function, so CRM hygiene either gets baked into existing habits or it doesn't happen at all. This post gives a minimum viable routine that keeps monday.com usable without adding admin overhead.",
+      "description": "H2s: 'What to Track When You Have No Ops Person', 'The Three Fields That Matter Most on a Small Team', 'The 10-Minute Friday Check That Catches 80% of Problems', 'What You Can Safely Ignore Until You're Bigger', 'How to Split Manager vs Rep Responsibilities Without Formalising It'. Target keyword: monday.com CRM for small sales teams. Concrete example: a five-person team that runs a single 10-minute end-of-week board review using three filters — owner, last activity, and deal value — and how that habit keeps the pipeline clean enough to trust.",
+      "product": "crm-audit"
+    }
+  ],
+  "last_updated": "2026-11-22T05:00:36.132Z"
 }
