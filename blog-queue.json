@@ -1,13 +1,6 @@
 {
   "queue": [
     {
-      "title": "Your Pipeline Has a Shape Problem — Here's How to Read It",
-      "angle": "pipeline-shape",
-      "brief": "A pipeline that looks full can still be broken if all the value is piled into one stage. This post teaches sales teams how to read the distribution of their monday.com board and what a healthy shape actually looks like.",
-      "description": "H2s: 'What Normal Pipeline Distribution Looks Like', 'Three Shapes That Signal a Problem', 'How to Read Your monday.com Stage Distribution Today', 'What to Do When Everything Is Stuck at the Top'. Target keyword: monday.com pipeline distribution. Concrete example: a team where 70% of deal value sits in 'Proposal Sent' and almost nothing is in 'Discovery' — illustrating what the drought looks like two months from now.",
-      "product": "crm-audit"
-    },
-    {
       "title": "5 Signs Your monday.com CRM Adoption Is Quietly Slipping",
       "angle": "crm-adoption",
       "brief": "Teams don't stop using the CRM all at once — adoption erodes gradually through small habits that go unchecked. This post names the five early signals that updates are drying up, before the data becomes useless.",
@@ -43,5 +36,5 @@
       "product": "crm-audit"
     }
   ],
-  "last_updated": "2026-11-22T06:01:04.089Z"
+  "last_updated": "2026-11-23T06:01:02.705Z"
 }
