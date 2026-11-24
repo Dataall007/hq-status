@@ -1,13 +1,6 @@
 {
   "queue": [
     {
-      "title": "5 Signs Your monday.com CRM Adoption Is Quietly Slipping",
-      "angle": "crm-adoption",
-      "brief": "Teams don't stop using the CRM all at once — adoption erodes gradually through small habits that go unchecked. This post names the five early signals that updates are drying up, before the data becomes useless.",
-      "description": "H2s: 'Why CRM Adoption Breaks Down Slowly', 'Signal 1: Fields That Were Filled In Last Quarter Aren't Now', 'Signal 2: Activity Logs Stopping at the Same Stage', 'Signal 3: Close Dates Nobody Is Moving', 'Signal 4: Notes Disappearing From Updates', 'Signal 5: Owners Who Haven't Touched a Deal in Weeks', 'What to Do Before It Becomes a Data Problem'. Target keyword: monday.com CRM adoption. Concrete example: a manager who notices their team's boards look identical week over week — not because nothing changed, but because nobody is logging it.",
-      "product": "crm-audit"
-    },
-    {
       "title": "Stalled Is Not Lost — But It Costs You Either Way",
       "angle": "stale-vs-closed",
       "brief": "Leaving a dead deal open distorts every number your team relies on. This post makes the case for a clear rule about when to call a deal and how to apply it inside monday.com without a manual board review.",
@@ -36,5 +29,5 @@
       "product": "crm-audit"
     }
   ],
-  "last_updated": "2026-11-23T06:01:02.705Z"
+  "last_updated": "2026-11-24T06:01:06.280Z"
 }
