@@ -1,13 +1,6 @@
 {
   "queue": [
     {
-      "title": "Stalled Is Not Lost — But It Costs You Either Way",
-      "angle": "stale-vs-closed",
-      "brief": "Leaving a dead deal open distorts every number your team relies on. This post makes the case for a clear rule about when to call a deal and how to apply it inside monday.com without a manual board review.",
-      "description": "H2s: 'The Real Cost of a Deal Nobody Closed and Nobody Killed', 'What Stalled Looks Like vs What Lost Looks Like', 'A Simple Rule for When to Call It', 'How to Mark It Without Losing the History', 'Setting a Board View That Surfaces These Deals Automatically'. Target keyword: monday.com stalled deals. Concrete example: a pipeline showing $280K in open value, of which $90K hasn't had any activity in 45 days and hasn't been marked lost — showing what the real open number becomes once the zombies are removed.",
-      "product": "crm-audit"
-    },
-    {
       "title": "When No One Owns a Deal, Everyone Assumes Someone Else Does",
       "angle": "unowned-records",
       "brief": "Unowned deals don't just sit idle — they actively mislead pipeline reports and fall through the cracks at the worst moments. This post shows how to surface them and assign ownership without triggering a team reshuffle.",
@@ -29,5 +22,5 @@
       "product": "crm-audit"
     }
   ],
-  "last_updated": "2026-11-24T06:01:06.280Z"
+  "last_updated": "2026-11-25T06:01:03.613Z"
 }
