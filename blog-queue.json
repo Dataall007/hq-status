@@ -1,13 +1,6 @@
 {
   "queue": [
     {
-      "title": "When No One Owns a Deal, Everyone Assumes Someone Else Does",
-      "angle": "unowned-records",
-      "brief": "Unowned deals don't just sit idle — they actively mislead pipeline reports and fall through the cracks at the worst moments. This post shows how to surface them and assign ownership without triggering a team reshuffle.",
-      "description": "H2s: 'How Deals End Up Unowned in the First Place', 'What Unowned Records Are Doing to Your Pipeline Numbers', 'How to Pull Every Unowned Deal From Your monday.com Board Today', 'Assigning Owners Without Rewriting Your Team Structure', 'A Rule That Prevents the Problem at Entry'. Target keyword: unowned deals monday.com CRM. Concrete example: a deal that was transferred during a rep departure, never reassigned, and sat untouched for 60 days while still counting toward the team forecast at full value.",
-      "product": "crm-audit"
-    },
-    {
       "title": "Close Dates Nobody Maintains Are Forecasts Nobody Should Trust",
       "angle": "close-dates",
       "brief": "A close date that was set at deal creation and never touched again is worse than no close date at all — it creates false confidence. This post explains what maintaining close dates actually requires and how to build that habit into monday.com.",
@@ -22,5 +15,5 @@
       "product": "crm-audit"
     }
   ],
-  "last_updated": "2026-11-25T06:01:03.613Z"
+  "last_updated": "2026-11-26T06:01:01.478Z"
 }
