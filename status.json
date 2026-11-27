@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-27T10:00:19.470Z",
+  "last_updated": "2026-11-27T10:00:21.378Z",
   "projects": {
     "docuai": {
       "status": "approved_pending_pricing",
@@ -106,7 +106,7 @@
           ]
         }
       },
-      "last_action": "blog published: close-dates-nobody-maintains-are-forecasts-nobody-should-trust-2026-11-27",
+      "last_action": "linkedin proposal: Proof | 27 בנובמבר 2026",
       "next_scheduled": "כל יום 08:00 — פוסט CRM Audit | שישי 12:00 — הצעת LinkedIn | ראשון 07:00 — תכנון שבועי",
       "tasks": [
         {
@@ -161,9 +161,9 @@
       "error": null
     },
     "bar-linkedin": {
-      "lastRun": "2026-11-20T10:00:21.997Z",
+      "lastRun": "2026-11-27T10:00:21.378Z",
       "status": "success",
-      "lastAction": "linkedin proposal: Proof | 20 בנובמבר 2026",
+      "lastAction": "linkedin proposal: Proof | 27 בנובמבר 2026",
       "error": null
     },
     "routine-email": {
