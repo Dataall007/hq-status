@@ -1,13 +1,6 @@
 {
   "queue": [
     {
-      "title": "Close Dates Nobody Maintains Are Forecasts Nobody Should Trust",
-      "angle": "close-dates",
-      "brief": "A close date that was set at deal creation and never touched again is worse than no close date at all — it creates false confidence. This post explains what maintaining close dates actually requires and how to build that habit into monday.com.",
-      "description": "H2s: 'What a Close Date Is Actually Supposed to Mean', 'The Quiet Way Bad Close Dates Wreck Your Forecast', 'How to Spot Dates That Have Never Been Touched', 'What a Meaningful Close Date Update Looks Like', 'Building a Weekly Habit Around Close Date Review'. Target keyword: monday.com close date accuracy. Concrete example: a rep whose five deals all show close dates from the first week of the quarter — none updated since — and what that makes the forecast look like when the manager pulls it on day 45.",
-      "product": "crm-audit"
-    },
-    {
       "title": "The Minimum CRM Routine a 5-Person Team Can Actually Sustain",
       "angle": "small-team",
       "brief": "Small sales teams can't afford a dedicated ops function, so CRM hygiene either gets baked into existing habits or it doesn't happen at all. This post gives a minimum viable routine that keeps monday.com usable without adding admin overhead.",
@@ -15,5 +8,5 @@
       "product": "crm-audit"
     }
   ],
-  "last_updated": "2026-11-26T06:01:01.478Z"
+  "last_updated": "2026-11-27T06:01:03.258Z"
 }
