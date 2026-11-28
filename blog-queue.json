@@ -1,12 +1,4 @@
 {
-  "queue": [
-    {
-      "title": "The Minimum CRM Routine a 5-Person Team Can Actually Sustain",
-      "angle": "small-team",
-      "brief": "Small sales teams can't afford a dedicated ops function, so CRM hygiene either gets baked into existing habits or it doesn't happen at all. This post gives a minimum viable routine that keeps monday.com usable without adding admin overhead.",
-      "description": "H2s: 'What to Track When You Have No Ops Person', 'The Three Fields That Matter Most on a Small Team', 'The 10-Minute Friday Check That Catches 80% of Problems', 'What You Can Safely Ignore Until You're Bigger', 'How to Split Manager vs Rep Responsibilities Without Formalising It'. Target keyword: monday.com CRM for small sales teams. Concrete example: a five-person team that runs a single 10-minute end-of-week board review using three filters — owner, last activity, and deal value — and how that habit keeps the pipeline clean enough to trust.",
-      "product": "crm-audit"
-    }
-  ],
-  "last_updated": "2026-11-27T06:01:03.258Z"
+  "queue": [],
+  "last_updated": "2026-11-28T06:01:03.561Z"
 }
